@@ -1,0 +1,1027 @@
+original research
+published 05 april 2019
+doi 10.3389fphys.2019.00375
+edited by
+franois billaut
+laval university canada
+reviewed by
+sarah j. willis
+universit de lausanne switzerland
+ari nummela
+research institute for olympic sports
+finland
+laurent schmitt
+centre national de ski nordique et
+de moyenne montagne france
+correspondence
+guro strm solli
+guro.s.sollinord.no
+specialty section
+this article was submitted to
+exercise physiology
+a section of the journal
+frontiers in physiology
+received 12 january 2019
+accepted 18 march 2019
+published 05 april 2019
+citation
+solli gs tnnessen e and
+sandbakk  2019 block vs.
+traditional periodization of hit two
+different paths
+to success for the worlds best
+crosscountry skier.
+front. physiol. 10375.
+doi 10.3389fphys.2019.00375
+block vs. traditional periodization
+of hit two different paths to
+success for the worlds best
+crosscountry skier
+guro strm solli12 espen tnnessen3 and yvind sandbakk2
+1 department of sports science and physical education nord university bod norway 2 department of neuromedicine
+and movement science centre for elite sports research norwegian university of science and technology trondheim
+norway 3 kristiania university college oslo norway
+in shortterm studies block periodization of highintensity training hit has been shown
+to be an effective strategy that enhances performance and related physiological factors.
+however longterm studies and detailed investigations of macro meso and micro
+periodization of hit blocks in worldclass endurance athletes are currently lacking.
+in a recent study we showed that the worlds most successful crosscountry xc
+skier used two different periodization models with success throughout her career. one
+including extensive use of hit blocks namely bp and one using a traditional method
+namely trad. in this study we compare bp with trad in two comparable successful
+seasons and provide a detailed description of the annual use of hit blocks in bp. the
+participant is the mostdecorated winter olympian with 8 olympic gold medals 18
+world championship titles and 114 world cup victories. training data was categorized
+by training form endurance strength and speed intensity low lit moderate mit
+and hit and mode running cycling and skiingroller skiing. no signicant difference
+was found in the total endurance training load between bp and trad. however training
+volume in bp was lower compared to trad 15  6 vs. 18  7 hwk p  0.001 mainly
+explained by less lit 13  5 vs. 15  5 hwk p  0.004. lower volume of mit was also
+performed in bp compared to trad 13 vs. 38 sessionsyear whereas the amount of
+hit was higher in bp 157 vs. 77 sessionsyear. while bp included high amounts of hit
+already from the rst preparation period followed by a reduction toward the competition
+period trad had a progressive increase in hit toward the competition period. in bp
+the athlete performed seven hit blocks varying from 7 to 11 days each including 813
+hit sessions. this study provides novel insights into successful utilization of two different
+periodization models in the worlds best xc skier and illustrates the macro meso and
+micro periodization of hit blocks to increase the overall amount of hit.
+keywords endurance training training intensity intensity distribution periodization model block periodization
+traditional periodization
+frontiers in physiology  
+april 2019  volume 10  article 375
+solli et al.
+block vs. traditional periodization of hit
+introduction
+crosscountry xc skiing is regarded as one of the most
+demanding endurance sports with training and competition
+challenging every step of the oxygen transport chain. thus xc
+skiers training primarily targets the aerobic endurance capacity
+and the most common training model among xc skiers includes
+700850 h of endurance training distributed as 90 low lit
+45 as moderate mit and 58 as highintensity training
+hit sandbakk and holmberg 2017. although hit sessions
+normally make up only one to three of the weekly training
+sessions of xc skiers and many other endurance athletes or
+20 of the total annual number of sessions seiler 2010 stggl
+and sperlich 2015 they are keys in eliciting physiological and
+performance gains laursen and jenkins 2002 buchheit and
+laursen 2013ab. in fact it is argued that an increased volume
+andor frequency of hit would be benecial for the further
+development of elite endurance athletes laursen 2010.
+independent of the overall intensity distribution most studies
+report that the periodization of hit vs. mit and lit in xcskiing
+is achieved via the traditional periodization model matwejew
+1975 issurin 2008 tnnessen et al. 2014. utilization of this
+model is characterized by mixed focus on lit mit and hit
+in all periods but with a gradual progression from high training
+volume to higher training intensity reduced volume and training
+that is more specic as the competition period approaches.
+however the traditional periodization model has received
+criticism because of possible conicting physiological adaptations
+produced by the mixed training of many performancerelated
+factors simultaneously. as an alternative it has been argued that a
+more eective way of organizing endurance training is to include
+dened blocks of increased focus on specic intensities issurin
+2008 2010 2016 2018.
+in this context blocks of highly concentrated hit stimulus
+aims to induce a benecial metabolic impact and appropriate
+hormonal response to optimize the subsequent adaptations
+issurin 2018. while positive shortterm eects of using hit
+blocks to augment training responses have been shown breil
+et al. 2010 stren et al. 2012 wahl et al. 2013 clark et al.
+2014 rnnestad et al. 2017 only a small number of studies have
+compared block periodization of hit with evenly distributed
+hitmatched traditionalmodels. some of these studies reported
+superior improvements by using hit blocks among national
+level cyclists and xc skiers rnnestad et al. 2014ab 2016
+whereas a recent study of junior xc skiers reported no benecial
+eects of blocking compared to an evenly distribution of hit
+mcgawley et al. 2017. however these studies have compared
+the dierent periodization models by matching the overall
+hit stimulus whereas the use of block periodization of hit
+in a reallife context is often related to an increase in the
+overall hit stimulus.
+although one longterm study followed a national level
+male cyclist through 58 weeks of systematic blocking of lit
+mit and hit rnnestad and hansen 2018 most previous
+studies on block periodization of hit are limited by short
+intervention periods 412 weeks and none have examined
+endurance athletes at a worldclass level. furthermore there is
+a lack of detailed investigations into macro meso and micro
+periodization utilizing hit blocks and evidence on how this
+model is distinguished from the traditional model according to
+the organization of training across the annual cycle in worldclass
+endurance athletes.
+in a recent study we showed that the worlds most successful
+xc skier used two dierent periodization models with success
+throughout her career solli et al. 2017. one including extensive
+use of hit blocks namely bp and a traditional method namely
+trad. in this followup case study the main aims are to compare
+bp with trad in two comparably successful seasons in the
+worlds best xc skier and to provide a detailed description of her
+annual use of hit blocks. this will provide novel information on
+the macro meso and microorganization of lit mit and hit
+and generate new hypotheses for followup studies.
+materials and methods
+participant
+the participant is the mostdecorated winter olympian with 8
+olympic gold medals 18 world championship titles and 114
+world cup victories fis 2018. the study was evaluated by
+the regional ethics committee of midnorway and approved
+by the norwegian social science data services nsd. written
+informed consent was obtained from the participant for
+publication of this study which was performed according to the
+helsinki declarations.
+overall design
+this study builds on a previous longitudinal training study
+solli et al. 2017 identifying two training periodization models
+block and traditional periodization of hit in the skiers
+training patterns. here the detailed training content during one
+representative year using block periodization of hit bp 2005
+2006 season and one representative year using the traditional
+model trad 20142015. the years was selected based on
+three criteria 1 successful performance during the examined
+year she won world cup races in both sprint 0.81.3 km
+and distance 1030 km races in both seasons which led to
+victory in the sprint and overall world cup 2 equal endurance
+training load etl based on training impulse trimp and
+3 detailed information about the design of training sessions
+throughout the seasons.
+monitoring registration and
+systematization of training
+the participant recorded all training data in diaries designed
+by the norwegian ski association and the norwegian olympic
+federation to provide a valid and accurate measurement of
+training sylta et al. 2014. all training data was systematized
+by phases general preparation 1 and 2 gp1 and gp2 specic
+preparation sp and competition phase cp training form
+endurance strength and speed intensity lit mit and
+hit and specic skiingroller skiing vs. nonspecic running
+and cycling exercise modes. detailed information about the
+frontiers in physiology  
+april 2019  volume 10  article 375
+solli et al.
+block vs. traditional periodization of hit
+registration and systematization of training data division of
+training phases determination of intensity zones categorization
+of lit mit and hit sessions as well as the content of speed
+and strength sessions are previously described solli et al. 2017.
+illness days and periods was registered based on the participants
+systematic reporting in the training diaries. etl was calculated
+by multiplying the accumulated duration of the intensity by a
+multiplier for the particular intensity zone e.g. 1 min at lit
+mit and hit is given a score of 1 2 and 3 trimp respectively.
+total etl trimp score is then obtained by summating the
+results foster et al. 2001. the performance development
+throughout the season was investigated by comparing the average
+rank in international competitions world cup races and the
+worldolympic championships in the rst i.e. races before the
+major championships and the second phase i.e. races from the
+major championships and throughout the rest of the competitive
+season. since the average amount of mit and hit was 23
+sessions per week solli et al. 2017 the denition of a hitblock
+was set as 4 sessions of hit not including competitions over
+a 7 days period.
+interviews
+to gather additional information ensure compliance with the
+training diary commentaries and verify the training intensity
+of dierent training sessions both semistructured interviews
+and specic questions regarding the experience of the two
+periodization models were conducted with the participant
+and her coaches.
+statistical analyses
+all data from the investigated periods are presented as
+mean  standard deviation sd. variables with normal
+distribution were analyzed by using a pairedsample ttest for
+bp vs. trad. otherwise the wilcoxon signedrank test was
+used. all statistical tests were processed using ibm spss statistics
+version 24 software for windows spss inc. chicago il
+united states and oce excel 2016 microsoft corporation
+redmond wa united states.
+results
+comparisons of block and traditional
+periodization of hit
+total training volume and load
+no signicant dierence was found in the weekly etl between
+bp and trad 1058  368 vs. 1084  339 trimp. average
+weekly training volume was 15 lower in bp compared to
+trad table 1 p  0.001. total annual training volume was
+795 h distributed across 478 sessions in bp and 938 h over 538
+sessions in trad. the average weekly etl and volume across
+the dierent phases are presented in table 1 and figure 1a.
+the average rank in international competitions in the two
+investigated seasons was 4.2  4.4 2.95.6 in the rst and second
+phase respectively in bp vs. 2.8  5.8 1.4 5.8 in the rst and
+second phase respectively in trad. total annual days spent at
+altitude were 58 and 54 during bp and trad respectively. the
+same number 36 of days without training were found in bp and
+trad. the number of illness days was seven one period in cp
+in bp compared to nine one period in gp1 one period in gp2
+and one in cp in trad.
+distribution of training forms and exercise modes
+the training forms in bp were distributed as 746 h 94
+endurance 40 h 5 strength and 10 h 1 speed training
+compared to 836 h 89 endurance 86 h 9 strength and
+15 h 2 speed training in trad. weekly endurancetraining
+volume was 11 lower in bp compared to trad table 1
+p  0.019. the weekly strength training time was 54 lower in
+bp vs. trad table 1 p  0.001 this was present in all phases
+except cp. no dierence was found in maximal strength training
+between bp and trad but a much higher amount of general
+strength training 48 vs. 0.4 h was performed during trad. the
+weekly speed training time was 37 lower in bp compared to
+trad table 1 p  0.023. the distribution of training forms
+across phases is presented in figure 1b.
+the distribution of specicnonspecic exercise modes was
+approximately similar 6139 in bp and trad. no dierences
+between the weekly amount of specic vs. nonspecic training
+were found across the annual phases except for 65 higher
+volume of nonspecic exercise modes in cp during trad
+table 1 p  0.016.
+endurance training
+according to the time spent in each intensity zone the
+distribution of litmithit was 88111 in bp and 9244
+in trad. quantied in terms of the number of sessions this was
+61336 in bp and 76816 in trad.
+the volume of lit was 15 lower in bp than trad table 1
+p  0.004. further bp included 34 more lit time performed as
+warm up or cool down in connection with mit hit or strength
+sessions table 1 p  0.006 while 28 more of the lit volume
+in trad was performed as sessions 90 min table 1 p  0.002.
+the lit time and sessions across the dierent categories of
+duration in bp and trad are presented in figure 1c.
+a substantially lower number of mit sessions was performed
+in bp than trad 13 vs. 38 sessions. accordingly weekly mit
+time was 70 lower in bp than trad table 1 p  0.001.
+the annual number of hit sessions was much higher during bp
+157 vs. 77 sessions and weekly hit time was 121 higher in
+bp compared to trad table 1 p  0.001. the progression
+of mit and hit from gp1 to cp was dierent between bp and
+trad. while bp included high amounts of hit already in the
+beginning of the annual training cycle followed by a reduction
+toward cp trad had a progressive increase of hit toward cp.
+the distribution of mit and hit time and sessions across the
+annual phases is presented in figure 1d.
+detailed description of the use of hit
+blocks in bp
+overall training load and placement of hit blocks
+seven hit blocks with a duration of 711 days including
+813 hit sessions were performed during bp. a total of
+frontiers in physiology  
+april 2019  volume 10  article 375
+solli et al.
+block vs. traditional periodization of hit
+table 1  weekly training distribution mean  sd across the diffrent periodization phases in bp and trad for the worlds most successful female crosscountry skier.
+gp1
+gp2
+sp
+cp
+total
+bp
+trad
+bp
+trad
+bp
+trad
+bp
+trad
+bp
+trad
+training forms
+hours
+18.9  3.4
+21.3  5.1
+19.3  4.0
+22.1  4.7
+16.0  3.2
+19.1  3.0
+9.8  4.4
+13.6  6.0
+15.3  5.9
+18.0  6.7
+session
+10.8  1.1
+12.4  2.0
+10.6  1.2
+12.1  1.0
+9.8  1.7
+12.6  1.3
+7.3  3.3
+11.0  2.9
+9.2  2.8
+11.6  2.3
+training forms
+endurance h
+17.6  3.2
+18.5  4.6
+17.9  3.8
+19.2  3.9
+15.1  2.9
+17.2  2.6
+9.3  4.1
+12.8  4.9
+14.4  5.3
+16.1  5.5
+strength h
+1.1  0.5
+2.3  0.8
+1.1  0.5
+2.4  1.1
+0.8  0.3
+1.7  0.8
+0.3  0.4
+0.7  1.3
+0.8  0.6
+1.7  1.2
+speed h
+0.2  0.2
+0.5  0.4
+0.3  0.4
+0.5  0.3
+0.1  0.2
+0.2  0.2
+0.2  0.2
+0.1  0.1
+0.2  0.2
+0.3  0.3
+exercise modes
+specic h
+8.2  2.6
+9.9  6.1
+8.5  4.2
+9.7  3.9
+11.7  3.0
+12.7  2.8
+8.8  3.8
+10.8  4.5
+8.8  3.7
+10.0  4.9
+nonspecic h
+9.6  3.3
+9.1  3.0
+9.7  3.4
+10.0  2.8
+3.6  3.3
+4.7  2.5
+0.7  0.6
+2.0  1.9
+5.7  4.9
+6.3  4.1
+speunspe 
+4654
+5248
+4753
+4951
+7723
+7327
+928
+8416
+6139
+6139
+endurance training time
+load trimpwk
+1303  183
+1213  282
+1293  124
+1292  202
+1118  207
+1158  148
+712  342
+893  302
+1058  368
+1084  339
+lit h
+15.4  4.1
+17.2  4.4
+15.9  4.6
+17.6  4.2
+13.3  2.7
+15.8  2.5
+8.0  3.4
+11.6  4.7
+12.6  5.2
+14.8  5.3
+mit h
+0.3  0.4
+0.9  0.6
+0.3  0.3
+0.8  0.7
+0.1  0.2
+0.7  0.6
+0.04  0.2
+0.2  0.3
+0.2  0.3
+0.6  0.6
+hit h
+1.9  1.5
+0.4  0.5
+1.7  1.1
+0.8  0.6
+1.7  0.5
+0.7  0.3
+1.2  1.0
+1.0  0.6
+1.6  1.2
+0.7  0.6
+litmithit 
+87211
+9352
+8929
+9244
+88011
+9244
+86013
+9127
+88111
+9244
+endurance training sessions
+lit sessions
+5.4  3.3
+7.2  1.8
+5.5  3.1
+7.5  1.7
+5.1  1.5
+7.3  1.5
+4.4  2.3
+7.2  3.2
+5.0  2.6
+7.0  2.4
+mit sessions
+0.4  0.5
+1.0  0.7
+0.5  0.5
+0.8  0.7
+0.1  0.3
+0.9  0.9
+0.1  0.3
+0.4  0.5
+0.3  0.4
+0.7  0.7
+hit sessions
+3.8  3.0
+0.8  0.9
+3.3  2.3
+1.5  1.1
+3.6  1.0
+1.9  0.9
+2.3  1.5
+2.1  1.5
+3.0  2.2
+1.5  1.2
+litmithit 
+56440
+80119
+61534
+76916
+58141
+73919
+66133
+74422
+61336
+76816
+categorization of low intensity training
+warm up  cool down h
+4.6  3.1
+2.8  0.5
+4.6  2.0
+2.6  1.1
+4.8  1.0
+4.2  1.2
+3.0  2.0
+3.0  1.9
+3.9  2.4
+2.9  1.4
+50 min h
+0.0  0.0
+0.1  0.2
+0.1  0.4
+0.1  0.3
+0.3  0.5
+0.8  0.9
+0.8  0.8
+1.3  1.5
+0.3  0.6
+0.5  1.0
+5090 min h
+1.2  1.3
+1.0  1.6
+0.8  0.8
+1.5  1.2
+1.3  1.7
+1.5  1.4
+1.6  1.3
+1.9  1.0
+1.2  1.2
+1.4  1.3
+90150 min h
+6.4  3.7
+8.5  4.0
+6.7  4.6
+8.1  3.0
+5.7  3.0
+6.4  2.9
+2.5  2.8
+4.1  3.9
+5.2  3.8
+6.5  3.9
+150 min h
+3.3  3.0
+4.9  3.4
+3.7  3.6
+5.3  4.6
+1.3  2.0
+2.9  5.0
+0.2  0.7
+1.8  2.5
+2.0  2.9
+3.5  4.0
+gp1 general preparation period 1 gp2 general preparation period 2 sp specic preparation period cp competition period spe specic exercise mode unspe nonspecic exercise mode lit low intensity
+training mit moderate intensity training hit high intensity training. signicantly different from bp p  0.05.
+frontiers in physiology  
+april 2019  volume 10  article 375
+solli et al.
+block vs. traditional periodization of hit
+figure 1  the distribution of the total training volume and endurance training load a intensity distribution b low lit c moderate mit and highintensity
+training hit d across the annual cycle total and the different phases general preparation gp specic preparation sp and competition phase cp in the
+season using block periodization of hit bp and the season using traditional periodization trad.
+frontiers in physiology  
+april 2019  volume 10  article 375
+solli et al.
+block vs. traditional periodization of hit
+table 2  detailed description of the training performed during 7 days of one representative hit block in bp and one highload week in trad.
+training content
+block periodization
+traditional periodization
+am 2 h lit running on varying terrain
+am 2.5 h lit classic on varied terrain including sprints
+pm 5  4 min hit classic roller skiing uphill terrain
+pm warmup 30 min  1 h general and maximal strength training
+am 54545 min hit running with poles uphill terrain
+pm 6  4 min hit double poling at terrain
+am 5  7 min mit skating on varied terrain
+pm 1.5 h lit running on varied terrain
+am 5  4 min hit skating roller skiing uphill terrain
+am 3 h lit 5050 running and classic on varying terrain
+pm warmup 30 min  45 min maximal strength training
+pm 2 h lit skating on varied terrain including sprints
+am 4  6 min hit roller skiing alternating between classic and skating uphill
+terrain
+am 2 h lit running on varying terrain
+pm rest
+pm warmup 30 min  1.5 h general and maximal strength training
+am 54545 min hit running at terrain
+am 2.5 h lit classic on varying terrain
+pm 5  4 min hit skating roller skiing uphill terrain
+pm 1.5 h lit running on varied terrain including jumps and sprints
+am 54345 min hit running with poles uphill terrain
+am 65444 min hit running with poles uphill terrain
+pm rest
+pm 1.5 h lit skating on varied terrain
+pm 6  4 min hit double poling at terrainpm rest
+am 2 h lit running on varying terrain pm 2 h lit classic on at terrain
+total
+
+lit sessionshours 111.5
+
+mit sessionshours 00
+
+hit sessionshours 94.5
+
+strength sessionshours 10.75
+
+speed sessionshours 00
+
+total sessionshours 1116.8
+
+endurance training load trimp 1536
+
+distribution of time  litmithit 72028
+
+distribution of sessions  litmithit 10090
+
+lit sessionshours 1022.8
+
+mit sessionshours 10.75
+
+hit sessionshours 10.6
+
+strength sessionshours 22.5
+
+speed sessionshours 30.75
+
+total sessionsh 1427.4
+
+endurance training load trimp 1563
+
+distribution of time  litmithit 9433
+
+distribution of sessions litmithit 8388
+lit lowintensity training heart rate 87 max mit moderateintensity training heart rate 8792 max hit highintensity training heart rate 92 max. mit and hit
+sessions normally included 3045 min of lit as warm up and 1530 min lit as cooldown.
+35.6 h hit was performed during hit blocks representing
+45 of annual hit volume. weekly etl during hit blocks
+was 1366  68 trimp minmax 12541446 trimp. the
+average time between hit blocks was 27  12 days 1548 days.
+the placement of hit blocks and the weekly training content
+across the annual phases in bp compared to trad is presented
+in figures 2ab.
+distribution of training forms and intensity
+total training volume during hit blocks was 16.2  1.3 hwk
+performed across 10.8  0.4 sessionswk. this included
+15.1  1.1 hwk 93 endurance training and 1.1  0.4 hwk
+7 strength training. only 0.3 h of speed training was
+performed
+during
+one
+of
+the
+hit
+blocks.
+endurance
+training time was distributed into 11.1  1.4 hwk lit
+0.2  0.3 hwk mit and 3.8  0.5 hwk hit which gives
+a
+time
+in
+zone
+distribution
+of
+74126
+litmithit.
+weekly
+endurance
+training
+sessions
+were
+distributed
+as 1.3  1.0 lit 0.2  0.3 mit and 7.7  0.9 hit
+which gives a session in zone distribution of 14284
+litmithit. the total number and duration of lit mit
+and hit sessions performed in bp and trad are presented
+in figures 3ab.
+exercise modes and design of sessions
+the 75 hit 73 sessions and mit 2 sessions sessions
+were distributed as 29 running 17 running with poles
+as well as 8 double poling 22 skating and 24 classic
+on snow or roller skiing. eightyseven percent of hit
+sessions were performed as intervals with working periods
+of 47 min 10 performed as continuous sessions and
+3 performed as intervals  4 min. the most typical
+hit session was 5  4 min with 23 min recovery
+between working periods see typical examples of sessions
+in table 2.
+the interviews revealed that the participant was very
+deliberate when performing hit sessions during hit blocks.
+this included a slow progression in workload allowing heart
+rate hr to gradually reach the target hr zone 92 of
+hrmax keeping the pace steady when target hr was reached.
+a detailed description of the training performed in one highload
+week during trad compared to 7 days of one representative
+hitblock is presented in table 2.
+training between hit blocks
+the average etl between the hit blocks was 1259 1249
+and 1087 trimpwk during gp1 gp2 and sp respectively.
+total training volume was 20 hwk during gp12 and
+16 hwk in sp with the weekly average of hit being 1 h
+and 2 sessions. according to training time the intensity
+distribution of litmithit was 9316 and this was
+81316 relative to the number of sessions. no hit blocks were
+performed in cp.
+the average etl during the 7 days after each hit block
+was 1198 trimp with an average training volume of 19.7 hwk
+including 7 lit sessions 12 mithit sessions and 12
+strength sessions.
+frontiers in physiology  
+april 2019  volume 10  article 375
+solli et al.
+block vs. traditional periodization of hit
+figure 2  the placement of highintensity training blocks and the weekly training sessions distributed into endurance training low lit moderate mit
+highintensity hit and strength training across the annual cycle using block periodization of hit bp a and the season using traditional periodization trad b.
+the competition phase includes many short duration lit sessions i.e. morning jogs or restitution sessions before and after competitions. week 39 in bp
+contains no training since the participant was sick.
+figure 3  the duration of low lit moderate mit and highintensity hit sessions performed across the annual cycle using block periodization of hit bp a
+and the season using traditional periodization trad b. lit sessions with a duration  1 h is not included in the gures.
+frontiers in physiology  
+april 2019  volume 10  article 375
+solli et al.
+block vs. traditional periodization of hit
+discussion
+in this study we compared the use of block and traditional
+periodization of hit in two comparable successful seasons of
+the worlds best xc skier and provided a detailed description of
+macro meso and microorganization of hit blocks across an
+annual cycle. despite equal etl in bp and trad a signicantly
+higher training volume was found in trad mainly due to
+longer duration of lit sessions and more mit. in contrast
+twice as many hitsessions were performed during bp. the
+progression and distribution of hit also diered between the
+2 years trad included a progressive increase in hit toward
+cp whereas bp included high amounts of hit already in gp1
+followed by a reduction toward cp. during bp the athlete
+performed seven major hit blocks varying from 7 to 11 days
+with each including 813 hit sessions. this contrasts with
+the organization of hit in trad in which only half the
+number of hit sessions were performed evenly distributed as
+13 sessionwk.
+comparisons of block and traditional
+periodization of hit
+this is the rst study comparing successful utilization of block
+and traditional periodization of hit in a worldclass endurance
+athlete where hit blocks were used to signicantly increase the
+amount of hit. in this case the total etl did not dier between
+the two investigated years allowing for a valid comparison of
+the athletes macro meso and microorganization of training
+volume intensity distribution content as well as the design of
+training sessions.
+a higher endurance training volume was found in trad
+which
+was
+primarilly
+explained
+by
+more
+lit
+15
+vs.
+13 hwk including longer duration lit sessions 5 vs. 3
+sessionswk  90 min. more frequent exposure to longer
+duration lit sessions in trad might have induced a positive
+longterm physiological adaptation that has also been highlighted
+in previous studies seiler 2010. in bp lit was still a
+large proportion of the overall endurance training volume
+but much of the lit was performed as shorter bouts of
+warm up or cool down in connection with hit sessions.
+whether the total volume of lit independent of type of
+sessions vs. a high volume due to longer duration lit
+sessions plays a role for the endurance adaptations is currently
+not known. as a compensation for the lower amount of
+lit as well as less mit 13 vs. 38 sessions in bp than
+trad substantially more hit training was performed 157
+vs. 77 sessions resulting in similar etl across these two
+periodization models.
+according to the time spent in each intensity zone the
+distribution of litmithit time was 9244 in trad
+and 88111 in bp demonstrating a higher proportion of
+hit in bp than previously reported in xc skiers tnnessen
+et al. 2014 sandbakk et al. 2016 sandbakk and holmberg
+2017. quantied in terms of the number of sessions the
+intensity distribution in bp is further distinguished from
+trad and previous studies on xc skiing. in fact the
+number of sessions at each intensity level shows a polarized
+distribution of 61336 for litmithit in bp. this number
+of hit sessions in combination with the large annual training
+volume 800 h is among the highest amount of hit
+ever reported for elite endurance athletes in the scientic
+literature stggl and sperlich 2015. this contrasts with the
+session distribution of 76816 litmithit observed in
+trad and diers substantially from the 20 distribution of
+hitsessions previously observed in elite endurance athletes
+seiler 2010.
+the major portion of hit sessions in bp were performed as
+interval sessions with relatively short work duration typically
+5  4 min  92 of hfmax while more of the longer
+duration mit sessions typically 5  78 min  8792 were
+employed in trad. physiological adaptations depend on both
+intensity and accumulated duration of training. for example
+accumulating 3045 min at 90 hrmax twice per week has
+been found to be more eective than accumulating 1520 min
+at 95 hrmax sandbakk et al. 2013 seiler et al. 2013. this
+indicates that in our athlete who performed mit sessions at
+around 90 of hrmax the eects of the higher number of hit
+sessions in bp could have been compensated for by a higher
+number of longduration mit sessions in trad.
+we
+found
+opposite
+patterns
+in
+the
+distribution
+and
+progression of mit and hit across the phases of the
+training year in the two periodization models. in bp the
+amount of hit was already high in gp1 1.9 hwk with
+a small reduction in sp 1.7 hwk and a further reduction
+in cp 1.3 hwk. there was also a tendency for the
+hit blocks to become shorter with fewer hit sessions
+toward cp. in contrast the amount of hit was lowest
+in gp1 0.4 hwk in trad then increased toward cp
+1.2 hwk whereas the amount of mit showed the opposite
+pattern. thus trad represents a gradual change to a more
+polarized distribution with increased amounts of hit closer
+to the desired peak performance. this is consistent with
+previous observations in world class xc skiers and orienteers
+tnnessen et al. 2014 2015.
+the dierent progression in hit clearly represents diverse
+training philosophies. interviews with the participant and her
+coaches indicate that the hit blocks were aimed at enhancing
+vo2max early in the preparation phase. this in order to facilitate
+higher training velocities throughout gp and sp and thereby be
+at a higher performance level as the cp approached. this is in
+contrast to trad in which high volumes of lit during gp are
+believed to provide an aerobic platform on which to build specic
+adaptations in response to increased hit and optimization of
+performance toward cp laursen 2010.
+despite clearly dierent volumes and organization of hit
+we found no dierence in the performance development from
+the rst to the second phase of the competition season
+within bp compared to trad. however a limitation of our
+comparison of performance in bp vs. trad is that the
+traditional model was utilized later in the athletes career when
+she was more experienced and that the competition program
+in xcskiing changed during the investigated period. further
+studies are therefore needed to investigate performance outcomes
+frontiers in physiology  
+april 2019  volume 10  article 375
+solli et al.
+block vs. traditional periodization of hit
+of dierent hitprogression across the general and specic
+preparation phases.
+detailed description of the use of hit
+blocks in bp
+the present study is the rst to give detailed insights into
+successful use of hit blocks across an annual cycle in a world
+class endurance athlete. of the 157 hit sessions performed in bp
+73 sessions were organized during the hit blocks representing
+45 of annual hit volume and sessions. specically seven hit
+blocks with a duration of 711 days including 813 hit sessions
+were performed from gp1 to sp. with such a high density of hit
+sessions a challenge is the short recovery time and a subsequent
+risk of accumulation of fatigue from sessions targeting the same
+systems. this challenge was indeed the case for our participant
+where the average frequency of hit sessions was 8 sessions over
+a 7 days period with 13 days that included two hit sessions
+performed on the same day. although gradual fatigue over the
+period was sometimes the case interviews with the participant
+indicate that she was mostly able to maintain a relatively high
+training quality throughout the hit blocks including when two
+hit sessions were performed on the same day. in contrast yeo
+et al. 2008 reported the power output produced by endurance
+trained athletes to be lower during a second session of hit
+performed on the same day compared to a separate day. reduced
+hr during maximal exercise has also been demonstrated in
+competitive cyclists following a period of training predominantly
+consisting of hit jeukendrup et al. 1992. however in the
+study by mcgawley et al. 2017 the authors found no dierence
+in either time in hr zones or distance covered resulting from
+performing nine vs. three hit sessions a week.
+an important point in this context is that xc skiers
+alternate between several exercise modes in their training.
+during hit blocks the participant utilized ve dierent exercise
+modes including specic classic and skating technique on
+skis or rollerskis semispecic double poling or running
+with poles and nonspecic running exercise modes. this
+micro periodization of dierent exercise modes with dierential
+loading of the upper and lower body is likely very important
+in maintaining the quality of sessions as well as avoiding
+muscular fatigue throughout the hit blocks. furthermore
+both the participant and her coaches reported that the
+hit sessions during blocks were closely supervised with a
+focus on a progressive increase in speed from the start of
+the sessions allowing hr to gradually approach the target
+intensity zone without increasing the velocity further when
+target hr 92 of hrmax was reached. her coaches
+stated that after completing the last interval of a hit
+session the athlete should potentially be able to perform one
+additional interval at approximately the same pace. this precise
+steering of intensity is critical and diers from studies that
+investigate hit protocols when performing hit sessions at
+the maximum sustainable intensity during all interval bouts
+socalled isoeort matching sylta et al. 2016. in the current
+case the precise steering of intensity during hit sessions likely
+contributed to a reduced recovery time thereby increasing
+the participants ability to perform the high frequency of
+hit sessions at high quality and tolerate the overall training
+load during blocks.
+only a minor dierence in the number of illness days or
+periods was found between bp and trad in our study. however
+intensied training or frequent competitions have previously
+been associated with negative changes in immunological variables
+and more illness incidents tiollier et al. 2005 papacosta and
+nassis 2011 li et al. 2012 svendsen et al. 2015 2016. another
+concern regarding the use of hit blocks is the reduction in
+wellbeing and increased stress levels jeukendrup et al. 1992
+halson et al. 2002 jurimae et al. 2004 coutts et al. 2007.
+therefore the high stress induced by hit blocks might increase
+the risk of longterm performance decline overtraining or
+nonfunctional overreaching when stress and recovery is not
+suciently balanced meeusen et al. 2013. to prevent this our
+participant had a reduction in training load after each hit block
+and clearly reduced the amount of hit sessions between blocks.
+we speculate that this was the main reason for the low number of
+sickness days as well as her high motivation for training in both
+seasons analyzed.
+the participant had progressively increased her training
+load since junior level and was in a highly trained state
+when she started the relatively extreme use of hit blocks
+presented here solli et al. 2017. this as well as her
+balanced microperiodization of hit blocks made her able to
+tolerate high loads of hit increasing her performance rapidly
+during the rst 23 years utilizing this periodization model.
+however it should be noted that her performance stagnated
+during the following years. in retrospect both the participant
+and her coaches agree that block periodization of hit was
+eective during the rst seasons 20042006 but that they
+subsequently should have changed the training to focus more
+on maintaining the increased capacity and targeting other
+performancerelated factors. this coincides with the participants
+next major performance improvement in 2010 solli et al.
+2017 including a change to a traditional model presented
+in the current study. therefore it could be stated that block
+periodization of hit is eective in inducing rapid performance
+improvements but has some limitations and risks in respect to
+longterm utilization.
+limitations
+the main limitation of this study is that bp and trad were
+carried out with almost 10 years between them so that eects
+of training history might dier between the two periodization
+models examined for this specic athlete. although the etl
+was similar in the two investigated years dierences in content
+intensity distribution duration and frequency of sessions clearly
+diered. when interpreting our results it is hence important
+to be aware of the integrated eects of both inclusion of hit
+blocks and dierences in overall training content. in addition
+the development of xcskiing and changes in the competition
+program makes it dicult to directly compare the performance
+development throughout the investigated years. unfortunately
+no test data was available for bp that could have allowed more
+detailed analyses of the development of performance indicators
+frontiers in physiology  
+april 2019  volume 10  article 375
+solli et al.
+block vs. traditional periodization of hit
+throughout the annual cycle. furthermore the main focus in
+this study was to compare the training organization and content
+between bp and trad and other components important for
+the training outcome such as physical characteristics abilities
+mentality lifestyle and nutrition are not discussed here. still this
+study provides unique insights into how relatively extreme hit
+blocks are managed in a worldclass athlete and how this diers
+for the same athlete using a traditional model.
+practical applications
+this study shows that block periodization of hit was successfully
+utilized in a world class xcskier. in particular we highlight
+the importance of balanced microperiodization during hit
+blocks by utilizing dierent exercise modes careful steering
+of intensity and reductions in the training load and amount
+of hit after each block. in addition the periodization model
+must be adjusted to the athletes training status and the risk of
+negative overreaching and stress on the immunological system
+must be considered. however the participant also achieved
+substantial success using a traditional model which might
+be considered a safer model. we hope that our study can
+highlight the importance of tailoring training to each individual
+athlete based on training history and other factors inuencing
+adaptation to training.
+conclusion
+this study provides novel insights into successful utilization of
+two dierent periodization models by the worldleading xc skier
+of our time. despite similar etl a higher training volume due to
+more mit and long duration lit sessions was found in trad.
+in contrast twice as many hitsessions were performed in bp
+which is among the highest volumes of hit ever reported for
+elite endurance athletes. this high hit volume was achieved by
+organizing 45 of the annual hit sessions across seven hit
+blocks varying from 7 to 11 days with each block including 813
+hit sessions. the progression and distribution of hit diered
+clearly between periodization models bp included high amounts
+of hit already from the rst preparation period followed
+by a reduction toward cp while trad had a progressive
+increase in hit toward the cp. altogether this study illustrates
+two successful ways of periodizing endurance training in a
+world class athlete.
+ethics statement
+the study was evaluated by the regional ethics committee of mid
+norway and approved by the norwegian social science data
+services nsd. written informed consent was obtained from the
+participant for publication of this study which was performed
+according to the helsinki declarations.
+author contributions
+gs performed data collection and performed data and statistical
+analysis. gs et and s designed the study contributed to
+interpretation of the results wrote the draft manuscript and
+contributed to the nal manuscript.
+acknowledgments
+we sincerely thank marit bjrgen and her coaches svein tore
+samdal and egil kristiansen for their valuable cooperation and
+participation in this study.

@@ -1,0 +1,980 @@
+road to tokyo 2020 olympic games
+training characteristics of a world
+class male triathlete
+roberto cejuela and sergio sellsprez
+physical education and sports faculty of education university of alicante alicante spain
+there is a growing interest in the scientic literature for reporting topclass endurance
+athletes training programs. this case study reports on the training program of a world
+class male triathlete preparing to compete in the tokyo 2020 olympic games. a
+macrocycle of 43 weeks is presented. the triathlete performed 14.74  3.01 h of
+weekly endurance training volume. training intensity distribution tid was 81.93 
+6.747.16  2.0310.91  6.90 for zones 1 low intensity vt1 2 moderate
+intensity vt1vt2 and 3 high intensity vt2 respectively. pyramidal tid model is
+observed during the initial stages of the periodization and polarized tid model is observed
+at the end of the macrocycle. the triathletes peak vo2 was increased by 20 on cycling
+and by 14 on running. peak power was increased by 3.13 on cycling test and peak
+speed by 9.71 on running test. finally the triathlete placed 12th in olympic distance and
+10th in mixed relay in tokyo 2020 olympic games.
+keywords triathlon training load ecos training periodization endurance training
+introduction
+the summer olympic games are organized every 4 years with a great socioeconomic impact since
+they have an audience of more than three billion viewers around the world yan 2020. triathlon is
+an endurance sport that combines swimming road cycling and distance running performed in that
+order itu 2021. this sport has been part of the olympic program since sydney 2000 with the
+olympic distance discipline 1.5 km swimming 40 km cycling and 10 km running. tokyo 2020 has
+been the rst edition to include the mixed relay format where the four members of each participating team
+i.e two women and two men each complete a full super sprint distance triathlon 0.3 km swimming 8 km
+cycling and 2 km running. 55 triathletes participated in the olympic distance of the tokyo 2020 olympic
+games previously qualied according to different criteria 2 years before the event. a maximum of three
+triathletes from the same country can take part in the individual event in both male and female categories.
+regarding to the mixed relay race a total of 18 teams took part in the premiere of this modality in the
+olympic games itu 2021. besides tokyo 2020 olympic games were considered particularly hard due to
+the extreme weather conditions. meteorological data indicated that weather condition were both hot
+2628c and humid 8789 during the triathlon races. such conditions affect the endurance
+performance and increase the risk of exertional heat illness racinais et al. 2015a.
+there is a growing interest in the scientic literature for reporting topclass endurance athletes
+successful programs ingham et al. 2012 tnnessen et al. 2014 rnnestad and hansen 2018 tjelta
+2019 haugen et al. 2021 kenneally et al. 2021. variables such as a total training volume exercise
+intensity and training intensity distribution tid have been commonly analyzed in this kind of
+researches. tid is dened as the time of the exercise that an athlete spends at the three different zones of
+edited by
+beat knechtle
+university of zurich switzerland
+reviewed by
+romuald lepers
+universit de bourgogne france
+arkadiusz stanula
+jerzy kukuczka academy of physical
+education in katowice poland
+darren warburton
+university of british columbia canada
+mikhail shestakov
+federal science center for physical
+culture and sport russia
+norihiro shima
+tokai gakuen university japan
+thiago santos rosa
+catholic university of brasilia ucb
+brazil
+correspondence
+roberto cejuela
+roberto.cejuelaua.es
+specialty section
+this article was submitted to
+exercise physiology
+a section of the journal
+frontiers in physiology
+received 14 december 2021
+accepted 14 march 2022
+published 20 april 2022
+citation
+cejuela r and sellsprez s 2022
+road to tokyo 2020 olympic games
+training characteristics of a world
+class male triathlete.
+front. physiol. 13835705.
+doi 10.3389fphys.2022.835705
+frontiers in physiology  
+april 2022  volume 13  article 835705
+original research
+published 20 april 2022
+doi 10.3389fphys.2022.835705
+training intensity stggl and sperlich 2014 zone 1 at or below
+the rst ventilatory threshold vt1 zone 2 between rst and
+second ventilatory threshold vt1vt2 zone 3 at or beyond the
+second ventilatory threshold vt2 skinner and mclellan
+1980. polarized model which is based on a high percentage of
+time at zone 1 and greater percentages at zone 3 than at zone 2 has
+been presented as the optimal model of tid to enhance the
+performance of endurance athletes seiler and kjerland 2006
+neal et al. 2013 stggl and sperlich 2014. however not all
+ndings on polarized tid point to its superiority treff et al.
+2017. besides other tid models as threshold or pyramidal which
+accumulate a greater percentage of time at zone 2 than polarized
+model has also been presented as effective plews and laursen
+2017 sellesperez et al. 2019 gonzlezrav et al. 2021. on the
+other hand fewer studies analyze training load using specic
+training load quantication methods for endurance sports
+estevelanao et al. 2017 sellesperez et al. 2019.
+physiological proles of elite endurance athletes have been also
+reported in several research ingham et al. 2012 bell et al. 2017.
+vo2max ventilatory thresholds as well as power or speed at which
+these variables occur these have been common parameters used by
+coaches to assess tness levels and prescribe training plans. even more
+it is particularly interesting to describe the dynamics of these variables
+along the macrocycle legaz arrese et al. 2005 legaz and eston 2005
+sellsprez et al. 2019.
+there are limited reports about training characteristics and
+physiological performance of toplevel triathletes millet and
+vleck 2000 millet et al. 2003. mujika 2014 described
+training characteristics of a female triathlete in her preparation
+to the london 2012 olympic games. later this author presented
+the physiological prole and the training plan for a world
+champion male paratriathlete mujika et al. 2015. however to
+the best of our knowledge no case report has been published of
+world class male triathlete preparing for the olympic games. thus
+the aim of this case study is to describe the training characteristics
+and the physiological prole of a worldclass male triathlete who
+participated in both the olympic distance event and the mixed
+relay event at the tokyo 2020 olympic games.
+materials and methods
+characteristics of the triathlete
+this case study received the authorization from the alicante
+university ethics committee ua20170411 expedient. written
+consent was obtained from a 29 yearsold male triathlete who has
+competed in world triathlon series since 2012 obtaining 20 podiums
+and four victories in international triathlon union itu races. he
+nished in fourth position of the world triathlon series wts
+ranking in 2019 obtaining the qualication for the tokyo 2020
+olympic games. he also competed in rio 2016 where he placed 18th.
+physiological testing anthropometric
+measures and training zone settings
+swimming test were performed on a 25 m homologated
+swimming
+pool
+through
+an
+incremental
+multistage
+test
+consisting
+of
+seven
+repetitions
+of
+200 m
+every
+5 min
+sweetenham and atkinson 2003 muoz et al. 2014. the
+rst repetition of the protocol was 20 s slower than his
+personal best in 200 m registered the previous week in a
+training session and then every repetition was 4 s faster until
+the sixth and for the seventh repetition the triathlete was told to
+perform to swim as fast as possible. blood lactate bla mmoll
+samples from the ear lobe were analyzed with a portable lactate
+analyzer lactate scout 4 ekf diagnostics germany. the
+criteria to determine training zones were follows in swimming a
+blood lactate 0.5 mmoll increase for rst lactate threshold lt1
+1 mmoll increase for second lactate threshold lt2 and
+89 mmoll for maximal aerobic speed mas beneke 2003
+jamnick et al. 2020.
+incremental tests of volitional exhaustion were used to
+determine training zones in cycling and running. a ramp
+protocol was used for cycling on a roller cycleops the
+hammer united states starting at 150 w and increasing 5 w
+each 12 s muoz et al. 2014. the triathlete used his own bike
+bh aerolight spain and his power meter rotor
+2inpower road spain to perform the test. the cycling tests
+were performed in the same room with the same temperature
+20c. the running test was performed on a 400 m homologated
+track university of alicante facilities. the triathlete started at
+13.9 kmh and increased 0.3 kmh every 200 m brue 1985. the
+triathlete uses the same running shoes in both test asics
+metaspeed edge japan. weather conditions were a temperature
+of 19c and a wind of 7.5 kmh for the rst running test while
+they were a temperature of 15c and a wind of 5.4 kmh for the
+second test.
+running and cycling tests were conducted using a portable
+gasexchange analyzer cosmed k4b 2 italy. the following
+variables were measured during the test oxygen uptake  vo2
+pulmonary ventilation  ve ventilatory equivalent for oxygen
+ve vo2 ventilatory equivalent for carbon dioxide  ve vco2
+and endtidal partial pressure of oxygen peto2 and carbon
+dioxide petco2. maximal oxygen uptake vo2max was
+recorded
+as
+the
+highest
+vo2
+value
+obtained
+for
+any
+continuous 1 min period. the rst ventilatory threshold vt1
+was determined using the criteria of an increase in both ve vo2
+and peto2 with no increase in ve vco2 whereas the second
+ventilatory threshold vt2 was determined using the criteria of
+an increase in both vevo2 and ve vco2 and a decrease in
+petco2. two independent observers identied vt1 and vt2.
+heart rate hr was continuously monitored during the test
+using a heart rate meter suunto spartan finland. later a
+range of hr and power or velocity for each training zone was
+established. eight training zones were calculated to be more
+precise prescribing the intensity of the training sessions. these
+training zones reported both internal load hr and external load
+speed or power data cejuela and estevelanao 2011 2020.
+besides a rpe scale 110 was related to these training zones.
+additionally the skinner and mclellan triphasic model with
+three training zones was followed to present tid and training
+load distribution tld data.
+anthropometric measurements were performed following
+standard protocols adopted by the international society for the
+frontiers in physiology  
+april 2022  volume 13  article 835705
+cejuela and sellsprez
+road to tokyo 2020 triathlon
+advancement on kinanthropometry isak ross and marfell
+jones 1991 by the same researcher with isak certication level
+3. all measurements were taken on the day of the cycling test
+under basal conditions in the same room with the same
+temperature 22c. height and body mass were measured on
+portable set scales models 213 and 707 seca deutschland to
+the nearest 0.1 cm and 0.01 kg respectively. the thickness of six
+skinfolds subscapular triceps supraspinale abdominal front
+thigh and medial calf were measured using a caliper calibrated to
+the nearest 0.2 mm holtain united kingdom. four girths
+relaxed arm exed arm thigh and calf were performed using
+exible anthropometric steel tape holtain united kingdom.
+the sum of skinfolds was calculated as well as muscular mass was
+determined using the method of lee et al. 2000.
+control of the training load
+cycling power data were measured using a power meter located
+on the crank rotor 2inpower road spain. the triathlete
+recorded all cycling and running training sessions with his hr
+monitor suunto spartan finland and after the data were
+uploaded
+to
+a
+specic
+data
+analysis
+software
+trainingpeakswko5 united states. hr and rpe were
+used mainly for low intensity workouts in running and
+cycling. speed and power were also used to control moderate
+and high intensity workouts in running and cycling. rpe and the
+medium pace for 100 m were used to control swimming
+workouts considering the different training zones obtained in
+the swimming lactate test. besides the triathlete was lling
+personal training logs with the information recorded regarding
+the amount of time spent in each training zone and with other
+subjective information such as hours of sleep and with the
+subjective load scale ecss in spanish from 0 to 5 cejuela
+and estevelanao 2011 cejuela and estevelanao 2020.
+execution speed was controlled in strength training using a
+linear encoder vitruve spain. most of the training
+workouts was supervised by the coach of the triathlete rc or
+an assistant coach ss or at.
+the objective load scale ecos in spanish training load
+quantication method was applied cejuela and estevelanao
+2011 cejuela and estevelanao 2020. briey the ecos were
+calculated by multiplying the time minutes that the triathlete
+spends in every training zone 18 during the workout by a
+scoring value between 1 and 50 depending on the training zone
+and by a specic factor of 1.0 0.75 or 0.5 for running swimming or
+cycling respectively. this methodology seems the most appropriate for
+triathlon because it compares different endurance activities attending
+the different degrees of muscle damage energy cost effort densities
+and differences at the ability of maintaining technique in the three
+segments cejuela and estevelanao 2011 cejuela and estevelanao
+2020. a specic software all in your mind training system
+mexico was used to calculate the ecos throughout the training plan.
+main characteristics of the training period
+the triathlete trained with the same methodology in the 2019 and
+2020 seasons. the goal was competing in the wts in 2019 where
+he ranked fourth. due to covid19 there were no wts in 2020.
+this season he was spanish championship.
+the training period for the tokyo olympic games consisted
+out of 43 weeks which were grouped in a total of 14 mesocycles.
+the main part of the training was developed in alicante spain
+or in talavera de la reina spain. besides two training camps of
+4 weeks were performed in the highaltitude performance center
+of sierra nevada 2340 m altitude spain. simulated altitude
+sessions ialtitude spain were performed at three times of the
+season daily from week 810 from week 1416 and from week
+3640. the duration of the sessions was from 45 to 90 min and
+the range of altitude exposures was from 3500 to 6000 m. the
+rst physiological tests took place at week 6 swimming and 7
+cycling and running test. the second physiological tests were
+performed at week 24. a traditional periodization was used in the
+rst part of the season. the general preparatory period was
+performed from week 114. these weeks were characterized
+by an increasing of training volume progressively being the
+most part of the training sessions around vt1. the specic
+preparatory period was performed from week 1530 including
+the two training camps in highaltitude performance center. the
+rst one was from week 1821 and the second one was from week
+2730. the main goal of training period consisted in develop
+higher training zones nearer to race intensity vo2max and vt2.
+usually transitions trainings were performed twice weekly with
+intensities nearer to the competition around vt2. the triathlete
+also took part in two competitions during this period in order to
+training one sprint duathlon at week 24 1st and one olympic
+triathlon at week 28 1st. the rst competitive period lasted
+5 weeks from week 31 to week 35 and included two olympic
+distance triathlon world series wts. the rst one in yokohama
+week 32 where the triathlete ranked at 14th position and the
+second one in leeds week 35 where the triathlete ranked at 4th
+position. a mixed relay olympic qualication event were also
+performed at week 33 at lisbon where the team of spain ranked
+at 6th. a tapering period took place during this competitive
+period. the aim goal of these weeks was reduced training load to
+promote the supercompensation of the triathlete and improve the
+recovery. this was mainly done through the training volume
+reduction. high intensity training sessions were maintained
+during this period. a 5 weeks training block from week 36 to
+week 40 of specic preparation to tokyo olympic games was
+conducted after these three competitions. training load was
+increased again during this period. tapering period to the
+olympic games was performed during weeks 41 and 42
+through the decrease of the training load in an exponential
+manner in order to promote supercompensation. besides
+these weeks included the adaptation period to the tokyo jet
+lag. finally the triathlete competed in both the olympic distance
+triathlon event and the mixed relay triathlon event at week 43.
+the triathlete also performed strength training throughout his
+preparation to the olympic games. as a general rule two weekly
+strength training sessions were performed during the most part of
+the season. multijoint exercises both upper and lower body
+were performed by the triathlete. training loads progressed from
+55 to 75 of 1rm performing from two to four sets per
+exercise. the rep range was from four to eight reps per set
+always working away from muscle failure and with a loss of speed
+not
+greater
+than
+15
+within
+the
+set.
+furthermore
+frontiers in physiology  
+april 2022  volume 13  article 835705
+cejuela and sellsprez
+road to tokyo 2020 triathlon
+complementary exercises were carried out three or 4 days a week
+after the swimming training sessions. these exercises included
+hip ankle and thoracic mobility core training achilles tendon
+prevention exercises or exercises with elastic bands for the
+shoulder stability.
+polarization index was calculated to quantify the level of
+polarization every week treff et al. 2019. tld dened as
+the percentage of objective training load ecos that the
+triathlete performs in zones 1 2 and 3 was also calculated
+every week.
+heat adaptation protocol
+a heat adaptation protocol was carried out in order to minimize
+the impact on performance of the adversely expected weather
+conditions in tokyo high humidity and temperature. on the
+one hand the triathlete performed a heat acclimation using the
+passive method of sauna from week 18 to the begin of the rst
+competitive period in alternate weeks. the sauna session was
+performed at the end of the training day. the triathlete was
+exposed for 2030 min to a sauna bath with a temperature of
+7080c racinais et al. 2019. on the other hand the weather of
+alicante was used to do the acclimatization from week 34 to the
+olympic games. thus the triathlete was gradually exposed to
+training at intensities close to the competition in the middle hours
+of the day. these training sessions were performed with a
+temperature from 25 to 32c and with a humidity from 70
+to 80. a specic noninvasive sensor to assess core body
+temperature core green teg switzerland was used in
+this training sessions verdel et al. 2021. a special focus on
+hydration was done during this period. thus recovery drinks
+with sodium were used to compensate for the sweat losses while
+maintaining the optimal requirements of carbohydrates and
+protein to optimize recovery racinais et al. 2015a. finally
+the triathlete spent 10 days in tokyo before the rst competition
+performing several training sessions to maintain the heat
+adaptation.
+results
+figure 1 shows the weekly subjective training load ecs
+reported by the triathlete and
+its relationship
+with the
+objective training load ecos. peak of objective training load
+was performed at week 37 1757 ecos. training load of the
+competitions was included in the summary. peak of subjective
+training load was reported at week 39 ecs 1 month before to
+tokyo olympic games. this subjective training load is related to
+one of the weeks with more objective training load week 39 1517
+ecos.
+figure 2 shows the weekly training load ecos for swim bike
+and run respectively. it is observed the peak training load for
+swimming at week 15 579 ecos for cycling at week 37 896
+ecos and for running at week 34 766 ecos.
+training
+intensity
+distribution
+training
+volume
+and
+polarization index of the weeks are presented in table 1. after
+4 weeks of low intensity training 90 of training volume in
+zone 1 a pyramidal model is shown from week ve to week 18
+with the exception of week 12 polarization index  2.2. from 19
+until the end of the training period a polarized training intensity
+distribution were carried out by the triathlete the majority of the
+weeks. figure 3 shows the training load distribution. it is
+observed that 50.6  15.5 of the training load was
+performed at zone 1 and 40.7  16.8 was performed at zone 3.
+anthropometric measurements are presented at table 2. a
+decrease in total body mass and sum of skinfolds are shown.
+however few losses in muscular mass are reported. the change
+in physiological measures and performance during the season is
+observed at table 3. the performance of the athlete was increased
+considerably in the three segments.
+lactate blood concentration during two running training
+sessions in heat condition is presented in figure 4. training
+session 1 week 36 31c and 68 of humidity consisted in
+twenty repetitions of 400 m in a track 20  400. training session
+2 week 40 27c and 74 of humidity consisted in twentyfour
+repetitions of 400 m in the same track 24  400. the rest
+between repetitions was 20 seconds. the lactate was measured
+every four repetitions. despite the fact that in the second training
+session the triathlete performed four repetitions more a lower
+lactate concentration is observed. in addition body core
+temperature reached was lower in the second training session
+from 37.4 to 38.3c compared to the rst from 37.5 to 38.9c.
+the performance in the races of the 2021 season is shown in
+table 4. table 5 shows the power data of cycling segment during
+figure 1  weekly subjective training load ecss related with the
+objective training load ecos.
+figure 2  weekly training load per discipline.
+frontiers in physiology  
+april 2022  volume 13  article 835705
+cejuela and sellsprez
+road to tokyo 2020 triathlon
+the olympic distance races. it is shown the average power the
+average normalized power and the number of high intensity
+power peaks from 550 to 1050 w. the average time of these
+power peaks was 4.2 s.
+discussion
+the main goal of this research was to describe the training process
+of a worldclass triathlete to prepare the tokyo olympic games.
+the average of training volume carried out by the triathlete was
+less than 15 h and the peak of training volume was almost 19 h.
+this training volume is less than the training volume reported by
+a female elite triathlete more than 20 weekly average training
+hours in her olympic preparation for london 2012 mujika
+2014 but higher than the training volume reported by amateur
+longdistance triathletes neal et al. 2011 muoz et al. 2014
+estevelanao et al. 2017 sellesperez et al. 2019. it is important
+to note that the training volume referred in our study is the active
+time and it does not include pauses and the time of the strength
+training. compared with other endurance sports rnnestad and
+hansen 2018 reported around 12 h of average weekly training
+for an elite cyclist. kenneally et al. 2021 reported around 9 h
+140 km weekly of weekly training volume for a case of study of a
+worldclass 5000 m athlete. as a consequence the triathlete
+reported more total training volume weekly hours than in
+other cases of study about endurance athletes of other sport
+disciplines. despite the fact that the volume per discipline is less
+than the specialists in each sport triathletes must develop the
+performance of three sport modalities. therefore a greater
+number of weekly training hours would be necessary.
+there are not too many studies which have analyzed the
+training
+load
+developed
+by
+high
+performance
+endurance
+athletes. trimps training impulse have been a method to
+report training load in different endurance sports such as
+running estevelanao et al. 2007 stellingwerff 2012 muoz
+et al. 2013 or cycling earnest et al. 2004 rodrguezmarroyo
+table 1  weekly training volume and training intensity distribution triphasic model.
+week
+volume
+hours
+ z1
+ z2
+ z3
+p.i.
+week
+volume
+hours
+ z1
+ z2
+ z3
+p.i.
+10.4
+0.0
+18.3
+2.4
+11.6
+0.0
+13.6
+2.3
+12.3
+0.0
+20.1
+2.8
+12.1
+1.1
+18.7
+2.2
+13.3
+1.7
+13.4
+2.0
+1.4
+17.9
+2.3
+12.9
+1.9
+14.1
+2.3
+15.9
+1.7
+12.5
+2.2
+17.9
+1.8
+11.6
+2.1
+16.2
+2.0
+2.5
+13.7
+1.3
+15.4
+2.2
+16.4
+2.2
+17.3
+2.1
+16.1
+2.0
+9.6
+2.4
+13.9
+1.9
+16.6
+1.8
+17.9
+1.9
+17.1
+2.2
+18.5
+1.9
+2.7
+1.9
+17.6
+2.2
+15.2
+1.7
+15.3
+2.2
+17.5
+2.1
+2.2
+2.3
+10.1
+1.9
+16.6
+2.0
+7.3
+2.2
+2.0
+average
+14.7  3.0
+81.9  6.7
+7.2  2.0
+10.9  6.9
+1.9  0.6
+z zone p.i. polarization index.
+figure 3  weekly training load distribution ecos distributed at
+triphasic model.
+table 2  anthropometric measurements.
+variable
+anthropometry 1
+anthropometry 2
+body height cm
+179.0
+179.0
+body mass kg
+68.8
+66.3
+ 6 skinfolds
+34.0
+26.5
+muscular mass kg
+31.1
+30.9
+ 6 skinfolds sum of six skinfolds muscular mass kg lee et al. 2000.
+frontiers in physiology  
+april 2022  volume 13  article 835705
+cejuela and sellsprez
+road to tokyo 2020 triathlon
+et al. 2011. it has also been used occasionally in triathlon neal
+et al. 2011. however this method does not differentiate between
+sports disciplines with its consequent energy cost or muscle
+damage cejuela and estevelanao 2011. it is also based on
+the triphasic model of training zones skinner and mclellan
+1980 not considering that the time to maintain the intensity of
+the exercise decrease exponentially from the second ventilatory
+threshold billat et al. 2012. thus the ecomethod seems to be
+more specic to quantify the training load in triathlon cejuela
+and estevelanao 2011. weekly average ecos completed by the
+triathlete was 1186.26  320.86 ecos. these data were in line
+with the ecos reported by elite international triathletes olaya
+cuartero and cejuela 2021 but higher than those reported by
+elite national triathletes saugy et al. 2016 amateur long
+distance triathletes estevelanao et al. 2017 sellesperez
+et al. 2019 or amateur marathon runners estevelanao
+et al. 2017.
+tid followed by this triathlete was mainly polarized. several
+previous studies have shown the effectiveness of polarized tid in
+elite endurance athletes billat et al. 2001 fiskerstrand and seiler
+2004 stggl and sperlich 2014 2015. it is also observed a
+pyramidal tid in the rst part of the season. some other
+cases of study have found this tid organization over the
+season involving an evolution from a more pyramidal tid
+during the preparatory period to a more polarized tid during
+the competitive period tjelta 2019 kenneally et al. 2021. both
+tid models polarized and pyramidal present the emphasis in
+zone 1 80 being the remaining 20 of training volume
+distributed mainly in zone 3 in polarized tid or mainly in zone 2
+in pyramidal tid stggl and sperlich 2015. there is no clear
+consensus on which of these models has greater effects on
+performance since few experimental studies have been carried
+out in this regard. treff et al. 2017 did not report signicantly
+table 3  change in physiological measures and performance during the season.
+lt1
+lt2
+maspeak hr
+test
+test
+ change
+test
+test
+ change
+test
+test
+ change
+swimming
+speed ms
+1.40
+1.42
+1.4
+1.49
+1.51
+1.3
+1.56
+1.61
+3.2
+lac
+3.5
+2.8
+20
+6.5
+4.1
+36.9
+10.5
+4.8
+hr
+6.5
+5.9
+1.7
+vt1
+vt2
+vo2maxpeak powerpeak speed
+peak hr
+test 1
+test 2
+ change
+test 1
+test 2
+ change
+test 1
+test 2
+ change
+cycling
+p
+16.7
+11.0
+3.1
+pbm
+3.5
+4.2
+22.0
+5.3
+6.1
+16.0
+7.0
+7.50
+7.8
+vo2
+44.2
+57.1
+7.8
+61.3
+72.2
+17.8
+70.5
+84.0
+19.2
+hr
+0
+1.2
+0.5
+running
+speed kmh
+15.8
+16.2
+2.5
+19.4
+20.2
+4.1
+20.6
+22.6
+9.7
+vo2
+43.2
+54.8
+26.9
+57.6
+69.5
+20.7
+72.0
+81.8
+13.6
+hr
+0.7
+0.6
+0.5
+lt lactate threshold p power watts pbm powerbody mass wkg vo2 oxygen uptake mlkgmin lac blood lactate mmoll hr heart rate bpm  change percentage of
+change between test one and test two.
+figure 4  blood lactate concentration of two running training sessions
+in heat condition.
+table 4  the performance in the races during the season 2021.
+event
+time min
+swimming
+t1
+cycling
+t2
+running
+tokyo og
+18.33
+0.63
+56.15
+0.55
+30.7
+leeds wts
+17.9
+1.16
+54.36
+0.31
+30.46
+yokohama wts
+18.6
+0.93
+53.71
+0.4
+30.43
+tokyo og mixed relay
+3.83
+0.78
+9.78
+0.35
+4.78
+lisbon mixed relay wts
+4.08
+0.65
+9.85
+0.43
+5.53
+event
+speed
+swimming
+t1
+cycling
+t2
+running
+tokyo og
+1.36
+42.74
+19.54
+leeds wts
+1.4
+44.15
+19.7
+yokohama wts
+1.34
+44.68
+19.72
+tokyo og mixed relay
+1.3
+42.94
+21.34
+lisbon mixed relay wts
+1.22
+41.42
+21.7
+time minutes speed in swimming meter per second speed in cycling and running
+kilometer per hour. og olympic games wts world triathlon series.
+frontiers in physiology  
+april 2022  volume 13  article 835705
+cejuela and sellsprez
+road to tokyo 2020 triathlon
+differences between polarized and pyramidal training groups in
+elite rowers. furthermore sellesperez et al. 2019 observed how
+both tid were effective to improve the performance in amateur
+longdistance triathletes but no clear differences between groups
+were found.
+tld has not been analyzed in previous studies. in this sense
+even though most of the training was performed in zone 1 the
+triathlete completed several training weeks with more than 50
+of training load in zone 3. therefore the analysis of training load
+distribution could be a new variable to be incorporated in future
+research since it can provide more information about the
+intensity performed by endurance athletes. a ratio of 50 of
+training load in zone 1 and 50 in zones two and three could
+represent a general guideline. besides the triathlete was exposed
+to stressful training situations such as hypoxia and heat racinais
+et al. 2015a flaherty et al. 2016. thus the weeks of training
+camps in altitude and the training sessions to acclimation to the
+tokyos weather represented an added stress that must be
+considered.
+the current consensus recommendations on training and
+competing in the heat racinais et al. 2015a was followed to
+design the heat adaptation protocol. heat acclimatization
+improves thermal comfort and submaximal as well as maximal
+exercise performance in warmhot conditions racinais et al.
+2015b. the rst part of the acclimatization consisted on sauna
+baths postexercise. previous studies have shown the effectiveness
+of sauna bathing on heat acclimation kissling et al. 2020 kirby
+et al. 2021. on the other hand 8 weeks of progressive heat
+acclimatization in natural environment was performed by the
+triathlete previous the week of competition in olympic games.
+training sessions with heat progressed in intensity from low
+intensity training sessions to simulated competition training
+sessions during these weeks as well as the weather conditions
+temperature and humidity were harder progressively. as it is
+recommended in previous research the main acclimatization
+block was performed the 2 weeks prior to travel with 10 days
+of reacclimation after arrival to tokyo racinais et al. 2019.
+training camps at high performance center in altitude had a
+duration of 4 weeks. this period of time seems to be optimal to
+inducing accelerated erythropoiesis whereas 18 days are long
+enough for benecial changes in economy or muscle buffering
+capacity millet et al. 2010. besides the altitude training camps
+were developed at an altitude of 2340 m which is dened as the
+optimal altitude to living high and training high 22002500
+millet et al. 2010.
+according to physiological measurements an improvement in
+the triathletes performance is observed in the three disciplines.
+relative peak vo2 value reported by the triathlete in the second
+test was higher than the data reported about other elite endurance
+athletes such as rowers treff et al. 2017 swimmers fernandes
+et al. 2008 cyclists rnnestad and hansen 2018 or runners
+balsalobrefernndez et al. 2018 and similar to other elite
+triathletes millet et al. 2003. only some studies with topclass
+endurance athletes have shown similar values of vo2max
+rnnestad and hansen 2018 jones et al. 2021. the
+improvement observed in peak vo2 was in line with the case
+study reported by rnnestad and hansen 2018 where a world
+class elite cyclist had an improvement of 17 after 58 training
+weeks
+using
+a
+block
+periodization.
+however
+peak
+vo2
+improvements in both cycling and running are much higher
+than other changes in vo2max reported in elite and welltrained
+athletes after a training period garcapallars et al. 2010
+storen et al. 2012 rnnestad et al. 2014. the triathlete
+performed the rst test after transition period and after the
+rst weeks of the season where the training sessions were
+mainly at low intensity. so the detraining of high intensity
+training
+zones
+should
+be
+considered
+to
+interpret
+these
+improvements. after the rst tests a greater amount of high
+intensity training sessions were prescribed in the three disciplines
+which had a greater impact on the triathletes peak vo2.
+additionally the decrease in total body mass kg and fat
+mass must be considered to read into the large change
+observed in peak vo2 bassett and howley 2000 mooses and
+hackney 2017 both absolute and relative mechanical peak
+power
+output
+as
+well
+as
+mechanical
+power
+output
+at
+ventilatory thresholds during cycling test were similar than the
+values reported for a worldclass cyclist rnnestad and hansen
+2018. it is important to know that in the cycling segment of the
+wts and og many high power peaks are demanded
+conditioned by the orography and the tactics of the race.
+finally the peak speed reported and ventilatory threshold
+during running test were also in line with the data reported by
+other elite running athletes ingham et al. 2012 kenneally et al.
+2021 and with the performance obtained in the races.
+finally some limitations should be considered. tests were
+only performed at the beginning and in the middle of the season.
+therefore the physiological changes produced from the middle
+to the end of the season are not shown. the competitions as well
+as the dynamics of specic training sessions for tokyo olympic
+games did not allow a new test week to be scheduled at the end of
+the macrocycle. in addition the manuscript shows a case study on
+a training macrocycle of a worldclass triathlete so the training
+program and the results obtained cannot be extrapolated to
+another type of population.
+despite these possible limitations this research may be
+interesting for coaches and researches because helps to know
+table 5  the power prole in the cycling segment of the races during the season 2021.
+event
+avg p
+avg np
+rep 5501050 w
+segment orography
+tokyo og
+flat and technical
+leeds wts
+hills and technical
+yokohama wts
+flat and technical
+avg p watts average avg np normalized watts average rep number of repetitions between 580 and 1050 w.
+frontiers in physiology  
+april 2022  volume 13  article 835705
+cejuela and sellsprez
+road to tokyo 2020 triathlon
+the training characteristics of a worldclass triathlete in his
+preparation for one of the main world sporting events. future
+research with endurance athletes of this level of performance is
+needed.
+data availability statement
+the raw data supporting the conclusion of this article will be
+made available by the authors without undue reservation.
+ethics statement
+the studies involving human participants were reviewed and
+approved by the ua20170411 expedient. the patients
+participants
+provided
+their
+written
+informed
+consent
+to
+participate in this study. written informed consent was
+obtained from the individuals and minors legal guardian
+next of kin for the publication of any potentially identiable
+images or data included in this article.
+author contributions
+rc is the athletes coach. therefore he designed the training plan
+and he was present in most of the training sessions. ssp is the
+assistant coach and he advised on the design of strength training.
+he was also present at numerous training sessions. the
+manuscript was written by both authors simultaneously.
+acknowledgments
+first of all the authors thank the triathlete fa for his condence
+in the training plan and his effort in each training session. secondly we
+thank the rest of the coaching staff at ha ct ep jad and cf for
+their involvement throughout the season.

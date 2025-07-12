@@ -1,0 +1,634 @@
+received 19 december 2023
+
+revised 19 august 2024
+
+accepted 6 september 2024
+doi 10.1002ejsc.12195
+o r i g i n a l p a p e r
+case study of a world hour record simulation in an elite
+cyclist insight into task failure
+mehdi kordi12
+
+dan bigham3
+
+jacob tipper4
+
+richard a. ferguson5
+
+glyn howatson26
+
+jonathan wale3
+1royal dutch cycling federation knwu
+papendal arnhem the netherlands
+2department of sport exercise and
+rehabilitation northumbria university
+newcastle uk
+3ineos grenadiers manchester uk
+4jtp performance coaching birmingham uk
+5school of sport exercise and health sciences
+loughborough university loughborough uk
+6water research group northwest
+university potchefstroom south africa
+correspondence
+mehdi kordi royal dutch cycling federation
+knwu papendal arnhem the netherlands.
+email mehdikordihotmail.co.uk
+mehdikordi84gmail.com
+abstract
+the cycling hourrecord is one of the most prestigious events in cycling. however
+little detailed analysis of such attempts is available. in preparation for a successful
+cycling hourrecord attempt an elite cyclist performed a fullhour simulation to
+provide insights into performance physiological aerodynamic and biomechanical
+limitations that could be identified in the preparation for a subsequent official
+attempt. performance speed lap time power and cadence physiological heart
+rate and estimated body temperature aerodynamic cda helmet angle rotation
+and rock and biomechanical helmet thigh and foot position changes measure
+ments were made throughout the attempt in which an evenpacing strategy was
+employed where the point of task failure was defined as the lap which the rider
+could no longer perform at the targeted lap split 16.6 s or quicker. the cyclist did
+not achieve the target distance 54000 m during the simulation. the final distance
+achieved for the hour was 53250 m. task failure occurred at 38 min and 33 s lap
+13934750 m into the simulation. notably there was a decrease in power output
+accompanied with an increase in the estimated body temperature changes in
+pedalling kinematics and an increase in aerodynamic drag. the reduction in per
+formance leading to task failure during a cycling hour record simulation is
+underpinned by a decrease in power output as well as an increase in aerodynamic
+drag due to biomechanical changes in the cycling technique.
+k e y w o r d s
+cycling performance tasksuccess worldrecord
+highlights
+ an elite cyclist performed a cycling hour record simulation to provide insights into physi
+ological aerodynamic and biomechanical determinants of performance.
+ an evenpacing strategy was employed where the point of task failure was defined as the
+lap which the cyclist could no longer perform at the targeted lap split 16.6 s or quicker.
+ task failure occurred at 38 min and 33 s lap 13934750 m into the simulation and they
+failed to achieve target distance 54000 m achieving 53250 m.
+this is an open access article under the terms of the creative commons attribution license which permits use distribution and reproduction in any medium pro
+vided the original work is properly cited.
+ 2024 the authors. european journal of sport science published by wileyvch gmbh on behalf of european college of sport science.
+eur j sport sci. 20242417791787.
+wileyonlinelibrary.comjournalejsc
+
+ the reduction in performance leading to task failure was underpinned by a decrease in
+power output as well as an increase in aerodynamic drag due to biomechanical changes in
+the cycling technique.
+
+introduction
+the cycling hourrecord is one of the most prestigious events in
+cycling and requires a cyclist to ride as far as possible in 1 hour from
+a stationary start around a velodrome track. francesco mosers
+recordbreaking mark of 51.151 km in 1984 brought in an era of
+rapid advances in technology including aerodynamics malizia
+et al. 2021 which continued in the 1990s and culminated with chris
+boardmans superman position achieving 56.375 km. this subse
+quently led to the international cycling governing body union
+cycliste internationale
+uci banning
+certain positions
+which
+resulted in a diminished number of attempts. in 2014 the uci
+announced an update in the rules allowing bicycle geometry and
+equipment that complies with current rules for timetrial tt events
+to be used on the track. this permitted riders to adopt their accus
+tomed tt positions making the cycling hour record more appealing
+ushering in a unified era harnish et al. 2024. at the time of writing
+this manuscript a total of 26 official mens attempts have been made
+in this unified era of which 8 have succeeded in breaking the record
+which currently stands at 56.792 km by filipo ganna.
+there is no doubt that the cycling hour record represents a rare
+insight into the limits of human endurance performance. the basis of
+the task is to achieve a high average speed 55kmh 35mph
+requiring the development of high levels of sustained power output
+malizia et al. 2021. the underpinning physiological determinants of
+endurance performance are wellestablished as outlined by joyner
+and
+coyle
+2008
+and
+are
+crucial
+for
+task
+success
+joyner
+et al. 2008. they include highly developed aerobic capacity vo2max
+and submaximal thresholds critical power cplactate threshold
+permitting high levels of sustainable power. another critical compo
+nent of the endurance performance model is mechanical efficiency
+which is underpinned by multiple physiological determinants as well
+as the biomechanics of the cycling technique.
+cycling hour record attempts that fail are usually due to the
+inability to achieve or maintain the required speed throughout
+the hour which can be considered as one definition of task failure
+the determinants of which are complex and multifactorial. clearly
+muscle fatigue defined as the failure to maintain the required power
+output porter 1981 and underpinned by the physiological de
+terminants described above will play a prominent role. however it is
+likely that changes in the body position that would influence aero
+dynamic properties of cycling and biomechanics of the cycling
+technique are also likely to play a role but are not usually accoun
+ted for.
+given the rarity of cycling hour record attempts using a case
+report methodology provides the only realistic opportunity to pro
+vide reliable observations from a realworld scenario. indeed little
+detailed analyses of such attempts have been performed with only
+one case report published in 2000. padilla et al. reported observa
+tions in an elite cyclist from simulated efforts during the buildup to a
+successful attempt that exceeded 53000 m padilla et al. 2000.
+despite the potential benefit of establishing a greater understanding
+of the overall demands of cycling hour record attempts it is un
+common for riders who attempt the record to collect extensive data
+due to 1 regulations stipulating cyclists are blind to any data that is
+directly collected from the bicycle such as cadence speed and power
+2 the potential aerodynamic penalty of wearing the instruments
+andor 3 the potential issues setting up the instruments when
+athlete preparation is of greater importance.
+the following case report is a retrospective analysis of a simu
+lated cycling hour record performed by an elitelevel cyclist in
+preparation for an official attempt. the cyclist performed a fulldress
+rehearsal to gain an understanding of physiological aerodynamic and
+biomechanical changes that occur in order to inform potential stra
+tegies to optimise performance during the official attempt. the
+simulation comprised a unique situation where multiple performance
+determinants could be examined in depth and used to understand
+variables relating to cycling hour record performance. furthermore
+to gain a better understanding of the factors that contribute to task
+failure an evenpacing strategy was employed where the point of
+task failure was defined as the lap which the cyclist could no longer
+perform at the targeted lap split or quicker however once task
+failure occurred the participant continued to complete the hour
+duration. the hypothesis was that there would be significant changes
+in the parameters when task failure was achieved.
+
+methods
+2.1
+
+participant
+the participant was a male elite international road and track cyclist
+age 29 years body mass 75.2 kg height 1.84 m and cp 353 w
+who had competed at the elite track world championship and
+medalled at the elite road world championships mixed team time
+trial. they would be considered as tier 5 world class according to
+the participant classification framework described by mckay
+et al. 2022
+2.2
+
+informed consent and ethics statement
+prior to the simulation the cyclist gave their written informed con
+sent and specifically requested that the data generated be made
+
+kordi et al.
+available in the public domain. the data collected were observations
+on a single day without an intervention or experimental protocol.
+ethical approval was obtained from northumbria university in
+accordance with the principles of the declaration of helsinki except
+for registration in a database.
+2.3
+
+cycling hour record simulation procedures
+the cycling hour record simulation was conducted at an international
+250 m standard indoor velodrome national cycling centre in
+february 2021 using the cyclists track bicycle electron pro
+argon 18.
+after arriving at the velodrome and conducting the initial logis
+tical preparation the cyclists body mass was measured and a capil
+lary
+blood
+sample
+obtained
+for
+the
+measurement
+of
+lactate
+concentration. the cyclist then performed a predetermined warm
+up on a stationary trainer lemond fitness revolution 1.1 which
+started approximately 60 min before the start of the attempt. the
+warmup composed of approximately 22 min at 63 of cp 3 min
+progressive ramp up to 80 cp and finally 2 min at predicted hour
+attempt power 360 w. after the warmup body mass and rate of
+perceived exertion rpe were measured and another blood sample
+was obtained. the cyclist then had 16 min to prepare themselves for
+the simulation. during this time the race skinsuit and race overshoes
+vorteq sports uk race helmet kask mistral italy were fitted
+along with biomechanical sensors and the hr monitor. all equipment
+used were within the rules of the uci for a cycling hourrecord
+attempt.
+once ready a short track familiarisation effort on the velodrome
+was performed. the cyclist was given eight laps to build speed before
+performing 4 km at their predetermined race speed which took an
+approximately 9 min. upon completion of the familiarisation effort
+the cyclist was instructed to exit the track. rpe was measured and
+another blood sample was obtained. subsequently his track bike was
+mounted onto a start gate starting gate swiss timing switzerland
+which was positioned on the pursuit line. a further 7 min of passive
+rest was given before the simulation was started using an interna
+tional standard count down timer system swiss timing switzerland
+from 50 s.
+throughout the simulation feedback was given to the cyclist
+using four methods which were within the rules of the uci for a
+cycling hourrecord attempt 1 each lap the cyclist was informed of
+the previous lap split. this was done by an investigator verbally
+shouting the last 2 digits of the lap split. for example 6 5 would be
+a 16.5 s lap 2 predicted distance based on the average speed to
+that point was given every 5 minutes. this was written on a white
+board and shown to the participant for three laps to ensure it was
+recognised 3 the velodrome lap board swiss timing switzerland
+was constantly updated each lap so the cyclist could see the total
+number of laps accumulated and 4 an electronic tablet ipad pro
+apple with a 60min count down timer was positioned on the track
+side in full view of the cyclist for the duration simulation.
+after precisely 60 min the track bell was rung to inform the
+cyclist that the hour was concluded and to complete a further full
+250 m lap of the track. the video analysis software dartfish
+switzerland was used to measure the final distance achieved. the
+total distance covered in the hour was calculated as per the uci
+regulation 3.5.031 uci constitution and regulations 2023. after
+dismounting the bicycle at the end of the simulation body mass was
+measured and two blood samples were obtained within 2 minutes of
+completing the effort.
+2.4
+
+target distance rationale
+the air density of the velodrome where the actual attempt would
+take place tissot velodrome was expected to be approximately
+1.130 kgm3. therefore prior to performing the simulation the air
+density was measured 1.179 kgm3 and the target distance equiv
+alent lap split was adjusted to estimate the equivalent power
+required. to achieve 54000 m with an air density of 1.179 kgm3 the
+cyclist would need to achieve 54526 m at an air density of 1.130 kg
+m3 which would break the british record and unofficially be second
+for the unified records at that time. therefore his target was a 26.0 s
+opening lap followed by subsequent 16.6 s laps.
+2.5
+
+measurements
+environmental conditions. atmospheric conditions including ambient
+temperature relative humidity barometric pressure and air density
+were measured continuously 0.5 hz throughout using a weather
+metre kestrel 5200 professional environmental metre kestrel
+metres.
+anthropometry. height and body mass were measured using a
+stadiometer 213 seca portable stadiometer and a weighing scale
+withings body smart scale withings france respectively.
+system mass. the weighing scale was also used to measure sys
+tem mass which included everything that was on the bike during the
+simulation including bike clothing sensors and fluidfood consumed
+immediately prior to starting their attempt.
+critical power cp. cp was estimated using training data and
+targeted efforts in previous 2 months in the preparation for this
+attempt. average power outputs were obtained during sustained
+maximal efforts over 3 and 20min durations using the athletes
+track bike in a tt position on both a stationary trainer and the track.
+time and power data were fitted with the inverse linear model
+p  w  1t  cp.
+power cadence and wheel speed. instrumented cranks were used
+to measure power and cadence throughout the warmup and attempt
+srm track science 8th generation power meter schoberer rad
+messtechnik germany. the power meter had been recently serviced
+and calibrated before the simulation effort. a zero offset was per
+formed before the start of the track familiarisation effort. the gear
+used was 6414 and wheel speed was measured using a wahoo blue
+european journal of sport science
+
+sc magnetbased system wahoo fitness. all parameters were
+recorded on a cycling computer garmin 530 garmin.
+heart rate. hr was collected continuously from the start of the
+turbo warmup until 30 min post simulation via a wireless telemetry
+system wahoo tickr wahoo fitness and recorded to the same
+cycling computer.
+blood lactate sampling and analysis. capillary blood samples 5 l
+were taken from the fingertip and analysed immediately for blood
+lactate concentration using a handheld analyser lactate pro 2
+arkray which has a reported overall measurement error of 3
+bonaventura et al. 2015.
+estimated body temperature. estimated body temperature was
+estimated using a wearable device core greenteg ag on the hr
+monitor strap that was sampled every 30 s and recorded to the
+cycling computer. the wearable device has shown acceptable levels
+of reliability albeit with low agreement during a 60min of steady
+state cycling verdel et al. 2021.
+coefficient of aerodynamic drag cda. cda were calculated using a
+bicyclemounted pitot tube computer notio konect nk notio
+technologies at a frequency of 4 hz. the nk has previously been
+shown to be reliable and sensitive kordi et al. 2021. the nk was
+calibrated as per manufactures instructions using the track famil
+iarisation effort. the nk was also synchronised wirelessly and used
+to record the power cadence and wheel speed.
+kinematic analysis. kinematic data were collected with the use of
+5 threeaxis gyroscope and three axis accelerometers leomo labs
+types leomo. the sensors were attached to the thigh foot and
+inside the tail of the helmet. these sensors have been shown to be a
+valid and reliable tool for analysing the ranges of motion of the cy
+clists lower limbs in the sagittal plane plazabravo et al. 2022. the
+foot segment range of the first quarter q1 that is from the top
+dead centre 90 forward from the direction of travel thigh segment
+range and pedal smoothness were all calculated. data were recorded
+at 4 hz.
+2.6
+
+data and statistical analysis
+all data were averaged per minute or per lap where appropriate and
+presented as mean  sd. power and speed were also represented as
+60 s rolling averages. once the point of task failure was identified all
+data prior to and after this point were averaged and compared using
+an independent ttest. significance was accepted at p  0.05.
+
+results
+the average environmental conditions were ambient temperature
+26.3c relative humidity 23.8 barometric pressure 1016.9 mb
+and air density 1.179 kgm3 which were relatively constant
+throughout.
+the final distance achieved for the hour was 53250 m. average
+speed lap time power and cadence were 14.91  0.16 ms
+53.250 kmh1 16.88  0.60 s 348  37 w and 93  4 rpm
+respectively. task failure occurred at 38 min 33 s lap 13934750 m.
+all measures were lower during posttask failure compared to pre
+task failure periods figure 1 table 1.
+the average heart rate was 172  4 bpm. this remained con
+stant between the pre and posttask failure periods figure 1
+table 1. estimated body temperature increased progressively
+throughout and was higher during the postcompared to pretask
+failure periods figure 1 table 1 and had reached 39.2c at the
+point of task failure continuing to increase to 39.6c at the end.
+blood lactate concentration was 1.3 mmol.l1 at baseline and
+1.7 mmol.l1 following the warmup. following the short track
+familiarisation effort blood lactate concentration had increased to
+3.5 mmol.l1. immediately following the hour simulation blood
+lactate concentration had increased to 11.8 and 12.9 mmol.l1 for
+the two samples taken respectively. body mass decreased slightly
+from 76.6 kg at baseline to 76.3 kg following the warmup and short
+track familiarisation effort and further declined to 74.8 kg 2
+immediately following the simulation.
+average cda helmet angle rotation and rock throughout were
+0.1637  0.0027 m2 38.8  3.7 9.0  1.6 and 7.7  1.9
+respectively. all measures were lower during the posttask failure
+compared to pretask failure periods figure 2 table 1. foot
+segment range foot segment range q1 thigh segment range and leg
+smoothness throughout were 47.1  1.9 19.3  4.1 52.6  1.3
+and 9.0  2.5 respectively. foot and thigh segment ranges were
+higher foot segment range q1 was lower and leg smoothness
+remained unchanged during the posttask failure compared to pre
+task failure periods figure 3 table 1.
+
+discussion
+this case study provides unique insight into physiological aero
+dynamic and biomechanical factors over the course of a cycling hour
+record simulation in an elite cyclist. during the simulation the cyclist
+employed an evenpacing strategy attempting to maintain a constant
+lap split 16.6 s and thus maintain a constant power output and
+riding position to achieve a target distance of 54000 m. the cyclist
+was on course to break the target distance task success until 38 min
+33 s lap 13934750 m into the simulation at which point he could
+no longer maintain the speed required to achieve the target distance
+task failure. task failure corresponded with significant changes in
+physiological aerodynamic and biomechanical determinants of hour
+record performance.
+task failure was likely due to multiple physiological fatigue fac
+tors resulting in a decrease in power output coupled with a deteri
+oration
+of
+optimal
+aerodynamic
+positions.
+the
+physiological
+determinants of task failure during an intense exercise are complex
+and multifactorial porter 1981. clearly skeletal muscle fatigue is a
+major factor the mechanism of which could be central e.g. reduction
+in voluntary activation of the muscles andor peripheral e.g. accu
+mulationdepletion of muscle metabolites in origin although for
+
+kordi et al.
+practical reasons we were unable to obtain data in relation to these
+processes. over the first 30min of the simulation that led to task
+failure the cyclist maintained a power output of 360 w which was
+higher than his estimated cp 353 w. this supports the previous
+observation that miguel indurains estimated power output during
+his recordbreaking attempt 510 w was slightly higher than his
+velodrome estimated onset of blood lactate accumulation threshold
+of 501 w malizia et al. 2021. regardless of how these important
+physiological thresholds are defined both case reports indicate that
+cyclists are above their respective critical threshold and working
+within the severe intensity exercise domain. exercise in this domain is
+strongly associated with a substantial contribution from anaerobic
+energy pathways resulting in progressive changes in intramuscular
+substrates and metabolites which increasedecrease until their
+respective maximaminima are obtained jones et al. 2008 poole
+et al. 1988 all of which contribute to the muscle fatigue process
+gandevia 2001 sundberg et al. 2019. indeed the high blood
+lactate concentration 12 mmol.l1 measured on completion of the
+simulation supports this notion. these observations also corroborate
+with the cyclists feedback that they were flat out and working at a
+severe intensity.
+task failure the fatigue process was undoubtedly influenced by
+environmental conditions. the ambient temperature of the velo
+drome was 26.3c which alongside wearing a full skinsuit represents
+a significant thermal stress. estimated core body temperature
+increased from 38.5c at the start to 39.2c at the point of task
+failure and continued to increase to 39.6c at the end. there is
+strong evidence that a high internal body temperature contributes to
+fatigue in trained subjects during prolonged exercises particularly in
+uncompensable hot environments gonzlezalonso et al. 1999b.
+the mechanisms are not fully understood but it is wellestablished
+that adenosine triphosphate utilisation may be increased during
+f i g u r e 1
+performance and physiological characteristics throughout the hour record simulation. a speed b lap time c power
+d cadence e heart rate and f estimated body temperature. dotted vertical line denotes the point of task failure  denotes a significant
+difference between posttask failure compared to pretask failure periods. all data are presented as mean  sd.
+european journal of sport science
+
+exercise in the heat which is met by an increase in anaerobic
+glycolysis and muscle glycogen utilisation febbraio et al. 1994. this
+is related to the elevated muscle temperature febbraio et al. 1994
+and
+exacerbated
+if
+dehydration
+occurs
+gonzlezalonso
+et al. 1999a. the compounding effects of dehydration during exer
+cise in hot environments are also significant including a reduction in
+skeletal muscle blood flow to the exercising muscles and reduced
+muscle o2 uptake gonzlezalonso et al. 1998. the extent of
+dehydration sustained by the cyclist was not assessed directly.
+however body mass declined by 2 most of which was likely due
+to fluid loss through sweat. moreover this level of dehydration is
+well within the normal ranges that are considered to be a major
+determinant of exercise performance and therefore unlikely to be a
+factor in task failure cheung et al. 2015wall et al. 2015. either
+way these observations align with the cyclists reported perceptual
+feedback after around 40 min i was just so unbearably hot. i lost
+control of my breathing and just couldnt maintain the pace anymore.
+the other major contribution to the reduction in speed was the
+significant increase in cda. the head and helmet can contribute up to
+19 of cyclists cda in the timetrial position the most of any body
+part or segment malizia et al. 2021. in this case study helmet
+movement significantly increased after task failure. indeed narrative
+feedback provided by the cyclist suggested they were attempting to
+deliver more power in order to attenuate any further decreases in
+speed. this consequently compromised the body position and the
+athlete could sense that their head was moving more than before
+which likely contributed to the increase in cda.
+the pedalling kinematics data provide insight that allow us to
+make some inference on potential changes in the movement strategy
+leading up to and once task failure is reached. although these data
+are limited because the instrumentation only provides segment
+ranges of motion i.e. the difference between the minimum and
+maximum segment angle within a pedal cycle the observations
+clearly show that the range of motion of both the thigh and foot
+segments increased as the task became more challenging. these in
+creases in the segment angle range suggests that under a change in
+task constraints reduction in performance the participant explores
+alternative movement strategies in order to complete the task goal in
+a different manner martin et al. 2009. it was not possible to say if
+there was an associated systematic shift in the pedalling motion
+under fatigue but this could be the focus of future studies. never
+theless the data from this study suggests that there is a change in
+pedalling kinematics leading up to and following task failure. how
+ever it is worth noting that previous studies have suggested that
+changes at the physiological or psychological levels are the cause of
+reduction in performance and changes in kinematics are the conse
+quence and are likely to exacerbate task failure allen et al. 2008
+gandevia 2001 martin et al. 2009.
+only one other case study published over 20 years ago has
+reported observations from testpractice efforts prior to a suc
+cessful cycling hour record attempt that exceeded 53000 m padilla
+et al. 2000. the authors reported wind tunnel cda values of
+0.244 m2 and making assumptions of the atmospheric conditions
+which were not reported suggested that the average power that
+was required to achieve the target distance was 510 w. the
+current case study suggests that the cyclist produced less power
+38 and had a lower cda 39 although we acknowledge that
+cda calculated from testing in a velodrome cannot be directly
+t a b l e 1
+average values of measured parameter pre and posttask failure.  denotes a significant difference between posttask failure
+compared to pretask failure periods.
+pretask failure
+posttask failure
+pvalue
+speed ms
+15.12  0.59
+14.52  0.33
+0.001
+lap time split s
+16.64  0.58
+17.33  0.33
+0.001
+power w
+363  29
+320  22
+0.001
+cadence rpm
+94  4
+90  2
+0.001
+heart rate bpm
+172  4
+172  2
+0.999
+estimated core body temperature c
+38.9  0.3
+39.5  0.1
+0.001
+cda m2
+0.1635  0.0021
+0.1642  0.0035
+0.001
+helmet angle 
+36.4  1.5
+43.2  2.2
+0.001
+helmet rotation 
+8.0  0.7
+10.6  1.3
+0.001
+helmet rock 
+6.5  0.7
+10.0  1.3
+0.001
+foot segment range 
+46.0  1.6
+49.0  2.5
+0.001
+foot segment range q1 
+20.1  3.8
+17.7  4.6
+0.031
+thigh segment range 
+51.8  1.2
+54.0  1.4
+0.001
+leg smoothness 
+8.1  2.1
+10.7  3.2
+0.153
+note all data are presented as mean  sd.
+
+kordi et al.
+f i g u r e 2
+aerodynamic characteristics throughout the hour
+record simulation. a cda b helmet angle c helmet rotation
+d helmet rock. dotted vertical line denotes the point of task
+failure  denotes significant difference between posttask failure
+compared to pretask failure periods. all data are presented as
+mean  sd.
+f i g u r e 3
+aerodynamic characteristics throughout the hour
+record simulation. a foot segment range b foot segment range
+during the first 90 q1 of the pedalling cycle c thigh segment
+range d leg smoothness. dotted vertical line denotes the point of
+task failure  denotes a significant difference between posttask
+failure compared to pretask failure periods. all data are presented
+as mean  sd.
+european journal of sport science
+
+interchanged with wind tunnel tests kordi et al. 2021. these
+observations are perhaps not surprising given the significant ad
+vancements in aerodynamic technology over the last 20 years
+including bicycle design helmet and skinsuit material and design as
+well as optimal onbikepositioning achieved through wind tunnel
+testing.
+4.1
+
+practical applications
+the present case study suggests that the reduction in performance
+leading to task failure during the cycling hour record is underpinned
+by a decrease in power output as well as an increase in aerodynamic
+drag. given the significant thermal stress encountered that likely
+contributed to task failure methods that can attenuate the increase
+in body temperature should be employed in the preparation of the
+athlete e.g. heat acclimation and preevent cooling strategies. it is
+noteworthy that some of these interventions were performed in the
+lead up to his subsequent successful attempts where he went on to
+break the british hour record within 6 months and the official uci
+cycling hour record a year later. moreover a more conservative
+negative split pacing strategy rather than sustained evenpace from
+the start was used in the subsequent successful attempt achieving
+55548 m.
+4.2
+
+limitations
+the aim of this case study is to focus on the performance of the hour
+record and therefore is limited by the lack of detailed insight into the
+preparatory training and the cyclists nutritional strategy in the
+weeks and days leading up to the attempt. moreover we did not
+provide any further insights into the psychological determinants of
+cycling hour record performance. indeed the decision to partially
+disengage i.e. reduce effort or terminate endurance exercise task
+failure is impacted by both psychological and physiological factors
+marcora et al. 2009. in such situations motivational dynamics may
+play a critical role in overall exercise performance whereby the desire
+to reduce effort during exercise conflicts with the performance goal
+of the task taylor et al. 2022.
+
+conclusion
+this case study provides a rare insight into the limits of human
+performance during a cycling hour record simulation in an elite
+cyclist. it provides a unique understanding of physiological aero
+dynamic and biomechanical changes throughout the task. from this
+it seems that both propulsive i.e. mechanical power output and
+resistive forces i.e. cda are significantly altered both of which have
+a major influence on task outcomes success or failure. these data
+could provide the catalyst for others examining the limits of human
+performance during arduous endurance tasks.
