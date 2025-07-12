@@ -80,7 +80,7 @@ def retrieve_information(query, top_k, mapped_document_db):
     #Now calculating cosine similarity
     for doc_id, chunk_dict in mapped_document_db.items():
         for chunk_id, chunk_embeddings in chunk_dict.items():
-            #converting chunk embedding to numpy array for efficent mathmetical operations
+            #converting chunk embedding to numpy array for efficient mathematical operations
             chunk_embeddings = np.array(chunk_embeddings) 
 
             #Normalizing chunk embeddings and query embeddings  to get cosine similarity score
@@ -91,7 +91,7 @@ def retrieve_information(query, top_k, mapped_document_db):
             # this is being done to avoid division with zero which will give wrong results i.e infinity. Hence to avoid this we set score to 0
                 score == 0
             else:
-            # Now calculationg cosine similarity score
+            # Now calculating cosine similarity score
                 score = np.dot(chunk_embeddings, query_embeddings)/ (normalized_chunk * normalized_query)  
 
              #STORING SCORES WITH THE REFERENCE
