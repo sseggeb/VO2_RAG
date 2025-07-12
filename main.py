@@ -179,7 +179,7 @@ def generate_llm_response(openai_model, query, relevant_text):
 
 
 if __name__ == "__main__":
-    directory_path = "documents"
+    directory_path = "extracted_texts"
     model_name = "BAAI/bge-small-en-v1.5"
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModel.from_pretrained(model_name)
