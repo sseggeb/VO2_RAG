@@ -1,0 +1,1246 @@
+Review Article
+The Effect of Exercise Training Intensity on VO2max in Healthy
+Adults: An Overview of Systematic Reviews and Meta-Analyses
+Emmet Crowley
+,1,2 Cormac Powell
+,2,3 Brian P. Carson
+,1,2 and Robert W. Davies
+1
+1Department of Physical Education and Sport Sciences, Faculty of Education and Health Sciences, University of Limerick,
+Limerick, Ireland
+2Physical Activity for Health Cluster, Health Research Institute, University of Limerick, Limerick, Ireland
+3High Performance Unit, Sport Ireland, Sport Ireland National Sports Campus, Dublin, Ireland
+Correspondence should be addressed to Robert W. Davies; robert.davies@ul.ie
+Received 14 December 2021; Accepted 20 January 2022; Published 24 February 2022
+Academic Editor: Ylva Hellsten
+Copyright © 2022 Emmet Crowley et al. 'is is an open access article distributed under the Creative Commons Attribution
+License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is
+properly cited.
+'is study aimed to evaluate systematic reviews and meta-analyses that have examined the eﬀect of exercise training on VO2max
+in healthy individuals at diﬀerent intensities. Five databases were searched: EBSCOhost, MEDLINE/PubMed, SPORTDiscus, Web
+of Science, and Google Scholar. Eligibility criteria for selecting reviews included systematic reviews and meta-analyses of healthy
+adults that examined the eﬀect of lower intensity training (LIT) and/or high intensity training (HIT) on VO2max. Eleven reviews
+met the eligibility criteria. All reviews were of moderate-to-very strong methodological quality. 'e included reviews reported data
+from 179 primary studies with an average of 23 ± 10 studies per review. All reviews included in this overview showed that exercise
+training robustly increased VO2max at all intensities. 'ree meta-analyses that compared LIT versus HIT protocols on VO2max
+reported small/moderate beneﬁcial eﬀects for HIT over LIT; however, the beneﬁcial eﬀects of HIT on VO2max appear to be
+moderated by training variables other than intensity (e.g., training impulse, interval length, training volume, and duration) and
+participants’ baseline characteristics (e.g., age and ﬁtness levels). Overall, evidence from this overview suggests that the apparent
+diﬀerences between LIT and HIT protocols on VO2max were either small, trivial, or inconclusive, with several methodological
+considerations required to standardise research designs and draw deﬁnitive conclusions.
+1. Introduction
+VO2max is the gold standard measure of cardiorespiratory
+ﬁtness [1, 2] and a strong predictor of cardiovascular health,
+morbidity, and all-cause mortality [3–5]. 'erefore, an
+improvement in VO2max (i.e., the functional limit of the
+cardiorespiratory system) can reduce the risk of cardio-
+vascular disease and mortality—even when other risk factors
+are present (e.g., ageing, hypertension, diabetes, smoking,
+and obesity) [4, 6]. Exercise training is an eﬀective means of
+increasing VO2max [1, 2]. 'erefore, clear recommenda-
+tions for exercise intensity are required to facilitate optimal
+and eﬃcient improvements in cardiorespiratory ﬁtness.
+'e prescription of training intensity falls into two
+broad
+categories: lower-intensity
+training
+(LIT)
+and
+higher-intensity training (HIT). A standardised approach
+to the categorisation of intensity has been frequently
+established (e.g., LIT refers to exercise bouts <80%
+VO2max, whereas HIT refers to exercise bouts >80%
+VO2max [7]). And within these categories, three exercise
+modalities are commonly prescribed within the literature:
+(1) moderate-intensity continuous training (MICT); (2)
+high-intensity interval training (HIIT); and (3) sprint in-
+terval training (SIT). MICT usually refers to training
+programmes consisting of extended duration continuous
+exercise at moderate intensities (e.g., 50–80% VO2max)
+[8, 9]. HIIT is a form of interval training, which refers to
+intermittent exercise that involves alternating higher in-
+tensity with lower intensity [10], with high intensity (e.g.,
+80–170% VO2max) bouts of exercise between 30 seconds
+Hindawi
+Translational Sports Medicine
+Volume 2022, Article ID 9310710, 10 pages
+https://doi.org/10.1155/2022/9310710
+
+and 4 minutes [11]. SIT is another form of interval training,
+which consists of maximal intensity (e.g., maximal exer-
+tion, >170% VO2max), but shorter durations, of up to 30
+seconds [12, 13]. Both LIT (i.e., MICT) and HIT (i.e., HIIT
+and SIT) protocols have been shown to signiﬁcantly im-
+prove VO2max in most populations (e.g., young, elderly,
+active/athletic, and sedentary) [14, 15]; however, which, or
+if any, exercise training intensity is most eﬀective at in-
+creasing VO2max remains unclear.
+'ere are several systematic reviews and meta-analyses
+available in the existing literature examining the eﬀect of
+exercise training on VO2max. However, very little is known
+about the overlap of the primary studies included in these
+systematic reviews and/or meta-analyses. Hence, the dif-
+ferent methodologies employed within each systematic re-
+view/meta-analysis will inﬂuence results (e.g., intensity
+standardisation and prescription, eligibility criteria, data
+analysis, etc.), making it diﬃcult to draw deﬁnitive con-
+clusions from any single review. 'erefore, the primary aim
+of this paper was to perform an overview of systematic
+reviews and meta-analyses that have examined the eﬀect of
+exercise training on VO2max, at diﬀerent intensities, in
+healthy/nonclinical populations. In addition to an overview
+of the available evidence, our secondary aim was to provide
+practical applications based on ﬁndings and make key
+suggestions for future research for establishing evidence-
+based recommendations on exercise training intensity. In
+this regard, an overview of systematic reviews and meta-
+analyses provides an opportunity to map and summarise the
+evidence to date, highlight limitations in the extant litera-
+ture, absence of evidence, and identify the key variables that
+may inﬂuence the eﬀect(s) of exercise training intensity of
+VO2max.
+2. Methods
+2.1. Search Strategy. Electronic database searches were
+performed
+through
+EBSCOhost,
+MEDLINE,
+PubMed,
+SPORTDiscus, Web of Science, and Google Scholar using all
+available records up to 30 July, 2021. 'e literature search,
+quality assessment, and data extraction were conducted
+independently by two authors (EC and CP) and any dis-
+crepancies were resolved following discussion with a third
+author (RD). A combination of search terms was used
+(Table 1).
+2.2. Study Criteria. 'is review had a series of inclusion and
+exclusion criteria, which were limited to systematic reviews
+and/or meta-analyses articles. 'e inclusion criteria were (1)
+exercise/training interventions; (2) randomised and non-
+randomised controlled trials with intervention(s) on healthy
+adults; (3) exercise (intensity) group(s); (4) control group(s);
+(5) written in English only; and (6) distinction of data, for
+extraction, between experimental groups. 'e exclusion
+criteria were (1) no measure of VO2max; (2) cross-sectional
+study design; (3) patient groups; (4) strength training; (5)
+concurrent training; (6) nutritional interventions; and (7)
+masters, paraplegic, and/or athletes with clinical conditions.
+2.3. Selection of Systematic Reviews and/or Meta-Analyses.
+Systematic reviews and meta-analyses were selected using
+the Preferred Reporting Items for Systematic Reviews and
+Meta-Analyses (PRISMA) guidelines (Figure 1) [16]. 'e
+search process included a hierarchy of assessment whereby
+papers were ﬁrst assessed by journal title (and duplicates
+removed), second by abstract, and third by full-article review
+when the journal article was either included or excluded
+based on the eligibility criteria.
+2.4. Summary Measures. Data were extracted from sys-
+tematic reviews and meta-analyses under two key areas:
+background information and training interventions with
+VO2max as the outcome measure. Background information
+included (1) type of review/analysis (e.g., systematic review,
+meta-analysis, and metaregression); (2) the number of
+studies included in each review; (3) training intensity groups
+(i.e., control, MICT, HIIT, and SIT, which fall under the
+umbrella terms of LITor HIT, resp.); (4) sample size in each
+training group, and (5) baseline characteristics (e.g., sex, age,
+and training status). 'e following training intervention
+information was also extracted: (1) modality of exercise (e.g.,
+running, cycling, etc.); (2) duration of the intervention; (3)
+frequency of training (weekly); (4) exercise intensity (i.e., %
+max); and (5) change in VO2max or pre/post-training re-
+sults. For accuracy of interpretation, all intensity descriptors
+(i.e., numerical and categorical) were extracted from their
+original reviews ad verbatim and were not recategorised
+within the results section of this current paper.
+2.5. Study Quality Assessment. A Measurement Tool for the
+Assessment of Multiple Systematic Reviews (AMSTAR)
+checklist was used to rate the quality of the literature [17].
+'e tool consists of 11 items and has good face and content
+validity for measuring the methodological quality of sys-
+tematic reviews [17]. 'e total quality score for each in-
+cluded review ranged from 0 to 11. 'e quality of the review
+was labelled as either weak (score range: 0–3), moderate
+(score range: 4–7), or strong (score range: 8–11).
+If primary studies are included in more than one review, this
+can lead to bias (pseudoreplication) in the interpretation of the
+results. A citation matrix of the primary studies was constructed
+to assess the degree of overlap between the systematic reviews/
+meta-analyses included in the overview. 'e degree of overlap
+was assessed by the percentage of primary studies included in >1
+systematic review/meta-analysis and the correct covered area
+(CCA):(N–r)·(r · c–r)−1, where N is the total number of studies
+(including
+double-counting);
+c number
+of
+reviews;
+r number of unique studies, indicating slight (0 to 5%),
+moderate (6 to 10%), high (11 to 15%), or very high (>15%)
+overlap [18].
+3. Results
+Table 2 includes details of the population characteristics of
+the 11 included reviews. 'e reviews included were sys-
+tematic
+[15–18,
+23,
+24,
+26],
+and/or
+meta-analyses
+[14, 15, 19, 21–27], and/or meta-regressions [22]. Taken
+2
+Translational Sports Medicine
+ tsmed, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1155/2022/9310710, Wiley Online Library on [12/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+together, the eleven included reviews covered a total of 179
+primary studies at 23 ± 10 (range: 9 to 41) studies per review.
+Forty-nine (27%) of the primary studies were included in
+two or more reviews. 'e CCA was 4.7%, indicating a
+“slight” degree of overlap between systematic review/meta-
+analyses.
+3.1. Study Characteristics. AMSTAR scores (Table 2) for the
+included reviews were either moderate [6, 7, 19, 21, 22, 25]
+strong [8, 9, 14, 15, 20, 23, 26, 27], or very strong [10, 24]. 'e
+number of studies included within each review ranged from
+9 [24] to 41 [19]. Control groups included were either de-
+ﬁned as: a nonexercise control group (CON) [19, 22] or an
+exercising control group (EX-CON) [14, 26], which nomi-
+nally diﬀered from MICT but was approximately the same
+intensity, and/or a MICT [14, 15, 19, 23, 24, 27] group, with
+HIIT [14, 21–25] or SIT [15, 26, 27] accompanying the EX-
+CON or CON groups. 'e reviews, in some instances, only
+reported the total sample size [21, 24, 25], with other reviews
+including the breakdown of participants across the training
+groups. All reviews included both male and female partic-
+ipants; however, it was evident that there was a greater
+number of male participants (68% male vs. 27% female),
+457 articles identiﬁed through the
+following databases:
+MEDLINE, PubMed, SPORTDiscus,
+Web of Science and Google Scholar
+441 articles remaining
+after duplicates removed
+441 titles screened for inclusion and
+exclusion criteria
+72 abstracts screened for inclusion
+and exclusion criteria
+23 full text articles screened for
+inclusion and exclusion criteria
+11 additional articles screened from
+associated bibliographies
+11 articles included in umbrella
+systematic review
+23 articles excluded after full
+text article screening
+29 articles excluded after
+abstract screening
+369 articles excluded after title
+screening
+Identification
+Screening
+Eligibility
+Included
+Figure 1: Schematic representation of the data extraction protocol. 'e PRISMA ﬂowchart was used to illustrate the inclusion and exclusion
+criteria used in this overview.
+Table 1: Search strategy: key words used for the literature search.
+Set
+Search Terms
+#1
+High-intensity interval training OR high-intensity intermittent training OR sprint interval training OR endurance training OR
+continuous endurance training OR aerobic training OR maximal oxygen uptake OR peak oxygen uptake OR VO2max OR
+moderate intensity continuous training
+#2
+AND
+Cardiometabolic OR cardiovascular OR cardiorespiratory
+#3
+AND
+Review of literature OR literature review OR meta-analysis OR systematic review
+#4
+NOT Animals OR masters OR paraplegic OR injury OR disease OR obese OR overweight OR altitude OR cross-sectional study OR
+obesity OR children OR adolescents OR teenagers OR physical activity OR heat
+Translational Sports Medicine
+3
+ tsmed, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1155/2022/9310710, Wiley Online Library on [12/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+with 5% of reviews not diﬀerentiating between male and
+female participants. 'e age of the participants ranged from
+young healthy adults (>18 y) [14, 23, 26] to older healthy
+adults (>70 y) [19, 21]. Table 3 highlights the eﬀect of dif-
+ferent training methods on VO2max across the reviews.
+Primary modes of exercise included running [19–22, 26, 27]
+and cycling [14, 15, 19–22, 26, 27], with other modes of
+exercises reported, such as tai chi [19] and snowshoeing [22].
+Duration of exercise training intervention(s) ranged from 4
+to 38 weeks [15, 26]. Training frequency ranged between 2
+Table 2: Summary of reviews included within the overview, participant, and background information.
+Author
+Type of review
+AMSTAR
+Number
+of studies
+Training
+group
+Sample size
+Sex
+Age (years)
+Training status
+MICT
+Huang
+et al. [19]
+Meta-analysis
+7
+41
+MICT  50
+CON  43
+MICT 1257
+CON  845
+Not
+reported
+MICT  67.1 ± 4.7
+CON  67.7 ± 5.4
+Sedentary
+HIIT
+Wen et al.
+[20]
+Meta-analysis
+9
+35
+HIIT  29
+MICT 18
+EX-CON  9
+CON  15
+HIIT  433
+MICT  207
+EX-CON  68
+CON  218
+M  687
+F  276
+Range:19.4–43.1
+Mean: 24.3 ± 4.7
+Healthy athletic
+Montero
+et al. [21]
+Systematic
+review meta-
+analysis
+7
+14
+HIIT  9
+MICT 15
+Total  153
+M  115
+F  38
+Range: 42–71
+Mean: 61.72 ± 7.58
+Healthy
+Scribbans
+et al. [22]
+Metaregression
+meta-analysis
+7
+28
+HIIT  28,
+CON  12
+T1  136
+T2 134
+T3 120
+M  95,
+F  41.
+M  107,
+F  27.
+M  79,
+F  41.
+T1  23 ± 1
+T2  23 ± 1
+T3  22 ± 2
+Healthy active
+Milanovi´c
+et al. [23]
+Systematic
+review meta-
+analysis
+8
+28
+HIIT  28
+MICT  24
+HIIT  269
+MICT  204
+CON  246
+M  455
+F  194
+Mix  70
+Range:18–50.3
+Mean: 25.1 ± 5
+Healthy,
+untrained,
+sedentary,
+recreational
+Montero
+et al. [24]
+Systematic
+review meta-
+analysis
+10
+9
+HIIT  4
+MICT  6
+Total  130
+M  120
+F  10
+Range: 22–28
+Healthy
+Weston
+et al. [14]
+Meta-analysis
+9
+32
+HIIT  36
+MICT 19
+EX-
+CON  11
+HIIT  343
+MICT  69
+EX-CON  95
+HIIT:
+M  251,
+F  92.
+END:
+M  36,
+F  33. EX-
+CON:
+M  62,
+F  33.
+HIIT:3.62 ± 3.31
+MICT: 22.43 ± 2.14
+EX-CON:
+4.62 ± 4.41
+Sedentary
+active
+Bacon et al.
+[25]
+Meta-analysis
+6
+36
+HIIT and
+MICT: not
+reported
+Total  334
+M  214,
+F  120
+Range:18–42
+Healthy
+SIT
+Gist et al.
+[26]
+Systematic
+review meta-
+analysis
+8
+16
+SIT 16 EX-
+CON  16
+SIT 179 EX-
+CON  139
+M  97
+F  75
+Mix  146
+Mean: 23.5 ± 4.3
+Healthy
+sedentary
+Trained
+recreational
+Sloth et al.
+[15]
+Systematic
+review meta-
+analysis
+7
+13
+SIT 19,
+MICT 13
+SIT 190,
+MICT  262
+SIT:
+M  121,
+F  69.
+END:
+M  181,
+F  81.
+Not reported
+Healthy
+overweight
+HIIT and SIT
+Maturana
+et al. [27]
+Meta-analysis
+8
+21
+HIIT 11
+SIT 15
+MICT  25
+HIIT 144
+SIT 149
+MICT  270
+M  343
+F  44
+Range: 20–64
+Mean: 29.1 ± 12
+Sedentary
+active
+HIIT: high-intensity interval training; CON: nonexercise control; MICT: moderate-intensity continuous training; EX-CON: exercising control; SIT: sprint
+interval training; M: male; F: female; mix: male and female; T1: 60–70% VO2max; T2: 80–92.5% VO2max; and T3:100–250% VO2max.
+4
+Translational Sports Medicine
+ tsmed, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1155/2022/9310710, Wiley Online Library on [12/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Table 3: Summary of LIT and HIT training interventions included within each review, training prescription, and evaluation.
+Author
+Mode
+Duration (weeks)
+Frequency (times per
+week)
+Intensity (as reported in
+reviews)
+VO2max
+MICT
+Huang
+et al. [19]
+Walking (80%),
+jogging, cycling,
+stair-climbing,
+aerobic dance, tai
+chi, outdoor and
+aerobic games.
+38.1 ± 10
+Total  3.3 ± 0.7
+MICT: HRmax (n  19,
+60–85% (73.3 ± 6.2%)),
+VO2max (n  10, 50–82%
+(63.5 ± 10.4%)), HRR
+(n  28, 35–80%
+(62.0 ± 13.1%)), HRmax
+(n  10, 107–129 bpm
+119.8 ± 7.5 bpm))
+MICT: (mean ± SEM,
+3.50 ± 0.84 mL.kg.min-1; 95%
+CI:1.83–5.17; p < 0.001),
+CON:(0.27±0.91mL.kg.min-1;
+95% CI:–2.08 to 1.54;
+p  0.769 )
+HIIT
+Wen et al.
+[20]
+Cycling (n  21)
+Handcycling
+(n  1) Running
+(n  10) Walking
+(n  1) Swimming
+(n  1) Rowing
+(n  2)
+6.62 ± 3.46
+Total  3.17 ± 0.94
+HIIT: vVO2max (n  3,
+100–110%), All out
+(n  11), pVO2max (n  3,
+100–125%), VO2max
+(n  6, 80–120%),
+VO2peak (n  1, 90%),
+Wmax (n  2, 80-90%), LT
+(n  1, 120–140%), HRR
+(n  2, 80-90%), HRmax
+(n  3, 85–97.5%),
+maximal eﬀort (n  2),
+near maximal (n  1), PPO
+(n  1, 175%). MICT: GET
+(n  1, 90%), VO2max
+(n  6, 60–70%), VO2peak
+(n  3, 65%), LT (n  1, 80-
+95%), HRR (n  2,
+50–55%), HRmax (n  4,
+65–80%), pVO2wmax
+(n  1, 65%). EX-CON:
+13 km/hr (n  1), HRmax
+(n  1, 70%), VO2max
+(n  1, 80%), vVO2peak
+(n  1, 50%)
+Healthy: HIIT vs. CON: large
+eﬀect (SMD 5.45mL.kg.min-1;
+SMD  1.81, 95% CI 1.39–2.22,
+p < 0.05). HIIT vs. MICT:
+moderate eﬀect
+(SMD  2.06 mL.kg.min-1;
+SMD  0.64, 95% CI:
+0.23–1.05, p < 0.05). Athletic:
+HIIT vs. CON: small eﬀect
+(SMD  1.71 mL.kg.min-1;
+SMD  0.57, 95% CI 0.13–1.01,
+p < 0.05)
+Montero
+et al. [21]
+Walking (n  7)
+Running (n  7)
+Cycling (n  13)
+Rowing (n  4)
+23.95 ± 17.85
+Total  2.56 ± 0.88
+HIIT: HRmax (n  9,
+70–90%), VO2max (n  5,
+60–80%), Wmax (n  2,
+90–100 %), HRR (n  1,
+80%). MICT: not reported
+MICT vs. HIIT: SMD: 0.95
+(95% CI: 0.64, 1.25),
+p < 0.0001. MICT: SMD: 0.79
+(95% CI: 0.41, 1.17), p < 0.0001
+Scribbans
+et al. [22]
+Cycle (n  26)
+Running (n  13)
+Ball dribbling
+(n  1)
+Snowshoeing
+(n  1)
+T1  6 ± 0.3
+T2  6.9 ± 0.4
+T3  6.2 ± 0.3
+T1  3.7 ± 0.3
+T2  3.2 ± 0.2
+T3  3.1 ± 0.2
+MICT: T1  68(60–70%
+VO2max). HIIT:
+T2  87(80–92.5%
+VO2max),
+T3 167(100–250%
+VO2max)
+T1: Pre  3.2 ± 0.2 (L.min-1),
+Post  3.5 ± 0.2 (0.29 ± 0.15,
+ES  0.77). T2: Pre  3.8 ± 0.2,
+Post  4.1 ± 0.2 (0.26 ± 0.10,
+ES  0.68). T3: Pre  3.2 ± 0.2,
+Post  3.5 ± 0.2 (0.35 ± 0.17,
+ES  0.80)
+Translational Sports Medicine
+5
+ tsmed, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1155/2022/9310710, Wiley Online Library on [12/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Table 3: Continued.
+Author
+Mode
+Duration (weeks)
+Frequency (times per
+week)
+Intensity (as reported in
+reviews)
+VO2max
+Milanovi´c
+et al. [23]
+Not reported
+HIIT  8.86 ± 5.01
+END  9.62 ± 5.43
+HIIT  3.2 ± 2.98
+END  3.32 ± 2.87
+HIIT: all out (n  6),
+HRmax (n  4, 90–100%),
+HRR (n  1, 100%),
+VO2max (n  7, 80–170%),
+Pmax (n  1, 125%),
+pVO2max (n  1, 80%),
+MAS (n  1, 105–110%),
+vVO2max (n  2,
+75–130%), pVO2max
+(n  1, 80%), WRmax
+(n  1, 120%), LT (n  1,
+120–140%). MICT:
+HRmax (n  6, 60-80%),
+HRR (n  2, 75–85%),
+VO2max (n  9, 60–70%),
+VO2peak (n  4, 65%),
+vVO2max (n  1, 75%),
+VLT (n  1, 75–85%), LT
+(n  1, 80–85%)
+HIIT: 5.5 ± 1.2 mL.kg.min-1.
+MICT: 4.9 ± 1.4 2 mL.kg.min-1
+Montero
+et al. [24]
+Cycle ergometer
+(n  7) Treadmill
+(n  6)
+5–12.9
+Total  1.17-4.41
+HIIT: Wmax (n  1,
+50–75%), HRmax (n  7,
+70–100%), VO2max (n  5,
+60–95%). MICT: not
+reported
+MICT: SMD: 0.64, 95% CI:
+0.23–1.05, p  0.002. HIIT:
+SMD: 0.87 (CI: 0.22–1.51),
+p  0.008
+Weston
+et al. [14]
+Wingate cycling
+HIIT  5.3 ± 2.25
+END  4.9 ± 2.1 EX-
+CON  4.4 ± 2.7
+HIIT  2.8 ± 0.5
+MICT  3.4 ± 1.1 EX-
+CON  4
+HIIT: VO2max (n  3,
+95–130%), Vmax (n  1,
+93%), Pmax (n  8,
+90–175%), all out (n  23).
+MICT: VO2max (n  5,
+65–80%), GET (n  1,
+90%), Pmax (n  1,
+60–70%), HRmax (n  1,
+70–80%). EX-CON:
+vVO2max (n  1, 75%)
+HIIT: 6.2%, ±3.1 (90% CI).
+MICT vs. HIIT: −1.6% ±4.3.
+EX-CON:1.2% ±2.0
+Bacon et al.
+[25]
+Running Cycling
+6–12
+Not reported
+HIIT: not reported MICT:
+30–48 min/day at
+64.3 ± 3.7% VO2max
+HIIT: Random eﬀects model:
+0.51 L.min-1 (95% CI:
+0.43–0.60, p  0.001 ).
+SMD  0.86 (95% CI: 0.72 to
+0.99). MICT: not reported
+SIT
+Gist et al.
+[26]
+Cycling (n  10)
+Running (n  7)
+4.8 ± 2.3
+Total  2.9 ± 0.4
+SIT: All out (n  13),
+Maximal (n  1), PPO
+(n  1, 175%), VO2max
+(n  1, 130%). EX-CON:
+VO2max (n  6, 65-80%),
+HRmax (n  1, 70–80%),
+GET (n  1, 90%), NA
+(n  7), Moderate (n  1),
+Low-moderate (n  1)
+SIT: -2.43-11.84% (Cohen’s
+d  0.32, 95% CI : 0.10–0.55;
+z  2.79, p < 0.01). SIT vs.
+MICT: 2.17–13.49% (Cohen’s
+d  0.04, 95% CI : −0.17 to 0.24;
+z  0.36, p  0.72 ). SITvs. EX-
+CON: Cohen’s d  0.69, 95%
+CI: 0.46–0.93; z  5.84,
+p < 0.01)
+Sloth et al.
+[15]
+Wingate tests
+(n  18) Treadmill
+(n  1)
+4.46 ± 2.3
+Total  3
+SIT: all out: 30 seconds
+(n  9), 10–15 seconds
+(n  3). MICT: not
+reported
+SIT: Range: 4.2–13.4%. Mean:
+8.54 ± 3.05%. SMD: 0.63, 95%
+CI: (0.39–0.87)
+HIIT and SIT
+6
+Translational Sports Medicine
+ tsmed, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1155/2022/9310710, Wiley Online Library on [12/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+and 5 times per week, with all reviews reporting a mean
+training frequency of 3 training sessions per week.
+3.2. Intensity Prescription. Training intensities (Table 3) pre-
+scribed ranged from LIT (60% VO2max or 70% HRmax)
+[23, 27] to supramaximal (“all out”) HIT [14, 15, 20, 23, 26, 27].
+Exercise intensity was prescribed using a range of measures
+(Figure 2) other than VO2max [14, 15, 20, 23, 25, 27], including
+maximal heart rate (HRmax) [20, 24, 26, 27], heart rate reserve
+(HRR) [19–21, 23, 24, 26]), other VO2max variables (maximal
+velocity at VO2max (Vmax) [14, 19–24, 26], velocity at VO2max
+(vVO2max) [19–21, 23], gas exchange threshold (GET)
+[14, 20, 23], peak oxygen uptake (%VO2peak) [23], maximal
+aerobic power (pVO2max) [14, 15, 20, 26], maximal aerobic
+speed (MAS) [14, 26]), power output (peak watt work load
+(Pmax) [14], work rate at VO2max (%WRmax) [23], maximal
+power output (%Wattmax) [21, 24], peak power output (%
+PPO) [20, 26, 27]), lactate threshold variables (lactate threshold
+(%LT) [23, 27]; velocity at lactate threshold (%VLT) [23, 27],
+change between lactate thresholds VO2max (∆LT) [27]), and
+maximal exertion (“all out” [20, 23]). 'e measures reported in
+this overview were categorised in line with the training modality
+(i.e., MICT, HIIT, and SIT) and accompanied by the number of
+studies and range of intensities prescribed. It is important to
+note that the categorisation of intensity within HIT groups
+diﬀers and is not in line with previously standardised categories
+[25]. For example, Montero et al. [21] classify HIT at VO2max
+between 60 and 80%. However, Montero et al. [24] in a younger
+population (22–28 years) prescribed HITas a VO2max between
+60 and 95%. Additionally, it is important to note that deﬁnitions
+of variables of power output diﬀer between reviews, and in some
+instances, diﬀerent deﬁnitions equate to the same prescription
+measure. For example, Pmax [14], %WRmax 19, %Wattmax
+[21, 24], and %PPO [20, 26, 27] provide similar measures of
+power output but use diﬀerent terminology. 'erefore, within
+Tables 2 and 3, intensities were categorised in accordance with
+the original reviews and not recategorised; however, these in-
+tensity variations were taken into consideration for the purpose
+of the discussion section. Finally, VO2max as an outcome
+measure was either reported as mL.kg.min−1, L.min−1 or %
+change in VO2max.
+3.3. Exercise Outcome. All reviews included in this overview
+showed that exercise training increased VO2max (Table 3).
+Reviews that used a nonexercise control comparator showed a
+signiﬁcant improvement in VO2max following LIT (i.e., MICT
+[14, 19]) and HIT (i.e., HIIT [14, 20, 22, 25] and SIT [20, 26])
+[27]. Six meta-analyses directly compared HIT and LIT mo-
+dalities [14, 20, 22, 23, 26], which allowed for a meta-analytical
+comparison between training intensity groups. Of these, three
+[20, 23, 27] reported small/moderate beneﬁcial eﬀects for HIT
+on VO2max over LIT [20, 23], but had a high degree of overlap
+between primary studies (CCA 11%). However, it is impor-
+tant to highlight some discrepancies within/between the reviews
+included in this overview, which resulted in exclusion from the
+intensity comparison. For example, Montero et al. [21, 24]
+included both a HIIT (HIT group) and an MICT (LIT group)
+group; however, the intensities prescribed for HIIT were low
+(e.g., 60–95% VO2max) compared to other reviews included in
+this overview. 'ese reviews could not be considered for further
+analyses as they did not have a distinctive HITgroup. 'erefore,
+the ﬁndings are principally here limited to a young healthy
+participants.
+4. Discussion
+4.1. Meta-Analysis Findings. Taken together, the eleven in-
+cluded reviews reported data from 179 unique primary
+Table 3: Continued.
+Author
+Mode
+Duration (weeks)
+Frequency (times per
+week)
+Intensity (as reported in
+reviews)
+VO2max
+Maturana
+et al. [27]
+Cycling (n  20)
+running (n  5)
+8.76 ± 9.03
+HIIT  3.08 ± 0.28
+SIT  3.07 ± 0.27
+MICT  3.32 ± 0.69
+HIIT: VO2max (n  6,
+75–101%), PPO (n  1,
+100%), ∆LT (n  1,
+35–75%). SIT: maximal at
+resistance % BM (n  9,
+7.5%), %BM (n  2, 5%),
+VO2max (n  2,
+100–170%), HRmax
+(n  1, 90–95%) MICT:
+VO2max (n  17,
+50–70%), LT (n  2,
+90–95%), HRR (n  2,
+50–60%), HRmax (n  3,
+64–80%)
+HIIE vs. MICT: small eﬀect
+(SMD  0.25, 95% CI:
+0.04–0.48, p  0.022)
+HIIT: high-intensity interval training; CON: nonexercise control; MICT: moderate-intensity continuous training; EX-CON: exercising control; SIT: sprint
+interval training; VO2max: maximal oxygen uptake; T1: 60–70% VO2max; T2: 80–92.5% VO2max; T3:100–250% VO2max; HRmax: maximal heart rate; HRR:
+heart rate reserve; Vmax: maximal velocity at VO2max; vVO2max : velocity at VO2max; Pmax: peak watt work load; GET: gas exchange threshold; pVO2max:
+maximal aerobic power; MAS: maximal aerobic speed; WRmax: work rate at VO2max; ∆LT: change between lactate threshold VO2max; VO2peak: peak
+oxygen uptake; VLT: velocity at lactate threshold; Wmax: maximal power output; PPO: peak power output; maximal at resistance of %BM: 30 second all-out
+eﬀort relative to % body mass; and HIIE: combination of HIIT and SIT training eﬀects on VO2max
+Translational Sports Medicine
+7
+ tsmed, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1155/2022/9310710, Wiley Online Library on [12/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+studies. However, further investigation shows the limitation
+of current systematic reviews and/or meta-analyses, with an
+average of only 23 ± 10 studies per review, which highlights
+the need for this current overview. 'e ﬁndings of this
+overview show that LIT and HIT are both eﬀective at in-
+creasing VO2max in both young and old, healthy, and
+sedentary, adults; however, some methodological consid-
+erations require attention on the interpretation of these
+ﬁndings. Evidence from the meta-analyses that directly
+compared LIT versus HIT protocols on VO2max was, os-
+tensibly, reported as either trivial or inconclusive. 'ree out
+of the six included meta-analyses reported small/moderate
+beneﬁcial eﬀects of HIT over LIT (α < 0.05) [20, 23, 27].
+However, two of these reviews reported “substantial” het-
+erogeneity (I2>0.75) [28], small-study bias (p < 0.10) [29], a
+relatively small pooled sample size (i.e., <1,000 participants),
+had a high degree of overlap (CCA  11%) and reported
+several moderators (e.g., baseline ﬁtness levels, age, HIT
+variables [e.g., volume, frequency, and duration]), which
+likely aﬀected results. All three reviews identiﬁed that,
+compared to LIT, HITgenerally elicited a greater increase in
+VO2max in older and less ﬁt populations, and/or when long-
+interval (2 to 4 minutes of work/bout), high-volume (15-
+minute work/session), and moderate/long-duration HIT
+protocols (>4 weeks) were prescribed [20, 23, 27]. Fur-
+thermore, several primary studies within these reviews
+concluded that HIT had greater beneﬁcial eﬀects for older
+participants, whereas LIT showed greater eﬀects for par-
+ticipants with lower baseline ﬁtness [19, 21, 24]. 'erefore, it
+is diﬃcult to conduct a crude comparisons between LITand
+HIT, where a more nuanced approach is required (i.e., not all
+populations respond the same nor are all HIT protocols
+consistent, therefore giving disparate responses because of
+other training parameters, rather than intensity per se).
+4.2. Systematic Review Findings. In healthy older partici-
+pants, Montero et al. [21] reported an increase in VO2max
+following a LIT intervention (SMD  0.79, CI  0.41 to 1.17)
+with the HIT intervention prescribed at 60–80% VO2max
+also eliciting an improvement in VO2max (SMD  0.95,
+CI  0.64 to 1.25). Analysis revealed that none of the
+assessed potential cofactors (i.e. gender, training charac-
+teristics, and methodological quality) moderated the im-
+provement in VO2max. Furthermore, Montero et al. [24]
+reported similar results in a younger population but found
+that training interventions using cycling (ergometer)
+showed a greater increase in VO2max compared with
+studies
+that
+undertook
+LIT
+running
+(treadmill)
+(SMD  1.06 vs. 0.43). As expected, Huang et al. [19]
+showed that older sedentary individuals who performed
+LIT (55–60% VO2max) for 30–35 minutes per session,
+three times per week for 16–20 weeks, could improve their
+VO2max by approximately 3.8 mL kg.min−1 (∼16% im-
+provement). Moreover, recent “big data” research, on real-
+world running activities of ∼14,000 individuals with ∼1.6
+million exercise sessions and a total distance of ∼20 million
+km, found that faster runners partake in greater volumes of
+LIT than slower runners, which was associated with better
+performance during high-intensity exercise [30].
+Research has shown that HIT increases VO2max in
+healthy adults [24]. Scribbans et al. [22] found that HIT
+(80–92.5% VO2max) was a powerful method for eliciting
+improvements in VO2max (0.26 ± 0.10 L.min−1, ES  0.68).
+Weston et al. [14] included a cohort of both healthy and
+sedentary participants, reporting moderate improvements in
+VO2max for both active nonathletic (6.2 ± 3.1%) and sed-
+entary men (10 ± 5.1%), as well as active nonathletic
+(3.6 ± 4.3%) and sedentary women (7.3 ± 4.8%), when
+compared to a control group (1.2 ± 2.0%). Wen et al. [20]
+found that the degree of change in VO2max induced by HIT
+varied by population, with greater improvements seen from
+a healthy nonathletic population, compared to an athletic
+population. Although all HITprotocols only evoked a small/
+moderate increase in VO2max over LIT programmes [27],
+long-interval (≥2 min) (SMD  1.07 (CI  0.62, 1.52)), high-
+volume (≥15 min) (SMD  1.04 (CI  0.54, 1.54)), and
+moderate-to-long duration (≥4–12 weeks) (SMD  0.77
+(CI  −0.08, 1.61)) HIT programmes evoked a greater in-
+crease in VO2max [20], which highlights that a more nu-
+anced approach is required in view of other training
+variables alongside intensity during program design. Finally,
+Sloth et al. found that 2–8 weeks of HIT, performed 2–3
+times a week, showed VO2max improvements (SMD  0.63,
+CI  0.39 to 0.87) for both sedentary and healthy participants
+[15]. However, when compared to LIT, Gist et al. [26] found
+small eﬀects between HITand LIT (SMD  0.04, CI  -0.17 to
+0.24). 'ese ﬁndings provide evidence in support of HIT but
+as their meta-analysis concluded, the diﬀerence in the in-
+crease between HITand LITwas either trivial or inconclusive
+in healthy participants.
+4.3. Limitations and Future Research Considerations. It is
+evident that both LIT and HIT modalities carry their own
+limitations. Scribbans et al. [22] noted that a lack of an exercise
+MICT
+HIIT
+SIT
+Heart Rate
+Aerobic
+Capacity 
+Power Output
+Threshold
+Heart Rate
+Aerobic
+Capacity
+Power Output
+Threshold
+Heart Rate
+Aerobic
+Capacity
+Power Output
+Maximal at
+resistance of 5-7.5%
+BM
+PPO (>175%)
+All out
+Maximal
+Exertion
+VO2max (50-82%)
+VO2peak (<65%)
+vVO2max (<75%)
+VO2peak (<50%)
+HRmax (60-85%)
+HRR (35-85%)
+Pmax (60-70%)
+pVO2wmax
+(<65%)
+GET
+(<90%)
+LT (75-
+95%)
+MAS (105-110%)
+Vmax (>93%)
+VO2max (60-250%)
+VO2peak (>90%)
+vVO2max (75-130%)
+vVO2peak (80-120%)
+HRmax (70-
+100%)
+HRR (80-100%)
+Pmax (90-175%)
+PPO (100-175%)
+pVO2max (80-
+125%)
+Wmax (50-100%)
+WRmax (>120%)
+ΔLT (35-
+75%).
+LT (120-140%)
+VO2max (100-170%)
+HRmax (90-95%)
+Figure 2: Flow chart diagram of exercise intensity prescription across the eligible reviews.
+8
+Translational Sports Medicine
+ tsmed, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1155/2022/9310710, Wiley Online Library on [12/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+intensity eﬀect was speciﬁcally related to LIT interventions
+during short-term studies that were not comparable to HIT
+interventions. 'erefore, work-matched (i.e., per session and
+over the total training period) training loads are required to
+make accurate comparisons between HIT and LIT interven-
+tions [22]. And the use of training impulse (TRIMP) (i.e.,
+usually the product of training intensity and time) may
+provide greater insight into the relative eﬃcacy of LITand HIT
+interventions [30]. 'is also highlights the need for stand-
+ardisation of training with large variation in control of the
+independent variable (i.e., intensity) reported between studies.
+It was noted that several of the reviews in this overview
+prescribed HIT interventions that could have been (re)clas-
+siﬁed as LIT [21, 24]. Furthermore, with reference to training
+intensity, standardisation is required for some of the other
+training variables that are (sometimes inextricably) linked to
+training intensity (e.g., frequency, volume, and duration). Gist
+et al. [26] stated that the duration of training interventions in
+most SIT studies was <6 weeks, questioning the long-term
+improvements and adaptations within these studies.
+Broader limitations exist around sample population,
+study design, and sample size. Whilst some reviews reported
+heterogeneity among their included studies [20], others only
+included studies of young healthy sedentary or recreationally
+active adults [14, 15, 22] or older populations [19, 21]. As
+noted previously, there are a greater number of males across
+the 11 included reviews. Removing any potential bias
+through RCTs is an important consideration. Scribbans et al.
+[22] reported that none of their included studies applied
+RCTs, Sloth et al. [15] reported only four studies that applied
+RCTs design, and Gist et al. [26] reported that the majority of
+included studies were RCTs. Finally, small/underpowered
+sample sizes are a re-occurring problem, as recruitment,
+adherence, and commitment are diﬃcult. Montero et al. [21]
+stated that the majority of ﬁndings were derived from a
+relatively small number of studies reporting a lack of sta-
+tistical power [15] and potential publication bias in sample
+sizes of between eight and ten participants, with the ag-
+gregation of data suggesting publication bias is likely [20].
+'erefore, our overview begins to overcome these issues and
+highlights the need for carefully controlled research designs.
+Other speciﬁc considerations need to be considered such
+as outdated technology, and possibly, how less reliable
+methods for measuring VO2max might aﬀect the validity and
+reliability of results from early studies [19]. HITwarrants high
+levels of motivation and this may present as an issue to long-
+term adherence [14]. Finally, the extraction of relative values
+(ml.kg.min−1) rather than absolute values (L.min−1) of
+VO2max may magnify the training eﬀect due to a possible
+decrease of body mass during the training intervention [20].
+'ese considerations should provide future researchers with
+some guidance around the interpretation of previously
+published research and future aggregation of these ﬁndings.
+5. Perspective
+'e ﬁndings of this review show that both LIT and HIT are
+eﬀective at improving VO2max and overlap analysis between
+reviews highlights the need for such an approach to
+synthesising the literature. Evidence from meta-analyses that
+compared LIT versus HIT protocols on VO2max reported
+either small, trivial, or inconclusive eﬀects between training
+groups. 'ree reviews reported that HIT has potentially
+greater beneﬁcial eﬀects for older and/or less ﬁt participants
+versus LIT. Interestingly, smaller eﬀects were seen for longer
+HIT intervals and may suggest the importance of exercise
+intensity even between diﬀerent HIT modalities (e.g., SIT
+and HIIT). Finally, several methodological considerations
+are highlighted in this overview, such as the sample pop-
+ulation, research design, sample size, and intervention du-
+ration. Other speciﬁc considerations include technology
+used to control, monitor, and administer the exercise in-
+tensity, control of other (extraneous) training parameters
+(e.g., work, TRIMP), to allow accurate comparisons to be
+made diﬀerent exercise intensities, and standardised no-
+menclature around training intensity guidelines and cate-
+gorisation in research and practice.
+Disclosure
+'is research was performed as part of the employment at
+the University of Limerick, Ireland. 'e funder was not
+involved in the manuscript writing, editing, approval, or
+decision to publish.
+Conflicts of Interest
+'e authors declare that there are no conﬂicts of interest
+regarding the publication of this article.
+References
+[1] P. E. Di Prampero, “Factors limiting maximal performance in
+humans,” European Journal of Applied Physiology, vol. 90,
+no. 3, pp. 420–429, 2003.
+[2] B. D. Levine, “: what do we know, and what do we still need to
+know?” 7e Journal of Physiology, vol. 586, no. 1, pp. 25–34,
+2008.
+[3] S. J. Keteyian, C. A. Brawner, P. D. Savage et al., “Peak aerobic
+capacity predicts prognosis in patients with coronary heart
+disease,” American Heart Journal, vol. 156, no. 2, pp. 292–300,
+2008.
+[4] J. Myers, M. Prakash, V. Froelicher, D. Do, S. Partington, and
+J. E. Atwood, “Exercise capacity and mortality among men
+referred for exercise testing,” New England Journal of Med-
+icine, vol. 346, no. 11, pp. 793–801, 2002.
+[5] D.-c. Lee, X. Sui, E. G. Artero et al., “Long-term eﬀects of
+changes in cardiorespiratory ﬁtness and body mass index on
+all-cause and cardiovascular disease mortality in men,” Cir-
+culation, vol. 124, no. 23, pp. 2483–2490, 2011.
+[6] D. C. Lee, E. G. Artero, X. Sui, and S. N Blair, “Mortality
+trends in the general population: the importance of cardio-
+respiratory ﬁtness,” Journal of Psychopharmacology, vol. 24,
+no. 4, pp. 27–35, 2010.
+[7] M. J. MacInnis and M. J. Gibala, “Physiological adaptations to
+interval training and the role of exercise intensity,” 7e
+Journal of Physiology, vol. 595, no. 9, pp. 2915–2930, 2017.
+[8] D. O. Eddy, K. L. Sparks, and D. A. Adelizi, “'e eﬀects of
+continuous and interval training in women and men,” Eu-
+ropean Journal of Applied Physiology and Occupational
+Physiology, vol. 37, no. 2, pp. 83–92, 1977.
+Translational Sports Medicine
+9
+ tsmed, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1155/2022/9310710, Wiley Online Library on [12/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+[9] P. D. Gollnick, R. B. Armstrong, B. Saltin, C. W. Saubert,
+W. L. Sembrowich, and R. E. Shepherd, “Eﬀect of training on
+enzyme activity and ﬁber composition of human skeletal
+muscle,” Journal of Applied Physiology, vol. 34, no. 1,
+pp. 107–111, 1973.
+[10] K. Norton, L. Norton, and D. Sadgrove, “Position statement
+on physical activity and exercise intensity terminology,”
+Journal of Science and Medicine in Sport, vol. 13, no. 5,
+pp. 496–502, 2010.
+[11] E. G. Trapp, D. J. Chisholm, J. Freund, and S. H. Boutcher,
+“'e eﬀects of high-intensity intermittent exercise training on
+fat loss and fasting insulin levels of young women,” Inter-
+national Journal of Obesity, vol. 32, no. 4, pp. 684–691, 2008.
+[12] K. A. Burgomaster, K. R. Howarth, S. M. Phillips et al.,
+“Similar metabolic adaptations during exercise after low
+volume sprint interval and traditional endurance training in
+humans,” 7e Journal of Physiology, vol. 586, no. 1,
+pp. 151–160, 2008.
+[13] M. J. Gibala, J. P. Little, M. Van Essen et al., “Short-term sprint
+intervalversustraditional endurance training: similar initial
+adaptations in human skeletal muscle and exercise perfor-
+mance,” 7e Journal of Physiology, vol. 575, no. 3, pp. 901–911,
+2006.
+[14] M.
+Weston,
+K.
+L.
+Taylor,
+A.
+M.
+Batterham,
+and
+W. G. Hopkins, “Eﬀects of low-volume high-intensity interval
+training (HIT) on ﬁtness in adults: a meta-analysis of con-
+trolled and non-controlled trials,” Sports Medicine, vol. 44,
+no. 7, pp. 1005–1017, 2014.
+[15] M. Sloth, D. Sloth, and K. Overgaard, “Eﬀects of sprint in-
+terval training on VO 2max and aerobic exercise performance:
+a systematic review and meta-analysis,” Scandinavian Journal
+of Medicine & Science in Sports, vol. 23, no. 6, pp. 341–352,
+2013.
+[16] M. J. Page, D. Moher, and P. Bossuyt, “PRISMA 2020 ex-
+planation and elaboration: updated guidance and exemplars
+for reporting systematic reviews,” MetaArXiv Preprints, 2020.
+[17] B. J. Shea, J. M. Grimshaw, G. A. Wells et al., “Development of
+AMSTAR: a measurement tool to assess the methodological
+quality of systematic reviews,” BMC Medical Research
+Methodology, vol. 7, no. 1, pp. 10–17, 2007.
+[18] D. Pieper, S.-L. Antoine, T. Mathes, E. A. M. Neugebauer, and
+M. Eikermann, “Systematic review ﬁnds overlapping reviews
+were not mentioned in every other overview,” Journal of
+Clinical Epidemiology, vol. 67, no. 4, pp. 368–375, 2014.
+[19] G. Huang, C. A. Gibson, Z. V. Tran, and W. H. Osness, “-
+Controlled endurance exercise training and VO2max changes in
+older adults:a meta-analysis,” Preventive Cardiology, vol. 8, no. 4,
+pp. 217–225, 2005.
+[20] D. Wen, T. Utesch, J. Wu et al., “Eﬀects of diﬀerent protocols
+of high intensity interval training for VO2max improvements
+in adults: a meta-analysis of randomised controlled trials,”
+Journal of Science and Medicine in Sport, vol. 22, no. 8,
+pp. 941–947, 2019.
+[21] D. Montero and C. D´ıaz-Cañestro, “Endurance training and
+maximal oxygen consumption with ageing: role of maximal
+cardiac output and oxygen extraction,” European Journal of
+Preventive Cardiology, vol. 23, no. 7, pp. 733–743, 2016.
+[22] T. D. Scribbans, S. Vecsey, and P. B. Hankinson, “'e eﬀect of
+training intensity on VO2max in young healthy adults: a
+meta-regression and meta-analysis,” International Journal of
+Exercise Science, vol. 9, no. 2, pp. 230–247, 2016.
+[23] Z. Milanovi´c, G. Sporiˇs, and M. Weston, “Eﬀectiveness of
+high-intensity interval training (HIT) and continuous en-
+durance training for VO2max improvements: a systematic
+review and meta-analysis of controlled trials,” Sports Medi-
+cine, vol. 45, no. 10, pp. 1469–1481, 2015.
+[24] D. Montero, C. Diaz-cañestro, and C. Lundby, “Endurance
+training and VO2max: role of maximal cardiac output and
+oxygen extraction,” Medicine & Science in Sports & Exercise,
+vol. 47, no. 10, pp. 2024–2033, 2015.
+[25] A. P. Bacon, R. E. Carter, E. A. Ogle, and M. J Joyner,
+“VO2max trainability and high intensity interval training in
+humans: a meta-analysis,” PloS One, vol. 8, no. 9, Article ID
+e73182, 2013.
+[26] N. H. Gist, M. V. Fedewa, R. K. Dishman, and K. J. Cureton,
+“Sprint interval training eﬀects on aerobic capacity: a sys-
+tematic review and meta-analysis,” Sports Medicine, vol. 44,
+no. 2, pp. 269–279, 2014.
+[27] F. Mattioni Maturana, P. Martus, S. Zipfel, and A. M. NIEß,
+“Eﬀectiveness of HIIE versus MICT in improving car-
+diometabolic risk factors in health and disease: a meta-anal-
+ysis,” Medicine & Science in Sports & Exercise, vol. 53, no. 3,
+pp. 559–573, 2021.
+[28] J. P. T. Higgins, S. G. 'ompson, and J. J. Deeks, “Measuring
+inconsistency in meta-analyses,” BMJ, vol. 327, no. 7414,
+pp. 557–560, 2003.
+[29] M. Egger, G. D. Smith, M. Schneider, and C. Minder, “Bias in
+meta-analysis detected by a simple, graphical test,” BMJ,
+vol. 315, no. 7109, pp. 629–634, 1997.
+[30] T. Emig and J. Peltonen, “Human running performance from
+real-world big data,” Nature Communications, vol. 11, no. 1,
+pp. 4936–4939, 2020.
+10
+Translational Sports Medicine
+ tsmed, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1155/2022/9310710, Wiley Online Library on [12/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

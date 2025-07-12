@@ -1,0 +1,2162 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/265002516
+Comparing VO2max Improvement in Five Training Methods
+Article  in  Advanced Studies in Theoretical Physics · January 2012
+CITATIONS
+10
+READS
+21,501
+4 authors, including:
+Kjell Hausken
+University of Stavanger
+310 PUBLICATIONS   5,180 CITATIONS   
+SEE PROFILE
+John F. Moxnes
+72 PUBLICATIONS   638 CITATIONS   
+SEE PROFILE
+All content following this page was uploaded by Kjell Hausken on 04 September 2014.
+The user has requested enhancement of the downloaded file.
+
+ 
+ 
+Adv. Studies Theor. Phys., Vol. 6, 2012, no. 19, 931 – 957 
+ 
+ 
+ 
+ 
+ 
+ 
+Comparing VO2max Improvement  
+ 
+in Five Training Methods 
+ 
+ 
+ 
+John F. Moxnes 
+ 
+Department for Protection 
+Norwegian Defense Research Establishment 
+P.O. Box 25, 2007 Kjeller, Norway 
+john-f.moxnes@ffi.no 
+ 
+ 
+Kjell Hausken 
+ 
+Faculty of Social Sciences 
+University of Stavanger 
+4036 Stavanger, Norway 
+kjell.hausken@uis.no 
+ 
+ 
+Abstract 
+ 
+This paper presents a theoretical study comparing the improvement of the whole body 
+maximum oxygen uptake (maximum aerobic power or VO2max) when training at different 
+intensities and with different methods matched for total work performance and frequency of 
+training. We compare VO2max improvement in five training methods, testing Helgerud et 
+al.’s (2007) experimental study against Moxnes and Hausken’s (2008) theoretical model for 
+athletic performance, fitness, and fatigue. The five methods are long slow distance running 
+(LSD), lactate threshold running (LT), 15/15 sec interval training, 4x4 min interval training, 
+and running at 87.5% of VO2max for 22.17 min. A weight function that scales the importance 
+of aerobic utilization and stroke volume utilization is established. 
+ 
+ 
+Keywords: VO2max, aerobic utilization, stroke volume, performance, fitness, fatigue, Trimp 
+intensity 
+ 
+ 
+ 
+
+ 
+ 
+932                                                                                               J. F. Moxnes and K. Hausken 
+ 
+ 
+ 
+1 Introduction 
+ 
+1.1 Overview 
+Whole body maximal oxygen uptake (maximum aerobic power, aerobic capacity, VO2max) 
+of human beings has interested researchers for many years and regular reviews have been 
+published (Saltin and Strange 1992, Nielsen 2003). Its absolute magnitude and malleability 
+with physical training has practical interest for elite soldiers, for the sports elite, and for 
+anyone involved in physical exercise. Important for the interest in the topic is also that 
+determination of oxygen uptake not only is a measure of aerobic energy turnover, but also 
+offers precise measure of the capacity to transport and utilize oxygen, i.e., the functional 
+capacities of the lungs, cardiovascular system and muscle mitochondria combined. In general 
+aerobic power has been recognized as one of the fundamental components of physical 
+performance and health (Åstrand and Rodahl 1986, Johnson 1991)1.  
+ 
+During exercise, the increase in metabolism is expressed as the whole-body oxygen uptake 
+that increases with exercise intensity to reach a maximum (VO2max). In general the oxygen 
+consumption (VO2) in humans seems to level off at around 6-7 liter oxygen /min and around 
+80-90 ml/min/kg for highly trained athletes (Saltin and Åstrand 1967, Rusko et al. 1978)2. 
+Different steps in the oxygen (O2) chain from air to the cells are considered to contribute as a 
+barrier for O2 utilization. The first step of the oxygen (O2) transport chain is the conductive 
+transport of O2 from the expired air to the alveoli (R1). This conductive transport from 
+inspired to alveolar gas is next followed by a diffusive flow of O2 from the alveoli to the 
+arterial blood (R2). The next step is a conductive transport of O2 to the cells where VO2= Q 
+(Ca-Cv) (R3). Q is the cardiac output and Ca and Cv is the capillary and venous O2 content 
+respectively. We can also write that (Ca-Cv) = beta b (Pa-Pv), where beta is the mean slope of 
+the blood O2 dissociation curve3, b is the solvability of O2 in the blood4. Pa is the arterial O2 
+pressure while Pv is the venous O2 pressure. Thus VO2= Q beta b (Pa-Pv) (R3). A next step  
+                                                          
+1Three major factors accounting for aerobic endurance is simply the VO2max, the work economy, and the 
+capacity to sustain a high fractional utilization of the aerobic power (Pate and Kriska 1984). The role of the 
+oxidative capacity of the muscles might be most important during submaximal work of long duration and when 
+relatively small muscle mass is activated (long distance running or skiing). VO2max might be the most 
+important determinant of performance when large muscle mass is activated during maximal work from several 
+minutes to 1 h (typically cross-country skiing) (Rusko et al. 1978). There is a strong correlation between running 
+performance and VO2max, when the groups investigated are heterogeneously trained athletes. However, in 
+populations with more homogeneously trained athletes, the correlation with running performance is relatively 
+weak. World class cross-country skiers had extremely high VO2max values, and VO2max per unit time per unit 
+mass raised to the power of 2/3 seems to be a fairly accurate determinant of the performance ability of elite 
+cross-country skiers (Ingjer 1991). 
+2 A linear increase in aerobic power induced by a strenuous program of endurance exercise has been observed 
+without any tendency to flatten out (Mikesell and Dudley 1984, Hickson et al. 1977). 
+3 The blood O2 dissociation curve i.e., the  percentage saturation of O2 as a function of  O2 pressure shifts to the 
+right for increasing temperature, pH or carbon dioxide content. 
+4 In mammalian blood the amount of physically dissolved oxygen is around 0.2 ml O2 per 100 ml blood, while 
+the amount bound to hemoglobin is around 20 ml O2 pr 100 ml blood. In water the amount physically dissolved 
+is around 0.5 ml/100 ml water. The venous O2 content is typical around 6 ml O2 per 100 ml blood. This gives an 
+extraction of (20-6)/20= 70%. For elite skiers extraction up to 93% can be achieved (Calbet et al. 2005). 
+
+ 
+ 
+Comparing VO2max improvement  in five training methods                                              933  
+ 
+ 
+ 
+in the O2 chain is the diffusive transport of O2 from the muscle capillary to the mitochondria 
+(R4). The final step is the utilization of O2 in the mitochondria (R5). Thus al together it can 
+be written that VO2max= (Pi-Pm)/(R1+R2+R3+R4+R5), where Pi is the partial pressure of 
+O2 in expired air, and Pm is the partial pressure of O2 in the mitochondria. During maximal 
+exercise with large muscle groups it has been found that R3 is around 50% of 
+(R1+R2+R3+R4+R5). Let Qmax be the maximal value of the cardiac output Q. Using the 
+numbers above it follows that an increase of Qmax x beta by 10% gives an increase in 
+VO2max of 5%. It has been found that R4 and R5 contribute around 7% each. Thus at 
+maximal exercise the cardiac output seems to be the major factor in determining the oxygen 
+delivery. R1 and R2 sum to 36% (Wagner 2000, di Prampero 2003).  
+ 
+The amount of trainability of the parameters R1-R5 is important. For soldiers and elite 
+athletes, or indeed for anyone engaged in athletic activity, it is important to know how 
+intensity, duration, frequency of training and the initial fitness level of the individual relate to 
+VO2max enhancement through time. When comparing trained and untrained college students 
+with Olympic athletes, the overall dominant difference is the cardiac output Q and the 
+systemic arteriovenous O2 difference (Ca-Cv). For control students and Olympic athletes the 
+VO2max is 3.30 and 5.38 Liter O2 per minute respectively (Blomqvist and Saltin 1983). This 
+is a factor 1.63 in advance of the Olympic athletes. The cardiac output Q was 20 and 30.4 liter 
+blood per minute respectively, which gives a factor of 1.52 in advance of the Olympic 
+athletes. The Ca-Cv =74% and 80% respectively, giving a factor of 80/74= 1.08 in advance 
+for the Olympic athletes. A total factor of 1.52 x 1.08=1.64 is achieved. This leaves little 
+room for trainability of R1+R2+R4+R5 which indeed is roughly the same factor 
+1.63/1.64=1.0. However, the maximum stroke volume5 of the heart was 104 ml for the 
+students and 167 ml for the Olympic athletes. This gives a factor of 1.6 in advance of the 
+Olympic athletes. The Olympic athletes have a somewhat smaller maximum heart rate of 182 
+compared to 192 for the students: 192/182= 1/1.52 x 1.6. The volume of oxygen consumed 
+during physical exercise is dependent upon the load on the muscles and also on the mass of 
+muscles at work. If maximum heart rate is achieved the engaged muscle mass is usually 
+sufficient. However, even for maximum heart rate, the VO2max often differs across activities. 
+Usually Ca-Cv could be much smaller for instance in swimming that in running, leaving much 
+room for improvement (Åstrand and Saltin 1961). A change in the Ca-Cv difference could be 
+due to either a redistribution of blood flow and/or increased O2 extraction from the blood by 
+skeletal muscle as such6. 
+ 
+The early studies did not address the cardiac output Q and the arteriovenous O2 difference 
+Ca-Cv separately for the VO2max enhancement. However, many years ago it was suggested 
+that longer duration and higher intensity may be require to increase Ca-Cv compared to the 
+cardiac output Q (Kilbom 1971). This hypothesis was supported by Cunningham and Hill 
+(1975) showing that a period of 9 weeks training resulted in significant increase in VO2max  
+                                                          
+5 The volume of blood pumped per beat. 
+6 A relationship has been observed between VO2max and muscle fiber types indicating that a subject with a high 
+VO2max will most probably have a high percentage of slow twitch fibers in the exercising muscles (Bergh et al. 
+1978, Rusko et al. 1978). See also Calbet et al. (2004) for extraction studies on skiers. 
+
+ 
+ 
+934                                                                                               J. F. Moxnes and K. Hausken 
+ 
+ 
+ 
+which was due to a larger stroke volume with little change in Ca-Cv. However, when training 
+for 1 year a significant increase in Ca-Cv was found. So indeed, the cardiac output Q and the 
+arteriovenous O2 difference Ca-Cv are the two key parameters for trainability of VO2max. 
+For a specific oxygen uptake say 3 liter per minute (below VO2max), training increases the 
+arteriovenous O2 difference Ca-Cv, and reduces the cardiac output Q (Ekblom et al. 1968). 
+However, Cunningham and Hill (1975) found that training increases the cardiac output for the 
+same VO2. Gledhill et al. (1994) found that trained persons had a cardiac output of Q= 7.2+ 
+5.9 x VO2 (liter/min) while untrained persons had Q= 6.6+ 5.1 VO2 (liter /min). The heart 
+rate at the same oxygen uptake is reduced by training while the stroke volume is much the 
+same (Ekblom et al. 1968), or higher (Cunningham and Hill1975). The stroke volume seems 
+to be increasing with VO2 (Cunningham and Hill1975, Gledhill et al. 1994, Warburton and 
+Gledhill 2008). However, for untrained persons the stroke volume seems to plateau at a heart 
+rate of around 120 beats per minute. It is hypothesized that at high heart rates the progressive 
+diminishing time available for diastolic filling limits stroke volume, causing a plateau. 
+However, for trained athletes, because of an enhanced myocardial contractility, less time in 
+cardiac cycle would be required for ventricular emptying, so that more time would be 
+available for blood filling (Gledhill et al. 1994)7. 
+ 
+From an evolutionary perspective it would be relevant to study the effect of different training 
+programs when matched for total metabolic energy consumption per training session8. 
+Although a large body of scientific work has been reported on the effect of VO2max on 
+training, relatively few articles have compared the response of training when matched for total 
+metabolic energy (or total work) per session. Interval (IT) and continuous (CT) training of 
+various variants constitute a base of line of training regimes to improve physical fitness. The 
+VO2 associated with submaximal CT reflects mainly ATP production from aerobic 
+mechanisms. Oxidative processes predominate and are associated with lipid utilization, little 
+anaerobic glycolysis utilization or creatine phosphate depletion. Furthermore there is 
+predominant slow-twitch fiber recruitment with this type of exercise. With IT exercise VO2 
+represents the addition of two terms VO2 during work, and VO2 during recovery. For the 
+work periods, the intensity is near 100% or higher and a large O2 deficit is manifest. This is 
+reflected by a high ATP utilization from anaerobic mechanisms, and consequently a high 
+muscle ATP, CP and myoglobin depletion and high lactate production. There is a partially 
+recovery of ATP, CP and myoglobin during recovery. Lactate is removed during the rest 
+intervals via oxidation and glycogen synthesis in liver, kidney heart and skeletal muscles. The 
+intensity work load in IT results in a high rate of fast-twitch fiber recruitment. IT may change 
+motor unit recruitment patterns and induce specific biochemical adaptations in fast-twitch 
+fibers. In general it is not known whether IT or CT stimulates cardiac output and systemic 
+arteriovenous O2 difference differently. Presumably a good measure for increased cardiac 
+output is increased stroke volume, which should correlate with decreased resting heart rate. A 
+good measure for systemic arteriovenous O2 increase could be enhancement in the VO2 per  
+ 
+                                                          
+7 The stroke volume and its function of the utilization of VO2max or maximum heart rate is under intense 
+discussion. See also Vella and Roberts (2004). 
+8 We set that match by total work or match by total energy expenditure to be much the same. 
+
+ 
+ 
+Comparing VO2max improvement  in five training methods                                              935  
+ 
+ 
+unit cardiac output. One would hypothesize that IT with oscillations in VO2 throughout the 
+exercise and pause periods might better enhance the O2 kinetic response. 
+ 
+Roskam (1967) studied the effect of CT and IT training matched by total work. Soldiers 
+cycled 5 times a week for 4 weeks for. The CT group was most effective in decreasing the 
+heart rate at rest and in the low and middle intensity. However the IT group was more 
+effective in improving the maximum work performance. Knuttgen et al. (1973) studied three 
+groups running 3 times per week for 8 weeks. The groups were somewhat matched for work 
+performance. One group performed strenuous exercise for 15 seconds and 15 seconds rest. A 
+second group performed 3 minute strenuous exercise and 3 minutes rest. The first group 
+increased the VO2max by a factor of 1.16, while the second group increased the VO2max by 
+a factor 1.26 after 8 weeks. Fox et al. (1973) studied two groups that run for 7 weeks 3 times a 
+week. The groups were matched for work. The first group runs 50-200 meter fast pace sprint, 
+while the second group runs 600-1200 meters at relatively slow pace running. The VO2max 
+increased by a factor of 1.09 for the first group and a factor of 1.05 for the second group. It 
+was concluded that muscular hypoxia per se is an important stimulus for the improvement of 
+maximal aerobic power. Fox et al. (1977) studied two groups that ran 3 times a week for 8 
+weeks. The workouts for the high power group consisted of a maximum of 19 high intensity 
+runs at 30 seconds duration alternated with relief or recovery intervals long enough in 
+duration to allow the heart rate to return between 120 and 140 beats/min. The workout for the 
+low intensity group consisted of a maximum of 7 lower intensity runs of 2-min duration with 
+rest relief intervals lasting until the heart rates returned to between 120 and 140 beats /min. 
+The groups were matched for work. It was found that low power and high power output 
+interval training programs elicit similar changes in maximal aerobic and anaerobic 
+metabolism. Eddy et al. (1977) studied subjects participating in a training program upon 
+bicycle ergometer for 7 weeks with training 4 days a week. The CT group trained at 70% 
+VO2max and the IT group trained at 100% VO2max for 1 minute and 1 minute rest. CT and 
+IT training produced identical changes in heart rate response, blood lactic acid concentration 
+and VO2max when the total work load was equated per training session. The CT group and 
+the IT increased the VO2max with a factor 1.15 and 1.14 respectively. Lesmes et al. (1978) 
+studied groups that run IT with different intensity 4 times a week for 8 weeks. One group runs 
+short distances at 50- 200 meters with an intensity of around 170% VO2max. The other group 
+runs distances of 600-1200 meters at intensity of 170%. The high intensity group increased 
+the VO2max by a factor of 1.15, while the low intensity group increased the VO2max by a 
+factor of 1.20. Gregory (1979) studied two groups that run 5 times a week for 6 weeks. The 
+training was matched for total work performance. The CT group runs at the heart rate of 162, 
+while the IT group runs 4 minutes and rests 4 minutes with heart rate 174. The CT group 
+increased the VO2 at a given pulse by a factor of 1.20 while the IT group increased the VO2 
+with a factor 1.24. Cunningham et al. (1979) designed a study on cycling to determine the 
+effect of CT and IT programs on the cardiac (Q) and the peripheral (Ca-Cv) response to 
+training. The total work was matched between the groups. Cunningham et al. (1979) studied 
+two groups. The CT group cycled for an intensity of 70% of VO2max for 20 minutes 4 times 
+per week for 12 weeks. The IT group cycled with an intensity of 90-100% of VO2max for 2 
+minutes with a 1 minute rest period. Both groups demonstrated similar and significant 
+increase in Ca-Cv (leading to an VO2max enhancement of around 20%), but only a marginal  
+
+ 
+ 
+936                                                                                               J. F. Moxnes and K. Hausken 
+ 
+ 
+stroke volume enhancement. It was suggested that the cycling utilized a too small muscle 
+mass compared to jogging, and may therefore place a lesser demand on the heart as a pump to 
+emphasize extraction of oxygen by the working muscles. Fourier et al. (1982) compared 
+skeletal muscle adaption in sprint and endurance training. It was found that CI increased 
+VO2max, glygolytic phosphofructokinase (PFK), oxidative succinate dehydrogenase (SDH), 
+ST and FT muscle fiber area. Sprint training only results in significant enhanced PFK. 
+Thomas et al. (1984) found that interval training may benefit aerobic capacity more than 
+continuo’s running in young adults who have moderately high initial fitness level. They in 
+particular studied continuous 4 miles running at 75% of maximum heart rate, and 8 sets of 1 
+minute running and 3 minutes walking with 90% of maximum heart rate in the running 
+period. The energy consumption was around 500 kcal per session. The enhancement in 
+VO2max after three sessions per week in 12 weeks was 6.9% for continuous running and 
+10.3% for the interval training. Poole and Gaesser (1985) found that for the group training 
+continuously for 55 minutes at 50% of VO2max 3 days a week, the VO2max increased by 
+15% after 8 weeks. The group training continuously for 35 minutes at 75% increased the 
+VO2max by 20%. The group training interval 2 minutes at 105% VO2max with 2 minutes 
+rest walking,10 repetitions, increased the VO2max by 15% (MXX:have number for 4 weeks 
+also 1.17, 1.12, 1.16). The groups were matched for work performance. Gorostiaga et al. 
+(1991) studied two groups. One group cycled continuously for 50% of VO2max 20 minutes 3 
+days a week for 8 weeks. The group that trained interval trained 30 seconds at 100% 
+VO2max, and 30 seconds rest, for 20 minutes. The increase in VO2max was 7 and 11% 
+respectively. Overend et al. (1992) investigated the change in VO2max during 10 weeks 4 
+times a week of training on cycle ergometer. The group performing continuous cycling for 40 
+minutes at 80% of VO2max increased the VO2max by 8%. The group performing interval 
+training in 3 minutes at 100% VO2max and 2 minutes at 50% VO2 max increased the 
+VO2max by 9%. The other group performing interval training for 30 seconds at 120% 
+VO2max and 30 seconds at 40% VO2max increased the VO2max by 17%. All the groups 
+were matched for work. Edge et al. (2005) compared CI and IT training. The CI performed 
+20-30 minutes at VO2max of 80-05%. The IT performed sprints at 120-140% VO2max for 2 
+minutes. The groups trained 3 times a week for 5 weeks. The VO2max increased with around 
+11% for the IT group and around 9% for the CI group. 
+ 
+All together, the results in the literature are somewhat conflicting with regards to the effect of 
+IT or CT training on VO2max. Intensity and quantity of work performed during the training 
+program appeared to be more important than any differences in training–type protocol. 
+VO2max increases with intensity when holding work constant (Burke and Franks 1975), and 
+with time holding intensity constant (Milesis et al. 1976). For a review see Wenger and Bell 
+(1986). It becomes appropriate to quantify training load (TL) for work and intensity. To 
+quantify TL for work and intensity, different methods have been used. For endurance the 
+concepts for quantifying the training load has been the training impulse (Trimp) (Banister et 
+al. 1975, Banister et al. 1984, Morton et al. 1990, Taha and Thomas 2003). Trimp is the 
+cumulated exercise duration multiplied with a weight function that depends on the heart rate, 
+VO2 or the lactate level (see section 3 for further discussion). The model has been used in 
+running (Morton et al. 1990), cycling (Busso et al. 1991, Busso et al. 1997), swimming 
+(Banister et al. 1975), weight lifting (Busso et al. 1994) and triathlon (Millet et al. 2002). 
+
+ 
+ 
+Comparing VO2max improvement  in five training methods                                              937  
+ 
+ 
+ 
+1.2 This paper’s contribution 
+This paper uses a fitness function that synthesizes all positive effects causing increased 
+performance, and a fatigue function that synthesizes all negative effects causing fatigue 
+(Moxnes and Hausken 2008). Banister et al. (1975) define performance as fitness minus 
+fatigue, whereas this paper defines performance as fitness multiplied with an exponential 
+decay function that accounts for fatigue. During exercise, fatigue increases more than fitness 
+and performance decrease. After exercise, during the recovery, fatigue decreases faster than 
+fitness and performance increase, and reaches a higher level than before exercise. If a new 
+exercise occurs before complete recovery from the preceding one, the negative effect due to 
+fatigue would be amplified, and the recovery time needed would be longer than if there was a 
+longer gap between exercise sessions. This paper considers exercise induced muscle damage 
+as one possible realistic variable descriptive of fatigue. Analogously, we consider muscle 
+fitness to account for fitness. But, this includes the heart muscle which provides a link so that 
+the paper models maximum stroke volume of the heart as performance. We compare 
+Helgerud et al.’s (2007) experimental study of four training methods, together with a fifth 
+training method presented in this paper, against Moxnes and Hausken’s (2008) theoretical 
+model for athletic performance, fitness, and fatigue. An athlete’s training impulse (Trimp) is 
+developed and used in the analysis. The Trimp intensity which is defined as the Trimp per 
+unit time, equals the aerobic utilization, multiplied with a weight function which scales the 
+importance of stroke volume utilization. The analysis implies developing a weight function 
+for stroke volume enhancement which is compared with Banister et al.’s (1985/1986) 
+exponential weight function. 
+ 
+Section 2 presents Helgerud et al.’s (2007) four training methods and a fifth training method. 
+Section 3 determines energy consumption and training impulse. Section 4 conducts an 
+empirical study of Helgerud et al.’s (2007) four training methods using heart rate monitors. 
+Section 5 develops a mathematical model of performance (maximum stroke volume). Section 
+6 simulates the model. Section 7 simulates alternative training methods. Section 8 concludes. 
+ 
+ 
+2 The five training methods 
+ 
+Helgerud et al. (2007) analyzed the effect of four different training methods on VO2max and 
+stroke volume. The four groups ran three sessions per week for eight weeks on a treadmill 
+with 5.3% upward incline. Each session started with 10 min warmup at 60% of VO2max, and 
+ended with three minutes of cooldown. Each session comprised warmup, exercise, and 
+cooldown. 
+ 
+a) “Long slow distance running” (LSD) at 60% of VO2max for 45 min. Hence warmup and 
+cooldown have the same VO2max percentage as the exercise. b) “Lactate threshold running” 
+(LT) at 80% of VO2max for 24.25 min. c) “15/15 interval training” (15/15) at 87.5% of 
+VO2max, 47 times, each period lasting 15 sec. Exercise proceeded at 60% of VO2max during 
+the 46 rest periods, each lasting 15 sec. d) “4x4 min interval training” (4x4) at 87.5% of  
+ 
+
+ 
+ 
+938                                                                                               J. F. Moxnes and K. Hausken 
+ 
+ 
+ 
+VO2max, four times, each period lasting 4 min. Exercise proceeded at 60% of VO2max 
+during the rest periods, each lasting three min.9 
+ 
+55 non-smoking and well trained male university students took part in the study. Their mean 
+weight was 82 kg, with VO2max 54 ml/min/kg before the study. This gives a maximum 
+aerobic power 
+M
+e =1500W10. Before the study the participants trained 3 times per week. The 
+exercise regime for the groups was matched such that their total energy consumption 
+including warmup, exercise, rest periods, and cooldown was equivalent in all sessions. This 
+gives 5.9 km running distance per session around for around 130 L oxygen. This gives around 
+130 x 1000 20=2.6 10^6 J=622 kCal. 
+ 
+Helgerud et al. (2007) found that the stroke volume decreased with 1% for LSD, increased 
+with a factor 1.0093 for LT, increased with a factor of 1.094 for 15/15, and increased with a 
+factor 1.104 for 4x4 (Table 2 in Helgerud et al. (2007). They found that VO2max decreased 
+with 0.6% for LSD, and increased with 2.0% for LT, 5.5% for 15/15, and 7.2% for 4x4 (Table 
+1 in Helgerud et al. (2007). All groups had improvement in the running economy (ml/meter 
+kg^0.75), that is 8% for LSD, 12% for LT, 8% for 15/15, and 10% for 4x4. Somewhat 
+surprisingly, no changes were found in the lactate threshold for any of the groups.  
+ 
+This implies that 4x4 and 15/15 increase VO2max, but not that 4x4 and 15/15 are optimal 
+training method in the sense maximum improvement in VO2max per session for a given 
+energy consumption per session. 
+ 
+ 
+ 
+3 Determining energy consumption and training impulse 
+ 
+The energy consumption during a training session is defined by  
+ 
+ 
+0
+0
+( )
+( )
+( )
+def
+t
+t
+M
+t
+t
+M
+e u
+Energy t
+e u du
+e
+du
+e
+=
+=
+∫
+∫
+ 
+(3.1) 
+ 
+ 
+Where “def” means definition, t0 is the start time, t is the stop time, and ( )
+e t  and eM are 
+aerobic power (rate of energy) and maximum aerobic power, respectively, relating 
+proportionally to VO2 and VO2max. We define the ratio 
+( )
+e t /eM as the utilization of 
+maximum aerobic power, referred to as aerobic utilization. This gives 
+ 
+ 
+                                                          
+9 The five training methods are described in terms of the percentage of VO2max, and not in terms of the 
+percentage of maximal heart rate. 
+10 We set that 1ml O2 corresponds to 20 J. 
+
+ 
+ 
+Comparing VO2max improvement  in five training methods                                              939  
+ 
+ 
+ 
+{
+6
+6
+15/15
+60
+45 0.6
+1620
+2.5810
+,
+1590
+60
+10 0.6
+24.25 0.8
+3 0.6
+1632
+2.4910
+,
+1527
+60
+10 0.6
+47 0.25 0.87
+LSD
+M
+M
+M
+Run
+LT
+M
+M
+M
+Cooldown
+Warmup
+Run
+M
+Warmup
+Energy
+e
+x
+s
+e
+s
+J e
+W
+Energy
+e
+x
+x
+x
+s
+e
+s
+J e
+W
+Energy
+e
+x
+x
+x
+
+
+=
+=
+=
+=
+
+
+
+
+
+
+
+
+=
++
++
+=
+=
+=
+
+
+
+
+
+
+=
++
+123
+123
+14243
+123
+{
+{
+47
+46
+6
+4 4
+4
+3
+6
+5
+46 0.25 0.6
+3 0.6
+1499
+2.4510
+,
+1637
+60
+10 0.6
+4 4 0.875
+3 3 0.6
+3 0.6
+1632
+2.4810
+M
+Cooldown
+Run
+Cooldown
+M
+x
+M
+M
+Cooldown
+Warmup
+Run
+Cooldown
+x
+x
+x
+s
+e
+s
+J e
+W
+Energy
+e
+x
+x x
+x x
+x
+s
+e
+s
+
+
++
++
+=
+
+
+
+
+
+
+=
+=
+
+
+=
++
++
++
+=
+
+
+
+
+
+
+=
+1442443
+144244
+3
+123
+14243
+1424
+3
+{
+6
+,
+1520
+60
+10 0.6
+22.27 0.875
+3 0.6
+1632
+2.4810
+,
+1520
+M
+LQD
+M
+M
+Cooldown
+Warmup
+Run
+M
+J e
+W
+Energy
+e
+x
+x
+x
+s
+e
+s
+J e
+W
+=
+
+
+=
++
++
+=
+
+
+
+
+
+
+=
+=
+123
+1442443
+ 
+(3.2) 
+ 
+ 
+Multiplication with 60 is to convert to time in seconds. Equation (3.2) also determines values 
+for a fifth hypothetical training method (subscript LQD) referred to as “long quick distance 
+running” where the participant runs at the same VO2max percentage as under 15/15 and 4/4, 
+that is 87.5% of VO2max, but without rest periods. There is a warm up of 10 minutes and a 
+cool down of 3 minutes. Such a training method is common for ambitious participants, and is 
+easily performed by athletes during competition. The runner runs for 22.17 min, chosen such 
+that the runner consumes the same energy as under 4x4. Equation (3.2) implies 
+ 
+15/15
+4 4
+/
+0.97,
+/
+0.95,
+/
+0.96
+LT
+LSD
+LSD
+x
+LSD
+Energy
+Energy
+Energy
+Energy
+Energy
+Energy
+=
+=
+=
+ (3.3)  
+ 
+The four groups trained with different training stimuli per session, defined with the common 
+Trimp (Training impulse, see Moxnes and Hausken (2008) and references)  
+{
+( )
+( )
+( )
+o
+def
+t
+t
+M
+M
+Training impulse
+Utilization of
+Weight function max aerobic power
+e u
+e u
+Trimp t
+w
+du
+e
+e
+
+
+=
+
+
+
+
+∫
+14243
+14243
+ 
+(3.4) 
+A weight function is given by Banister et al. (1985/1986) and Morton et al. (1990), that is 
+(
+)
+0
+0
+( )
+(
+)
+(
+1)
+(
+), 0
+1
+w x
+w Exp bx
+Exp b x
+when w
+Exp
+b
+x
+=
+=
+−
+=
+−
+≤
+≤ 
+(3.5) 
+The weight function is exponential to ensure large training impulse (Trimp) when the utilization 
+is large. We define the Trimp intensity as the derivative of Trimp with respect to time. The 
+parameter b is estimated by Morton et al. (1990) to be b=1.92. Without loss of generality we 
+set 
+(
+)
+0
+w
+Exp
+b
+=
+−
+ so that the weight function is 1 for x=1, and less than 1 when 0
+1
+x
+≤
+< .  
+
+ 
+ 
+940                                                                                               J. F. Moxnes and K. Hausken 
+ 
+ 
+ 
+The Trimp values then become 
+ 
+(0.6)
+0.464, (0.8)
+0.681, (0.875)
+0.787,
+1.92
+60 45 0.6 0.464
+752
+60 10 0.6 0.464
+24.25 0.8 0.681 3 0.6 0.464
+1010
+LSD
+Run
+LT
+Warmup
+Run
+Cooldown
+w
+w
+w
+b
+Trimp
+x
+x
+s
+s
+Trimp
+x
+x
+x
+x
+x
+x
+s
+s
+Trimp
+=
+=
+=
+=
+
+
+=
+=
+
+
+
+
+
+
+=
++
++
+=
+
+
+
+
+
+
+1442443
+1442443
+1442443 1442443
+15/15
+47
+47
+4 4
+4
+60 10 0.6 0.464
+47 0.25 0.875 0.787
+46 0.25 0.6 0.464
+3 0.6 0.464
+895
+60 10 0.6 0.464
+4 4 0.875 0.787
+Warmup
+Run
+Cooldown
+Cooldown
+x
+Warmup
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+s
+s
+Trimp
+x
+x
+x x
+x
+
+
+=
++
++
++
+
+
+
+
+
+
+=
+=
++
+1442443
+1444424444
+3
+144424443
+144244
+3
+1442443
+3
+3 3 0.6 0.464
+3 0.6 0.464
+1028
+60 10 0.6 0.464
+22.17 0.875 0.787 3 0.6 0.464
+1133
+Run
+Cooldown
+Cooldown
+LQD
+Warmup
+Run
+Cooldown
+x x
+x
+x
+x
+s
+s
+Trimp
+x
+x
+x
+x
+x
+x
+s
+s
+
+
++
++
+
+
+
+
+
+
+=
+
+
+=
++
++
+=
+
+
+
+
+
+
+14442444
+3
+1442443
+144244
+3
+1442443
+144424443 1442443
+(3.6) 
+ 
+ 
+Obviously LT and 4x4 give higher Trimp than LSD and 15/15. But the hypothetical training 
+method LQD gives the highest Trimp, and thus the highest Trimp per consumed energy unit. 
+ 
+Presumably the parameter b can be substantially higher than 1.92 for trained athletes. For 
+instance when b=10, (3.6) becomes 
+15/15
+4 4
+(0.6)
+0.0183, (0.8)
+0.135, (0.875)
+0.286
+29.7 ,
+166 ,
+193 ,
+255 ,
+342
+LSD
+LT
+x
+LQD
+w
+w
+w
+Trimp
+s Trimp
+s Trimp
+s Trimp
+s Trimp
+s
+=
+=
+=
+=
+=
+=
+=
+=
+ 
+(3.7)  
+ 
+LT gives lower Trimp than 15/15 which gives lower Trimp than 4x4. The weight function is 
+especially important for the relative comparison of the Trimp values. However, we will show 
+that the exponential function will not apply for our dataset. 
+ 
+ 
+4 Empirical study of four training methods (excluding LQD) using heart 
+rate monitors 
+ 
+In addition Helgerud et al. (2007) measured the heart rates as functions of time for four 
+participants for the four training methods (one participant per method). We have digitized 
+these data. We scale the curves to obtain aerobic power as functions of time. The relationship 
+between utilization of maximum heart rate 
+/
+M
+HR HR  and the utilization of the maximum 
+aerobic power /
+M
+e e  is given by  
+
+ 
+ 
+Comparing VO2max improvement  in five training methods                                              941  
+ 
+ 
+ 
+(
+)
+(
+)
+/
+0.25
+0.75
+/
+/
+0.25
+/
+/ 0.75
+M
+M
+M
+M
+HR HR
+e e
+e e
+HR HR
+=
++
+⇒
+= −
++
+ 
+Figure 2 shows the results for the four training methods. 
+ 
+ 
+ 
+Figure 2: The utilization of maximum aerobic power as functions of time in seconds for the 
+four training methods. 
+__    __: LSD ____       ____ :LT _______:15/15 _  _ :4x4 
+ 
+ 
+The curves have been smoothed somewhat compared with the experimental results. 
+Integrating the curves gives the energy consumption per session, that is 
+ 
+15/15
+4 4
+1621 ,
+1601 ,
+1737 ,
+1623
+LSD
+M
+LT
+M
+M
+x
+M
+Energy
+e
+s Energy
+e
+s Energy
+e
+s Energy
+e
+s
+=
+=
+=
+=
+ 
+(4.1)  
+ 
+Increased time for 15/15 can be due to the Polar heart rate monitors (www.polarusa.com), 
+programmed to measure the mean heart rate every five seconds, not registering the actual 
+heart rate decrease during the 15 sec of rest. Applying the heart rate data for b=1.92, the 
+Trimp values become 
+ 
+15/15
+4 4
+757 ,
+974 ,
+1273 ,
+1007
+LSD
+LT
+x
+Trimp
+s Trimp
+s Trimp
+s Trimp
+s
+=
+=
+=
+=
+ 
+(4.2)  
+ 
+15/15 gives the highest Trimp, which is doubtful since the heart rate monitors possibly do not 
+register the actual heart rate decrease during the 15 sec of rest. Helgerud et al. (2007) 
+additionally conducted a pilot study where they measured the O2 consumption of eight  
+
+ 
+ 
+942                                                                                               J. F. Moxnes and K. Hausken 
+ 
+ 
+participants for the four training methods (two participants per method), where 
+M
+e = 1600W. 
+They found 
+ 
+6
+2
+6
+2
+6
+15/15
+2
+6
+4 4
+2
+131.0
+2.6210
+1638 ,
+128.1
+2.5610
+1601 ,
+133.6
+2.6710
+1670 ,
+127.3
+2.5510
+1591
+LSD
+M
+LT
+M
+M
+x
+M
+Energy
+L O
+J
+e
+s
+Energy
+L O
+J
+e
+s
+Energy
+L O
+J
+e
+s
+Energy
+L O
+J
+e
+s
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+ 
+(4.3)  
+ 
+15/15
+Energy
+ in (4.3) matches (4.1) better than (3.2). The above results give Table 1. 
+ 
+Table 1: Energy/
+M
+e  for the four training methods using different calculation methods. 
+From (3.2)
+From (4.1)
+From pilot study (4.3)
+LSD
+1620s
+1621s
+1638s
+LT 
+1632s 
+1601s 
+1601s 
+15/15
+1499s 
+1737s 
+1670s 
+4x4 
+1632s 
+1623s 
+1591s 
+ 
+The results in Table 1 are consistent across the three methods aside from 15/15. For 15/15 we 
+use columns 1 and 2 to illustrate the difference. For the other training methods we do not use 
+the heart rate measurements in column 2 and only use column 1. 
+ 
+ 
+5 Mathematical model of performance (maximum aerobic power) 
+ 
+We now proceed to determine performance defined as muscle strength, expressed as stroke 
+volume in this paper. We use Moxnes and Hausken’s (2008) equations for muscle growth, 
+which are based on the two fundamental principles for muscle growth: "train to failure" and 
+"use it or lose it". We set that performance in the model is maximum stroke volume 
+( )
+M
+V
+t , 
+i.e. 
+0
+0
+( )
+( ),
+( )
+M
+M
+p t
+V
+t
+p
+V
+t
+=
+=
+. Differentiating (3.4) and inserting performance as stroke 
+volume gives 
+(
+)
+( )
+( ) /
+( )
+( )/
+( )
+M
+M
+T t
+w V t
+V
+t
+V t
+V
+t
+=
+&
+, where V(t) is the stroke volume during 
+exercise. Helgerud et al.’s (2007) study does not report the stroke volume during a training 
+session, only the percentage of maximum aerobic power. However, a one to one relationship 
+most likely exists between the stroke volume and the aerobic power since the stroke volume 
+most likely increases monotonically with the aerobic power (Gledhill et al. 1994). Assume 
+that the utilization of the maximum heart rate can be described as a function of the utilization 
+of maximum stroke volume as 
+(
+)
+( )
+/
+/
+,
+1
+1
+M
+M
+HR HR
+F V V
+F
+=
+= , for instance as in Figure 2 of 
+Gledhill et al. (1994). The utilization of the maximum aerobic power as a function of the 
+utilization of stroke volume is then 
+(
+)
+(
+)
+(
+)
+0.25
+0.75
+/
+/
+/
+/
+0.25 / 0.75
+M
+M
+M
+M
+e e
+F V V
+e e
+F V V
++
+=
+⇒
+=
+−
+. Since the F() function is 
+not known for the athletes in Helgerud et al.’s (2007) study we describe the Trimp intensity  
+
+ 
+ 
+Comparing VO2max improvement  in five training methods                                              943 
+ 
+ 
+ 
+(and the weight function) as a function of the utilization of maximum aerobic power in this 
+paper, although we suggest a curve showing the weight function as a function of the 
+utilization of the maximum stroke volume. From Moxnes and Hausken (2008) we achieve 
+ 
+{
+{
+{
+{
+(
+)
+{
+{
+(
+)
+( )
+( )
+( ) ,( )
+( )
+( ) 1
+( )
+( )
+,( )
+( )
+( )
+( ) ,( ), ( )
+( )
+Trimp
+Derivative
+Derivative
+Failure
+Catabolic process
+Anabolic process
+intensity
+fitness
+failure
+due to failure
+Performance
+h t
+T t
+h t
+a
+g t
+h t
+T t
+g t
+b
+p t
+g t Exp
+h t
+c T t
+w e t
+α
+β
+µ
+ν
+η
+=
+−
+=
+−
+−
+=
+−
+=
+&
+&
+&
+&
+1442443
+&
+(
+)
+/
+( )
+( )/
+( ),( )
+M
+M
+e
+t
+e t
+e
+t
+d
+ 
+(5.1) 
+ 
+ 
+where α , β , µ  and ν  are positive parameters with dimension 1/time. In each training 
+session ( ) /
+( )
+M
+e t
+e
+t  changes in a complicated way due to variation in ( )
+e t  and variation in the 
+( )
+M
+e
+t  due to muscle failure. However, for 
+( )
+T t
+&
+ we can neglect the variation in 
+( )
+M
+e
+t  in each 
+training session. Equation (5.1) assumes anabolic and catabolic processes. High Trimp 
+intensity causes microscopic ruptures (failure) in the form of anabolic substances in the 
+muscle, which decrease asymptotically over time when training ceases, as expressed in (5.1a). 
+The muscle growth is limited during training if the Trimp intensity is too high. The main part 
+of the muscle growth occurs over time outside the training sessions when the body 
+recuperates. Without muscle ruptures, the muscle volume decreases asymptotically over time, 
+as expressed in (5.1b). Muscle strength is a function of muscle volume and the amount of 
+muscle ruptures, as expressed in (5.1c). That is, performance is a function of fitness and 
+failure. The steady state solution of (5.1) is 
+ 
+(
+)
+(
+)
+,
+1
+,
+SS
+SS
+SS
+ST
+SS
+T
+h
+g
+T T p
+h Exp
+g
+α
+µα
+η
+β
+νβ
+
+
+=
+=
+−
+=
+−
+
+
+
+
+&
+& &
+ 
+(5.2)  
+ 
+ 
+6 Simulating the model 
+ 
+The unit of failure is arbitrary and we assume 
+1/ 24
+α =
+ without loss of generality, using time 
+in hours as a unit. We determine β by assuming that muscles usually heal over 1-2 days after 
+usage. We thus assume 
+0.5/ 24
+β =
+ and use time in hours as a unit. The unit of performance 
+is also arbitrary and we assume 
+1/ 24
+µ =
+ without loss of generality, using time in hours as a 
+unit. We consider the muscle volume reduction to be a result of catabolic processes in the 
+body. Around 0.3% protein is released from the body per day. We thus assume 
+0.003/ 24
+ν =
+. 
+Moxnes and Hausken (2008) assume η =0.2, also assumed in this paper. 
+ 
+We use the Trimp values in Table 1 for the various training methods and insert the Trimp 
+intensity into (5.1). The amount of Trimp is calculated according to the weight function. The 
+training occurs over a short time period (ca. 30-40 min) compared with the time it takes for 
+muscles to grow or degrade (several days). Due to numerical necessity we set that the Trimp  
+
+ 
+ 
+944                                                                                               J. F. Moxnes and K. Hausken 
+ 
+ 
+ 
+intensity for input into (5.1) is a Gaussian function spread over a fixed time period of standard 
+deviation 2 hours. The Gaussian function is thus such that the integral over time equals the 
+number of Trimps. Two uncertainties are the participants’ physical fitness levels at the start of 
+the test and the weight function. If the participants are well trained, and for example trained at 
+the same level as the various training methods prior to testing, VO2max or stroke volume 
+improvement cannot be expected. The participants trained three times per week in various 
+forms of endurance training. There is reason to believe that the LSD training at 60% of 
+VO2max for 45 min three times per week did not exceed the training level they were already 
+used to. Improvement of stroke volume could thus not be expected, as also confirmed by the 
+data. We let the weight function be variable, and sought to match the experiment visually. The 
+participants are assumed to be in a “steady-state” situation at the start of the test. The 
+participants’ start condition is described with a “steady-state” form factor λ which we adjust 
+to match the initial conditions. The initial conditions are 
+ 
+(
+)
+(0)
+75
+(0)
+, (0)
+1
+(0)
+(0), (0)
+(75
+/
+)
+M
+M
+T
+W
+h
+g
+T
+T
+T
+w
+W e
+e
+α
+µα
+λ
+β
+νβ
+
+
+=
+=
+−
+=
+
+
+
+
+&
+&
+&
+&
+ 
+(6.1)  
+ 
+where 75W is the basic metabolic power. The credibility of the solution depends on the 
+credibility of the weight function. We define p0=p(0) as the initial performance (stroke 
+volume) before the test, and p(t)/p0 as the performance ratio. 
+ 
+Figure 3 shows the five theoretically and experimental performance ratios p(t)/p0 for the 
+training methods.  
+ 
+Figure 3: The performance ratios p(t)/p0 as functions of time in days over eight weeks 
+assuming training on Monday, Wednesday, and Friday. 
+■: Exp. LT, □: Exp. LSD, ▲: Exp. 15/15, ∆: Exp. 4x4 
+
+ 
+ 
+Comparing VO2max improvement  in five training methods                                              945 
+ 
+ 
+ 
+ 
+Theoretical curves from above: a) 4x4. b) 15/15 by use of heart rate data as given in (4.1). c) 
+15/1. d) LT. e) LSD. λ =2.42 in all cases. 
+ 
+ 
+ 
+Helgerud et al.’s (2007) initial values are assumed to be valid when measurements start 
+Monday morning at 00.00 o’clock referred to as the start point t=0, where t is measured in 
+days. Helgerud et al. (2007) do not specify which days training occurs, but we assume 
+training Monday, Wednesday, and Friday at 12 o’clock noon. Helgerud et al. (2007) do not 
+specify when measurements cease in week eight, but we assume the last VO2max 
+measurement occurs when t=55, which is at 24.00 o’clock Saturday in week eight. 
+ 
+ 
+The theoretical curves change approximately linearly over the eight weeks. For LSD, LT and 
+4x4 the weight function is adjusted to ensure match with the experimental data at day 55. This 
+locks the weight function to three values and three corresponding utilizations. LSD gives 
+w=0.20 at e/eM=0.6, LT gives w=0.23 at e/eM=0.8, and 4x4 gives w=0.50 at e/eM=0.875. The 
+third largest theoretical increase occurs for 15/15 which gives lower increase than the 
+experimental point (filled triangle). The likely reason is that the theoretical Trimp value is too 
+low. We have earlier discussed uncertainties about the Trimp values for 15/15. The Trimp 
+values depend on whether or not heart rate data are used in (4.1). The reason is that heart rate 
+data for 15/15 gives the highest Trimp values. It is well known that heart rate data measured 
+during interval training can give too high estimated energy consumption (Ballor and Volosek 
+1992). The upper curve for 15/15 in Figure 3 is found by adjusting the Trimp data for 15/15 
+with a factor of 1737/1499 according to Table 1 for heart rate data. Since the 15/15 data were 
+not consistent on VO2max measurements and heart rate, they were not used in the fitting 
+procedure. 
+ 
+ 
+The theoretical curves are linear in the long term, which matches J. Hoff’s statement to the 
+newspaper VG (www.vg.no) July 11, 2008: “Experiments have been conducted upwards 
+towards 18 interval sessions per week. We have never seen worse response than 0.25% 
+VO2max increase per session.” 
+ 
+ 
+Figure 4 shows with solid line the estimated weight function based on stepwise linear 
+adjustment to the three data points generated by the experiments LSD, LT and 4x4. The three 
+stapled lines show the Banister-Morton weight functions with b=1.9 (upper curve), b= 5 
+(middle curve), and b=10 (lower curve). The estimated weight function shows some 
+resemblance with the Banister-Morton value b=5, but we found no solution by using the 
+Banister-Morton exponential form of the weight function in (3.5). 
+ 
+ 
+
+ 
+ 
+946                                                                                               J. F. Moxnes and K. Hausken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4: Four weight functions w as functions of the utilization of the maximum aerobic 
+power. From above: a) b=1.9 for Banister-Morton. b) Stepwise linearly adjusted to the three 
+data points in the experiments LSD, LT and 4x4, c) b= 5 for Banister-Morton and d) b=10 for 
+Banister-Morton 
+ 
+ 
+ 
+In Figure 4 we have for the middle solid line specified with filled triangles the three 
+experimental values of the weight function for the four intensities: rest (e/eM=0.05,w=0.0), 
+LSD (e/eM=0.6,w=0.20), LT (e/eM=0.8,w=0.23) and 4x4 (e/eM=0.875,w=0.50). We can 
+recalculate (3.2) to achieve 
+ 
+4 4
+15/15
+(0.6)
+0.20, (0.8)
+0.23, (0.875)
+0.55
+324 ,
+362 ,
+562 ,
+485 ,
+676
+LSD
+LT
+x
+LQD
+w
+w
+w
+Trimp
+s Trimp
+s Trimp
+s Trimp
+s Trimp
+s
+=
+=
+=
+=
+=
+=
+=
+=
+ 
+(6.2) 
+ 
+We find that the enhancement in stroke volume (or VO2max) follows the trend in Trimp.  
+ 
+Future research should assess how the weight function possibly could be linked to the heart’s 
+stroke volume. However, by using the curve for trained athletes in Figure 2 of Gledhill et al. 
+(1994), Figure 4 can be plotted as function of the fraction of the stroke volume. The result is 
+shown in Figure 5. We find that the weight function increases strongly around 0.8-0.9 of the 
+maximum stroke volume. The somewhat conflicting results in the literature regarding how 
+Trimp intensity causes or implies VO2max enhancement can be clarified by, as shown in this  
+
+ 
+ 
+Comparing VO2max improvement  in five training methods                                              947 
+ 
+ 
+ 
+paper, by developing a relationship between utilization of maximum stroke volume and 
+utilization of VO2max. If the stroke volume for untrained athletes only marginally increases 
+with aerobic power, increased utilization of VO2max will probably not increase the load on 
+the heart. It could be that the weight function, as a function utilization of aerobic power, 
+actually mimics the utilization of the maximum stroke volume as a function of the utilization 
+of maximum aerobic power. 
+ 
+ 
+Figure 5: The weight functions w as functions of the utilization of the maximum stroke 
+volume.  
+ 
+ 
+7 Simulating alternative training methods 
+ 
+Having estimated the form factor λ  and established the weight function expressed with the 
+middle solid line in Figure 4, our next step is to simulate alternative training methods. The 
+participants are hypothetically assumed to double the length of each training session, and/or 
+train seven days per week rather than three days per week. 
+ 
+Figure 6 shows the performance ratios p(t)/p0 as functions of time in days over 14 days when 
+training at LSD Trimp intensity at a doubled duration or training every day. We find that the 
+performance increases with around 12% when training with double duration and every day. 
+We also see that training with double duration three days a week is much like training with 
+ordinary duration every day. 
+ 
+Figure 7 shows the performance ratios p(t)/p0 as functions of time in days over 14 days when 
+training at the LT Trimp intensity. We find pretty much the same qualitative and quantitative 
+results as when training at LSD. 
+
+ 
+ 
+948                                                                                               J. F. Moxnes and K. Hausken 
+ 
+ 
+ 
+ 
+Figure 8 shows the performance ratios p(t)/p0 as functions of time in days over 14 days when 
+training at the 4x4 Trimp intensity. Again we qualitatively find much the same as in Figures 5 
+and 6.  
+ 
+ 
+Figure 9 presents the performance ratio p(t)/p0 for LQD. For LQD we assume 10 min warmup 
+and 3 min cooldown for a total of 35.17 min. We find that LQD gives the largest increase in 
+stroke volume. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6: The performance ratios p(t)/p0. Training at LSD VO2max percentage. 
+From above: a) Training 2x45 min all days. b) Training 1x45 min all days. c) Training 2x45 
+min Monday, Wednesday, and Friday. d) Training 1x45 min Monday, Wednesday, and 
+Friday.  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Comparing VO2max improvement  in five training methods                                              949 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 7: The performance ratios p(t)/p0 as functions of time in days over 14 days. Training 
+at LT VO2max percentage. 
+From above: a) Training 2x37.25 min all days. b) Training 1x37.25 min all days. c) Training 
+at 2x37.25 min Monday, Wednesday, and Friday. d) Training 1x 37.25 min Monday, 
+Wednesday, and Friday. (LT training lasts 24.25 min. Adding 10 min warmup and 3 min 
+cooldown gives 37.25 min.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+950                                                                                               J. F. Moxnes and K. Hausken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 8: The performance ratios p(t)/p0 as functions of time in days over 14 days. Training 
+at 4x4 VO2max percentage. From above: a) Training 2x38 min all days. b) Training 1x38 
+min all days. c) Training at 2x38 min Monday, Wednesday, and Friday. d) Training 1x38 min 
+Monday, Wednesday, and Friday.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Comparing VO2max improvement  in five training methods                                              951 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 9 : The performance ratios p(t)/p0 as functions of time in days over eight weeks.  
+■: Exp. LT, □: Exp. LSD, ▲: Exp. 15/15, ∆: Exp. 4x4 
+Theory from above: a) Training at long quick distance running LQD 22.17 min Monday, 
+Wednesday, and Friday. b) 4x4 Monday, Wednesday, and Friday.  
+ 
+ 
+8 Conclusion 
+ 
+Helgerud et al.’s (2007) experimental study has been tested against Moxnes and Hausken’s 
+(2008) theoretical model for athletic performance, fitness, and fatigue. The data in the 
+experimental study are used to calibrate the model’s parameters. Helgerud et al. (2007) tested 
+four training methods, i.e. long slow distance running (LSD), lactate threshold running (LT), 
+15/15 sec interval training, and 4x4 min interval training. 4x4 min interval training gives 
+higher training impulse per consumed energy unit than the other three methods. 
+ 
+This paper also presents a fifth training method which is to run at 87.5% of VO2max (which 
+means 15/15 or 4x4 Trimp intensity without rest) for 22.17 min together with 10 warmup and 
+3 minutes cooldown, which is easily accomplished by well trained athletes or during 
+competition. This fifth method gives better stroke volume improvement than Helgerud et al.’s 
+(2007) four methods. 
+ 
+
+ 
+ 
+952                                                                                               J. F. Moxnes and K. Hausken 
+ 
+ 
+ 
+An athlete’s training impulse defined as his Trimp is developed and used in the analysis. The 
+time derivative of Trimp is the Trimp intensity which equals the aerobic utilization, multiplied 
+with a weight function which scales the importance of both aerobic utilization and stroke 
+volume utilization, integrated over the training period. Large Trimp intensity over time 
+expresses large VO2max improvement. 
+ 
+We show that by training at LSD Trimp intensity seven days per week, rather than only three 
+times per week, or training at LSD Trimp intensity for 90 min rather than 45 min three times 
+per week, the stroke volume improves significantly over two weeks. In addition we find that 
+training at double duration three days a week for stroke volume enhancement is much like 
+training with ordinary duration every day. 
+ 
+We find that Banister et al.’s (1985/1986) exponential weight function is not descriptive, 
+regardless which parameter is used for exponential increase. Instead we find the crucial result 
+that the weight function increases slowly from 0 to 0.2 as the aerobic utilization increases 
+substantially from 0 to 0.8. Thereafter the weight function increases sharply from 0.2 to 0.5 as 
+the aerobic utilization increases moderately from 0.8 to 0.875. We think this is quite 
+descriptive of an athlete’s condition. When the objective is to increase VO2max, a weight 
+function with low weight should be given to aerobic utilization below 80%, and a weight 
+function with sharply increasing weight should be given to aerobic utilization within the range 
+80%-100%. 
+ 
+Due to the inherent uncertainties in the model, model parameters and experimental data, care 
+must be taken when interpreting the results. Further studies are indeed needed to corroborate 
+the result and especially determine the functional form of the weight function within the range 
+80%-100%. The kind of weight function descriptive of the arteriovenous O2 difference Ca-Cv 
+should also be tested. 
+ 
+ 
+Acknowledgement: We thank Phys. Stud. Eldbjørg D. Moxnes and Scientist Arild Skjold at 
+NDRE for reading through this manuscript. In addition we thank Øyvind Sandbakk at the 
+Human Movement Science Programme, Norwegian University of Science and Technology, 
+Trondheim, Norway for interesting discussion and comments when preparing this manuscript. 
+ 
+ 
+ 
+References 
+ 
+[1] P.O. Åstrand and K. Rodahl, Texbook of work physiology, 3rd ed. MacGraw-Hill, 
+NewYork, 1986. 
+ 
+[2] P.O. Åstrand and B. Saltin, Maximal oxygen uptake and heart rate in various types of 
+muscular activity. J. Appl. Physiol., 16 (1961), 6, 977-981. 
+
+ 
+ 
+Comparing VO2max improvement  in five training methods                                              953 
+ 
+ 
+[3] D.L. Ballor and J.A. Volosek, Effect of exercise to rest ratio on plasma lactate 
+concentration at work rate above and below maximum oxygen uptake. Eur. J. Appl. 
+Physiol. 65 (1992), 363-369. 
+ 
+[4] E.W. Banister, C.L. Calvert, M.V. Savage and T.M. Bach, A system model of training for 
+athletic performance. Austr. J. Sports Med., 7 (1975), 3, 57-61. 
+ 
+[5] E.W. Banister, P. Good, G. Holman and C.L. Hamilton, Modeling the Training Response 
+in Athletes. The 1984 Olympic Scientific Congress Proceedings, Sport and elite 
+performance, 3 (1986), 7-23. 
+ 
+[6] U. Bergh, A. Thorstensson, B. Sjødin, B. Hulten, K. Piehl and J. Karlson, Maximal 
+oxygen uptake and muscle fiber types in trained and untrained humans. Med. Sci. 
+Sports, 10 (1978), 2, 151-154. 
+ 
+[7] C.B. Blomqvist and B. Saltin, Cardiovascular adaptations to physical training. Ann. Rev. 
+Physiol., 45 (1983), 169-189. 
+ 
+[8] T. Busso, C. Carasso and J.R. Lacour, Adequacy of a systems structure in modeling of 
+training effects on performance. J. Appl. Physiol., 71 (1991), 2044-2049. 
+ 
+[9] T. Busso, C. Carasso and J.R. Lacour, Fatigue and fitness modeled from the effects of 
+training on performance. Eur. J. Appl. Physiol. Occup. Physiol., 60 (1994), 50-54. 
+ 
+[10] T. Busso, C. Denis, R. Bonnefoy, A. Geyssant and J.E. Lacour,  Modelling of adaptation 
+to physical training by using recursive least squares algorithm. J. Appl. Physiol., 82 
+(1997), 1685-1693. 
+ 
+[11] E.J. Burke and B.D. Franks, Changes in Vo2max resulting from bicycle training at 
+different intensities holding total mechanical work constant. Res. Q., 44 (1975), 158-
+168. 
+ 
+[12] J.A.L. Calbet, H.C. Holmberg, H. Rosdahl, G. van Hall, M. Jensen-Ursayd and B. Saltin, 
+Why do arms extract less oxygen than legs during exercise? Am. J. Physiol. Regul. 
+Integr. Comp. Physiol., 289 (2005), R1448-1458. 
+ 
+
+ 
+ 
+954                                                                                               J. F. Moxnes and K. Hausken 
+ 
+ 
+ 
+[13] D.A. Cunningham and J.S. Hill, Effect of training on cardiovascular response to exercise 
+in women. J. Appl. Physiol., 39 (1975), 891-895. 
+ 
+[14] P.E. Di Prampero, Factors limiting maximal performance in humans. Eur. J. Appl. 
+Physiol., 90 (2003), 420-429. 
+ 
+[15] D.O. Eddy, K.L. Sparks and D.A. Adelizi, The effects of continuous and interval training 
+in women and men. Eur. J. Appl. Physiol., 37 (1977), 83-92. 
+ 
+[16] J. Edge, D. Bishop, C. Goodman and B. Dawson, Effect of high- and moderate-intensity 
+training on metabolism and repeated sprints. Med. Sci. Sports Exerc., 37 (2005), 11, 
+1975-1982. 
+ 
+[17] B. Ekblom, P.O. Åstrand, B. Saltin, J. Stenberg and B. Wallstrøm, Effect of training on 
+circulatory response to exercise. J. Appl. Physiol., 24 (1968), 4, 518-528) 
+ 
+[18] M. Fourier, J. Ricci, A.W. Taylor, R.J. Ferguson, R.R. Montepetit and B.R. Chaitman, 
+Skeletal muscle adaptation in adolescent boys: sprint and endurance training and 
+detraining. Med. Sci. Sports Exerc., 14 (1982), 453-456. 
+ 
+[19] E.L. Fox, R.L. Bartels, C.E. Billings, D.K. Mathews, R. Bason and W.M. Webb, , 
+Intensity distance of interval training programs and changes in aerobic power. Med. 
+Sci. Sport, 5 (1973), 18-22. 
+ 
+[20] E.L. Fox, R.L. Bartels, J. Klinzing, K. Ragg, Metabolic responses to interval training 
+programs of high and low power output. Med. Sci. Sport, 9 (1977), 191-196. 
+ 
+[21] N. Gledhill, D. Cox and R. Jamnik, Endurance athletes’ stroke volume does not plateau: 
+major advantage is diastole function. Med. Sci. Sports Exerc., 26 (1994), 9, 1116-
+1121. 
+ 
+[22] E.M. Gorostiaga, C.B. Walter, C. Foster and R.C. Hickson, Uniqueness of interval and 
+continuous training at the same maintained exercise intensity. Eur. J. Appl. Physiol., 
+63 (1991), 101-107. 
+ 
+
+ 
+ 
+Comparing VO2max improvement  in five training methods                                              955 
+ 
+ 
+ 
+[23] L.W. Gregory, The development of aerobic capacity: A comparison of continuous and 
+interval training. Res. Q. 50 (1979), 199-206. 
+ 
+[24] J. Helgerud, Maximal oxygen uptake, anaerobic threshold and running economy in 
+women and men with similar performance level in marathons. Eur. J. Appl. Physiol. 
+68 (1994), 155-161. 
+ 
+[25] J. Helgerud, K. Høydahl, E. Wang, T. Karlsen, P. Berg, M. Bjerkå, T. Simonsen, C. 
+Helgesen, N. Hjort, R. Back and J. Hoff, Aerobic high-intensity intervals improve 
+VO2 max more than moderate training. Med. Science Sports Exercise, 39 (2007), 4, 
+665-671. 
+ 
+[26] R.C. Hickson, H.A. Bomze and J.O. Holloszy, Linear increase in aerobic power induced 
+by a strenuous program of endurance exercise. J. Appl. Phys., 42 (1977), 372-376. 
+ 
+[27] F. Ingjer, Maximal oxygen uptake as a predictor of performance ability in women and 
+men elite cross-country skiers. Scand. J. Med. Sci. Sports, 1 (1991), 25-30. 
+ 
+[28] A.T. Johnson, Biomechanics and exercise physiology, John Wiley & Sons, Inc., New 
+York, 1991. 
+ 
+[29] Å. Kilbom, Physical training in women. Scan. J. Clin. Lab, Invest., 28 (1971), (suppl. 
+119), 5-34. 
+ 
+[30] H.G. Knuttgen, L. Nordesjo, B. Ollander and B. Saltin, Physical conditioning through 
+interval training with young male adults. Med. Sci. Sport, 5 (1973), 220-226. 
+ 
+[31] G.R. Lesmes, E.L. Fox, C. Stevens, and R. Otto, Metabolic responses of females to high 
+intensity interval training of different frequencies. Med. Sci. Sport, 10 (1978), 229-
+232. 
+ 
+[32] K. Mikesell and G.A. Dudley, Influence of intense endurance training on aerobic power 
+of competitive distance runners., Med. Sci. Sports Exerc., 16 (1984), 4, 371-375. 
+ 
+
+ 
+ 
+956                                                                                               J. F. Moxnes and K. Hausken 
+ 
+ 
+ 
+[33] C.A. Milesis, M.L. Pollock, M.D. Bah, J.J. Ayres, A. Ward and A.C. Linnerud, Effects 
+of different durations of physical training on cardio respiratory function, body 
+composition and serum lipids. Res. Q., 47 (1976), 716-725. 
+ 
+[34] G.P. Millet, R.B. Canda, B. Barbier, T. Buddo, J.D. Rouillon and J.C. Chatard, 
+Modelling the transfer of training effects on performance in elite triathletes. Int. J. 
+Sports. Med., 23 (2002), 55-63. 
+ 
+[35] R.H. Morton, J.R. Fitz-Clarke and E.W. Banister, Modeling human performance in 
+running. J. Appl. Physiol., 69 (1990), 3, 1171-1177. 
+ 
+[36] J.F. Moxnes and K. Hausken, The Dynamics of Athletic Performance, Fitness and 
+Fatigue. Mathematical and Computer Modelling of Dynamical Systems 14 (2008), 6, 
+515-533. 
+ 
+[37] H.B. Nielsen, Arterial desaturation during exercise in man: implication fro O2 uptake 
+and work capacity. Scan. J. Med. Sci. Sports, 13 (2003), 339-358. 
+ 
+[38] T.J. Overend, D.H. Paterson and D.A. Cunningham, The effect of interval and 
+continuous training of the aerobic parameters. Can. J. Sports Sci., 17 (1992), 129-134. 
+ 
+[39] R.R. Pate and A. Kriska, Physiological basis of the sex differences in cardio respiratory 
+endurance. Sports Med., 1 (1984), 87-98. 
+ 
+[40] H. Roskamm, Optimum patterns of exercise for healthy adults. Can. Med. Ass. J., 96 
+(1967), 895-899. 
+ 
+[41] H. Rusko, M. Havu and E. Karvinen, Aerobic performance capacity in athletes. Eur. J. 
+Appl. Physiol., 38 (1978), 151-159.  
+ 
+[42] B. Saltin and S. Strange, Maximal oxygen uptake: “ old” and “ new” arguments for a 
+cardiovascular limitation. Med. Sci. Sports Exerc., 24 (1992), 1, 30-37. 
+ 
+[43] B. Saltin and P.O. Åstrand, Maximal oxygen uptake in athletes. J. Appl. Physiol., (1967) 
+23, 791-995. 
+
+ 
+ 
+Comparing VO2max improvement  in five training methods                                              957 
+ 
+ 
+ 
+[44] T. Taha and S.G. Thomas, Systems modeling of the relationship between training and 
+performance. Sports Med., 33 (2003), 14, 1061-1073. 
+ 
+[45] T.R. Thomas, S.B. Adeniran and G.L. Etheridge, Effects of different running programs 
+on VO2max, percentage fat, and plasma lipids. Can. J. Sports Sci., 9 (1984), 55, 55-
+62. 
+ 
+[46] C.A. Vella and R.A. Roberts, A review of the stroke volume response to upright exercise 
+in healthy subjects. Br. J. Sports Med., 39 (2004), 190-195. 
+ 
+[47] P.D. Wagner, New ideas on limitations to VO2max. Exerc. Sports Sci. Rev., 28 (2000), 
+1, 10-14. 
+ 
+[48] E.R. Warburton and N. Gledhill, Counterpoint: stroke volume does not decline during 
+exercise at maximal effort in healthy individuals. J. Appl. Physiol., (2008), 104, 276-
+278. 
+ 
+[49] H.A. Wenger and G.J. Bell, The interaction of intensity, frequency and duration of 
+exercise training in altering cardio respiratory fitness. Sports Med., 3 (1986), 346-356. 
+ 
+[50] R.E. Wood, S. Hayter, D. Rowbottom and I. Steward, Applying a mathematical model to 
+training adaptation in a distance runner. Eur. J. Physiol., 94 (2005), 310-316. 
+ 
+ 
+Received: April, 2012 
+View publication stats
+

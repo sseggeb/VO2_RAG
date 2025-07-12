@@ -1,0 +1,481 @@
+see discussions stats and author profiles for this publication at 
+comparing vo2max improvement in five training methods
+article  in  advanced studies in theoretical physics  january 2012
+citations
+reads
+4 authors including
+kjell hausken
+university of stavanger
+310 publications   5180 citations   
+see profile
+john f. moxnes
+72 publications   638 citations   
+see profile
+all content following this page was uploaded by kjell hausken on 04 september 2014.
+the user has requested enhancement of the downloaded file.
+adv. studies theor. phys. vol. 6 2012 no. 19 931  957 
+comparing vo2max improvement  
+in five training methods 
+john f. moxnes 
+department for protection 
+norwegian defense research establishment 
+p.o. box 25 2007 kjeller norway 
+john-f.moxnesffi.no 
+kjell hausken 
+faculty of social sciences 
+university of stavanger 
+4036 stavanger norway 
+kjell.hauskenuis.no 
+abstract 
+this paper presents a theoretical study comparing the improvement of the whole body 
+maximum oxygen uptake maximum aerobic power or vo2max when training at different 
+intensities and with different methods matched for total work performance and frequency of 
+training. we compare vo2max improvement in five training methods testing helgerud et 
+al.s 2007 experimental study against moxnes and hauskens 2008 theoretical model for 
+athletic performance fitness and fatigue. the five methods are long slow distance running 
+lsd lactate threshold running lt 1515 sec interval training 4x4 min interval training 
+and running at 87.5 of vo2max for 22.17 min. a weight function that scales the importance 
+of aerobic utilization and stroke volume utilization is established. 
+keywords vo2max aerobic utilization stroke volume performance fitness fatigue trimp 
+intensity 
+932                                                                                               j. f. moxnes and k. hausken 
+1 introduction 
+1.1 overview 
+whole body maximal oxygen uptake maximum aerobic power aerobic capacity vo2max 
+of human beings has interested researchers for many years and regular reviews have been 
+published saltin and strange 1992 nielsen 2003. its absolute magnitude and malleability 
+with physical training has practical interest for elite soldiers for the sports elite and for 
+anyone involved in physical exercise. important for the interest in the topic is also that 
+determination of oxygen uptake not only is a measure of aerobic energy turnover but also 
+offers precise measure of the capacity to transport and utilize oxygen i.e. the functional 
+capacities of the lungs cardiovascular system and muscle mitochondria combined. in general 
+aerobic power has been recognized as one of the fundamental components of physical 
+performance and health strand and rodahl 1986 johnson 19911.  
+during exercise the increase in metabolism is expressed as the whole-body oxygen uptake 
+that increases with exercise intensity to reach a maximum vo2max. in general the oxygen 
+consumption vo2 in humans seems to level off at around 6-7 liter oxygen min and around 
+80-90 mlminkg for highly trained athletes saltin and strand 1967 rusko et al. 19782. 
+different steps in the oxygen o2 chain from air to the cells are considered to contribute as a 
+barrier for o2 utilization. the first step of the oxygen o2 transport chain is the conductive 
+transport of o2 from the expired air to the alveoli r1. this conductive transport from 
+inspired to alveolar gas is next followed by a diffusive flow of o2 from the alveoli to the 
+arterial blood r2. the next step is a conductive transport of o2 to the cells where vo2 q 
+ca-cv r3. q is the cardiac output and ca and cv is the capillary and venous o2 content 
+respectively. we can also write that ca-cv  beta b pa-pv where beta is the mean slope of 
+the blood o2 dissociation curve3 b is the solvability of o2 in the blood4. pa is the arterial o2 
+pressure while pv is the venous o2 pressure. thus vo2 q beta b pa-pv r3. a next step  
+1three major factors accounting for aerobic endurance is simply the vo2max the work economy and the 
+capacity to sustain a high fractional utilization of the aerobic power pate and kriska 1984. the role of the 
+oxidative capacity of the muscles might be most important during submaximal work of long duration and when 
+relatively small muscle mass is activated long distance running or skiing. vo2max might be the most 
+important determinant of performance when large muscle mass is activated during maximal work from several 
+minutes to 1 h typically cross-country skiing rusko et al. 1978. there is a strong correlation between running 
+performance and vo2max when the groups investigated are heterogeneously trained athletes. however in 
+populations with more homogeneously trained athletes the correlation with running performance is relatively 
+weak. world class cross-country skiers had extremely high vo2max values and vo2max per unit time per unit 
+mass raised to the power of 23 seems to be a fairly accurate determinant of the performance ability of elite 
+cross-country skiers ingjer 1991. 
+2 a linear increase in aerobic power induced by a strenuous program of endurance exercise has been observed 
+without any tendency to flatten out mikesell and dudley 1984 hickson et al. 1977. 
+3 the blood o2 dissociation curve i.e. the  percentage saturation of o2 as a function of  o2 pressure shifts to the 
+right for increasing temperature ph or carbon dioxide content. 
+4 in mammalian blood the amount of physically dissolved oxygen is around 0.2 ml o2 per 100 ml blood while 
+the amount bound to hemoglobin is around 20 ml o2 pr 100 ml blood. in water the amount physically dissolved 
+is around 0.5 ml100 ml water. the venous o2 content is typical around 6 ml o2 per 100 ml blood. this gives an 
+extraction of 20-620 70. for elite skiers extraction up to 93 can be achieved calbet et al. 2005. 
+comparing vo2max improvement  in five training methods                                              933  
+in the o2 chain is the diffusive transport of o2 from the muscle capillary to the mitochondria 
+r4. the final step is the utilization of o2 in the mitochondria r5. thus al together it can 
+be written that vo2max pi-pmr1r2r3r4r5 where pi is the partial pressure of 
+o2 in expired air and pm is the partial pressure of o2 in the mitochondria. during maximal 
+exercise with large muscle groups it has been found that r3 is around 50 of 
+r1r2r3r4r5. let qmax be the maximal value of the cardiac output q. using the 
+numbers above it follows that an increase of qmax x beta by 10 gives an increase in 
+vo2max of 5. it has been found that r4 and r5 contribute around 7 each. thus at 
+maximal exercise the cardiac output seems to be the major factor in determining the oxygen 
+delivery. r1 and r2 sum to 36 wagner 2000 di prampero 2003.  
+the amount of trainability of the parameters r1-r5 is important. for soldiers and elite 
+athletes or indeed for anyone engaged in athletic activity it is important to know how 
+intensity duration frequency of training and the initial fitness level of the individual relate to 
+vo2max enhancement through time. when comparing trained and untrained college students 
+with olympic athletes the overall dominant difference is the cardiac output q and the 
+systemic arteriovenous o2 difference ca-cv. for control students and olympic athletes the 
+vo2max is 3.30 and 5.38 liter o2 per minute respectively blomqvist and saltin 1983. this 
+is a factor 1.63 in advance of the olympic athletes. the cardiac output q was 20 and 30.4 liter 
+blood per minute respectively which gives a factor of 1.52 in advance of the olympic 
+athletes. the ca-cv 74 and 80 respectively giving a factor of 8074 1.08 in advance 
+for the olympic athletes. a total factor of 1.52 x 1.081.64 is achieved. this leaves little 
+room for trainability of r1r2r4r5 which indeed is roughly the same factor 
+1.631.641.0. however the maximum stroke volume5 of the heart was 104 ml for the 
+students and 167 ml for the olympic athletes. this gives a factor of 1.6 in advance of the 
+olympic athletes. the olympic athletes have a somewhat smaller maximum heart rate of 182 
+compared to 192 for the students 192182 11.52 x 1.6. the volume of oxygen consumed 
+during physical exercise is dependent upon the load on the muscles and also on the mass of 
+muscles at work. if maximum heart rate is achieved the engaged muscle mass is usually 
+sufficient. however even for maximum heart rate the vo2max often differs across activities. 
+usually ca-cv could be much smaller for instance in swimming that in running leaving much 
+room for improvement strand and saltin 1961. a change in the ca-cv difference could be 
+due to either a redistribution of blood flow andor increased o2 extraction from the blood by 
+skeletal muscle as such6. 
+the early studies did not address the cardiac output q and the arteriovenous o2 difference 
+ca-cv separately for the vo2max enhancement. however many years ago it was suggested 
+that longer duration and higher intensity may be require to increase ca-cv compared to the 
+cardiac output q kilbom 1971. this hypothesis was supported by cunningham and hill 
+1975 showing that a period of 9 weeks training resulted in significant increase in vo2max  
+5 the volume of blood pumped per beat. 
+6 a relationship has been observed between vo2max and muscle fiber types indicating that a subject with a high 
+vo2max will most probably have a high percentage of slow twitch fibers in the exercising muscles bergh et al. 
+1978 rusko et al. 1978. see also calbet et al. 2004 for extraction studies on skiers. 
+934                                                                                               j. f. moxnes and k. hausken 
+which was due to a larger stroke volume with little change in ca-cv. however when training 
+for 1 year a significant increase in ca-cv was found. so indeed the cardiac output q and the 
+arteriovenous o2 difference ca-cv are the two key parameters for trainability of vo2max. 
+for a specific oxygen uptake say 3 liter per minute below vo2max training increases the 
+arteriovenous o2 difference ca-cv and reduces the cardiac output q ekblom et al. 1968. 
+however cunningham and hill 1975 found that training increases the cardiac output for the 
+same vo2. gledhill et al. 1994 found that trained persons had a cardiac output of q 7.2 
+5.9 x vo2 litermin while untrained persons had q 6.6 5.1 vo2 liter min. the heart 
+rate at the same oxygen uptake is reduced by training while the stroke volume is much the 
+same ekblom et al. 1968 or higher cunningham and hill1975. the stroke volume seems 
+to be increasing with vo2 cunningham and hill1975 gledhill et al. 1994 warburton and 
+gledhill 2008. however for untrained persons the stroke volume seems to plateau at a heart 
+rate of around 120 beats per minute. it is hypothesized that at high heart rates the progressive 
+diminishing time available for diastolic filling limits stroke volume causing a plateau. 
+however for trained athletes because of an enhanced myocardial contractility less time in 
+cardiac cycle would be required for ventricular emptying so that more time would be 
+available for blood filling gledhill et al. 19947. 
+from an evolutionary perspective it would be relevant to study the effect of different training 
+programs when matched for total metabolic energy consumption per training session8. 
+although a large body of scientific work has been reported on the effect of vo2max on 
+training relatively few articles have compared the response of training when matched for total 
+metabolic energy or total work per session. interval it and continuous ct training of 
+various variants constitute a base of line of training regimes to improve physical fitness. the 
+vo2 associated with submaximal ct reflects mainly atp production from aerobic 
+mechanisms. oxidative processes predominate and are associated with lipid utilization little 
+anaerobic glycolysis utilization or creatine phosphate depletion. furthermore there is 
+predominant slow-twitch fiber recruitment with this type of exercise. with it exercise vo2 
+represents the addition of two terms vo2 during work and vo2 during recovery. for the 
+work periods the intensity is near 100 or higher and a large o2 deficit is manifest. this is 
+reflected by a high atp utilization from anaerobic mechanisms and consequently a high 
+muscle atp cp and myoglobin depletion and high lactate production. there is a partially 
+recovery of atp cp and myoglobin during recovery. lactate is removed during the rest 
+intervals via oxidation and glycogen synthesis in liver kidney heart and skeletal muscles. the 
+intensity work load in it results in a high rate of fast-twitch fiber recruitment. it may change 
+motor unit recruitment patterns and induce specific biochemical adaptations in fast-twitch 
+fibers. in general it is not known whether it or ct stimulates cardiac output and systemic 
+arteriovenous o2 difference differently. presumably a good measure for increased cardiac 
+output is increased stroke volume which should correlate with decreased resting heart rate. a 
+good measure for systemic arteriovenous o2 increase could be enhancement in the vo2 per  
+7 the stroke volume and its function of the utilization of vo2max or maximum heart rate is under intense 
+discussion. see also vella and roberts 2004. 
+8 we set that match by total work or match by total energy expenditure to be much the same. 
+comparing vo2max improvement  in five training methods                                              935  
+unit cardiac output. one would hypothesize that it with oscillations in vo2 throughout the 
+exercise and pause periods might better enhance the o2 kinetic response. 
+roskam 1967 studied the effect of ct and it training matched by total work. soldiers 
+cycled 5 times a week for 4 weeks for. the ct group was most effective in decreasing the 
+heart rate at rest and in the low and middle intensity. however the it group was more 
+effective in improving the maximum work performance. knuttgen et al. 1973 studied three 
+groups running 3 times per week for 8 weeks. the groups were somewhat matched for work 
+performance. one group performed strenuous exercise for 15 seconds and 15 seconds rest. a 
+second group performed 3 minute strenuous exercise and 3 minutes rest. the first group 
+increased the vo2max by a factor of 1.16 while the second group increased the vo2max by 
+a factor 1.26 after 8 weeks. fox et al. 1973 studied two groups that run for 7 weeks 3 times a 
+week. the groups were matched for work. the first group runs 50-200 meter fast pace sprint 
+while the second group runs 600-1200 meters at relatively slow pace running. the vo2max 
+increased by a factor of 1.09 for the first group and a factor of 1.05 for the second group. it 
+was concluded that muscular hypoxia per se is an important stimulus for the improvement of 
+maximal aerobic power. fox et al. 1977 studied two groups that ran 3 times a week for 8 
+weeks. the workouts for the high power group consisted of a maximum of 19 high intensity 
+runs at 30 seconds duration alternated with relief or recovery intervals long enough in 
+duration to allow the heart rate to return between 120 and 140 beatsmin. the workout for the 
+low intensity group consisted of a maximum of 7 lower intensity runs of 2-min duration with 
+rest relief intervals lasting until the heart rates returned to between 120 and 140 beats min. 
+the groups were matched for work. it was found that low power and high power output 
+interval training programs elicit similar changes in maximal aerobic and anaerobic 
+metabolism. eddy et al. 1977 studied subjects participating in a training program upon 
+bicycle ergometer for 7 weeks with training 4 days a week. the ct group trained at 70 
+vo2max and the it group trained at 100 vo2max for 1 minute and 1 minute rest. ct and 
+it training produced identical changes in heart rate response blood lactic acid concentration 
+and vo2max when the total work load was equated per training session. the ct group and 
+the it increased the vo2max with a factor 1.15 and 1.14 respectively. lesmes et al. 1978 
+studied groups that run it with different intensity 4 times a week for 8 weeks. one group runs 
+short distances at 50- 200 meters with an intensity of around 170 vo2max. the other group 
+runs distances of 600-1200 meters at intensity of 170. the high intensity group increased 
+the vo2max by a factor of 1.15 while the low intensity group increased the vo2max by a 
+factor of 1.20. gregory 1979 studied two groups that run 5 times a week for 6 weeks. the 
+training was matched for total work performance. the ct group runs at the heart rate of 162 
+while the it group runs 4 minutes and rests 4 minutes with heart rate 174. the ct group 
+increased the vo2 at a given pulse by a factor of 1.20 while the it group increased the vo2 
+with a factor 1.24. cunningham et al. 1979 designed a study on cycling to determine the 
+effect of ct and it programs on the cardiac q and the peripheral ca-cv response to 
+training. the total work was matched between the groups. cunningham et al. 1979 studied 
+two groups. the ct group cycled for an intensity of 70 of vo2max for 20 minutes 4 times 
+per week for 12 weeks. the it group cycled with an intensity of 90-100 of vo2max for 2 
+minutes with a 1 minute rest period. both groups demonstrated similar and significant 
+increase in ca-cv leading to an vo2max enhancement of around 20 but only a marginal  
+936                                                                                               j. f. moxnes and k. hausken 
+stroke volume enhancement. it was suggested that the cycling utilized a too small muscle 
+mass compared to jogging and may therefore place a lesser demand on the heart as a pump to 
+emphasize extraction of oxygen by the working muscles. fourier et al. 1982 compared 
+skeletal muscle adaption in sprint and endurance training. it was found that ci increased 
+vo2max glygolytic phosphofructokinase pfk oxidative succinate dehydrogenase sdh 
+st and ft muscle fiber area. sprint training only results in significant enhanced pfk. 
+thomas et al. 1984 found that interval training may benefit aerobic capacity more than 
+continuos running in young adults who have moderately high initial fitness level. they in 
+particular studied continuous 4 miles running at 75 of maximum heart rate and 8 sets of 1 
+minute running and 3 minutes walking with 90 of maximum heart rate in the running 
+period. the energy consumption was around 500 kcal per session. the enhancement in 
+vo2max after three sessions per week in 12 weeks was 6.9 for continuous running and 
+10.3 for the interval training. poole and gaesser 1985 found that for the group training 
+continuously for 55 minutes at 50 of vo2max 3 days a week the vo2max increased by 
+15 after 8 weeks. the group training continuously for 35 minutes at 75 increased the 
+vo2max by 20. the group training interval 2 minutes at 105 vo2max with 2 minutes 
+rest walking10 repetitions increased the vo2max by 15 mxxhave number for 4 weeks 
+also 1.17 1.12 1.16. the groups were matched for work performance. gorostiaga et al. 
+1991 studied two groups. one group cycled continuously for 50 of vo2max 20 minutes 3 
+days a week for 8 weeks. the group that trained interval trained 30 seconds at 100 
+vo2max and 30 seconds rest for 20 minutes. the increase in vo2max was 7 and 11 
+respectively. overend et al. 1992 investigated the change in vo2max during 10 weeks 4 
+times a week of training on cycle ergometer. the group performing continuous cycling for 40 
+minutes at 80 of vo2max increased the vo2max by 8. the group performing interval 
+training in 3 minutes at 100 vo2max and 2 minutes at 50 vo2 max increased the 
+vo2max by 9. the other group performing interval training for 30 seconds at 120 
+vo2max and 30 seconds at 40 vo2max increased the vo2max by 17. all the groups 
+were matched for work. edge et al. 2005 compared ci and it training. the ci performed 
+20-30 minutes at vo2max of 80-05. the it performed sprints at 120-140 vo2max for 2 
+minutes. the groups trained 3 times a week for 5 weeks. the vo2max increased with around 
+11 for the it group and around 9 for the ci group. 
+all together the results in the literature are somewhat conflicting with regards to the effect of 
+it or ct training on vo2max. intensity and quantity of work performed during the training 
+program appeared to be more important than any differences in trainingtype protocol. 
+vo2max increases with intensity when holding work constant burke and franks 1975 and 
+with time holding intensity constant milesis et al. 1976. for a review see wenger and bell 
+1986. it becomes appropriate to quantify training load tl for work and intensity. to 
+quantify tl for work and intensity different methods have been used. for endurance the 
+concepts for quantifying the training load has been the training impulse trimp banister et 
+al. 1975 banister et al. 1984 morton et al. 1990 taha and thomas 2003. trimp is the 
+cumulated exercise duration multiplied with a weight function that depends on the heart rate 
+vo2 or the lactate level see section 3 for further discussion. the model has been used in 
+running morton et al. 1990 cycling busso et al. 1991 busso et al. 1997 swimming 
+banister et al. 1975 weight lifting busso et al. 1994 and triathlon millet et al. 2002. 
+comparing vo2max improvement  in five training methods                                              937  
+1.2 this papers contribution 
+this paper uses a fitness function that synthesizes all positive effects causing increased 
+performance and a fatigue function that synthesizes all negative effects causing fatigue 
+moxnes and hausken 2008. banister et al. 1975 define performance as fitness minus 
+fatigue whereas this paper defines performance as fitness multiplied with an exponential 
+decay function that accounts for fatigue. during exercise fatigue increases more than fitness 
+and performance decrease. after exercise during the recovery fatigue decreases faster than 
+fitness and performance increase and reaches a higher level than before exercise. if a new 
+exercise occurs before complete recovery from the preceding one the negative effect due to 
+fatigue would be amplified and the recovery time needed would be longer than if there was a 
+longer gap between exercise sessions. this paper considers exercise induced muscle damage 
+as one possible realistic variable descriptive of fatigue. analogously we consider muscle 
+fitness to account for fitness. but this includes the heart muscle which provides a link so that 
+the paper models maximum stroke volume of the heart as performance. we compare 
+helgerud et al.s 2007 experimental study of four training methods together with a fifth 
+training method presented in this paper against moxnes and hauskens 2008 theoretical 
+model for athletic performance fitness and fatigue. an athletes training impulse trimp is 
+developed and used in the analysis. the trimp intensity which is defined as the trimp per 
+unit time equals the aerobic utilization multiplied with a weight function which scales the 
+importance of stroke volume utilization. the analysis implies developing a weight function 
+for stroke volume enhancement which is compared with banister et al.s 19851986 
+exponential weight function. 
+section 2 presents helgerud et al.s 2007 four training methods and a fifth training method. 
+section 3 determines energy consumption and training impulse. section 4 conducts an 
+empirical study of helgerud et al.s 2007 four training methods using heart rate monitors. 
+section 5 develops a mathematical model of performance maximum stroke volume. section 
+6 simulates the model. section 7 simulates alternative training methods. section 8 concludes. 
+2 the five training methods 
+helgerud et al. 2007 analyzed the effect of four different training methods on vo2max and 
+stroke volume. the four groups ran three sessions per week for eight weeks on a treadmill 
+with 5.3 upward incline. each session started with 10 min warmup at 60 of vo2max and 
+ended with three minutes of cooldown. each session comprised warmup exercise and 
+cooldown. 
+a long slow distance running lsd at 60 of vo2max for 45 min. hence warmup and 
+cooldown have the same vo2max percentage as the exercise. b lactate threshold running 
+lt at 80 of vo2max for 24.25 min. c 1515 interval training 1515 at 87.5 of 
+vo2max 47 times each period lasting 15 sec. exercise proceeded at 60 of vo2max during 
+the 46 rest periods each lasting 15 sec. d 4x4 min interval training 4x4 at 87.5 of  
+938                                                                                               j. f. moxnes and k. hausken 
+vo2max four times each period lasting 4 min. exercise proceeded at 60 of vo2max 
+during the rest periods each lasting three min.9 
+55 non-smoking and well trained male university students took part in the study. their mean 
+weight was 82 kg with vo2max 54 mlminkg before the study. this gives a maximum 
+aerobic power 
+m
+e 1500w10. before the study the participants trained 3 times per week. the 
+exercise regime for the groups was matched such that their total energy consumption 
+including warmup exercise rest periods and cooldown was equivalent in all sessions. this 
+gives 5.9 km running distance per session around for around 130 l oxygen. this gives around 
+130 x 1000 202.6 106 j622 kcal. 
+helgerud et al. 2007 found that the stroke volume decreased with 1 for lsd increased 
+with a factor 1.0093 for lt increased with a factor of 1.094 for 1515 and increased with a 
+factor 1.104 for 4x4 table 2 in helgerud et al. 2007. they found that vo2max decreased 
+with 0.6 for lsd and increased with 2.0 for lt 5.5 for 1515 and 7.2 for 4x4 table 
+1 in helgerud et al. 2007. all groups had improvement in the running economy mlmeter 
+kg0.75 that is 8 for lsd 12 for lt 8 for 1515 and 10 for 4x4. somewhat 
+surprisingly no changes were found in the lactate threshold for any of the groups.  
+this implies that 4x4 and 1515 increase vo2max but not that 4x4 and 1515 are optimal 
+training method in the sense maximum improvement in vo2max per session for a given 
+energy consumption per session. 
+3 determining energy consumption and training impulse 
+the energy consumption during a training session is defined by  
+def
+t
+t
+m
+t
+t
+m
+e u
+energy t
+e u du
+e
+du
+e
+3.1 
+where def means definition t0 is the start time t is the stop time and  
+e t  and em are 
+aerobic power rate of energy and maximum aerobic power respectively relating 
+proportionally to vo2 and vo2max. we define the ratio 
+e t em as the utilization of 
+maximum aerobic power referred to as aerobic utilization. this gives 
+9 the five training methods are described in terms of the percentage of vo2max and not in terms of the 
+percentage of maximal heart rate. 
+10 we set that 1ml o2 corresponds to 20 j. 
+comparing vo2max improvement  in five training methods                                              939  
+45 0.6
+2.5810
+10 0.6
+24.25 0.8
+3 0.6
+2.4910
+10 0.6
+47 0.25 0.87
+lsd
+m
+m
+m
+run
+lt
+m
+m
+m
+cooldown
+warmup
+run
+m
+warmup
+energy
+e
+x
+s
+e
+s
+j e
+w
+energy
+e
+x
+x
+x
+s
+e
+s
+j e
+w
+energy
+e
+x
+x
+x
+4 4
+46 0.25 0.6
+3 0.6
+2.4510
+10 0.6
+4 4 0.875
+3 3 0.6
+3 0.6
+2.4810
+m
+cooldown
+run
+cooldown
+m
+x
+m
+m
+cooldown
+warmup
+run
+cooldown
+x
+x
+x
+s
+e
+s
+j e
+w
+energy
+e
+x
+x x
+x x
+x
+s
+e
+s
+10 0.6
+22.27 0.875
+3 0.6
+2.4810
+m
+lqd
+m
+m
+cooldown
+warmup
+run
+m
+j e
+w
+energy
+e
+x
+x
+x
+s
+e
+s
+j e
+w
+3.2 
+multiplication with 60 is to convert to time in seconds. equation 3.2 also determines values 
+for a fifth hypothetical training method subscript lqd referred to as long quick distance 
+running where the participant runs at the same vo2max percentage as under 1515 and 44 
+that is 87.5 of vo2max but without rest periods. there is a warm up of 10 minutes and a 
+cool down of 3 minutes. such a training method is common for ambitious participants and is 
+easily performed by athletes during competition. the runner runs for 22.17 min chosen such 
+that the runner consumes the same energy as under 4x4. equation 3.2 implies 
+4 4
+0.97
+0.95
+0.96
+lt
+lsd
+lsd
+x
+lsd
+energy
+energy
+energy
+energy
+energy
+energy
+ 3.3  
+the four groups trained with different training stimuli per session defined with the common 
+trimp training impulse see moxnes and hausken 2008 and 

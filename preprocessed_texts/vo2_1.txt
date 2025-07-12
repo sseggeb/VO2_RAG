@@ -1,0 +1,91 @@
+vo2max trainability and high intensity interval training
+in humans a meta-analysis
+andrew p. bacon1 rickey e. carter2 eric a. ogle3 michael j. joyner1
+1 department of anesthesiology mayo clinic rochester minnesota united states of america 2 department of health sciences research division of biomedical statistics
+and informatics mayo clinic rochester minnesota united states of america 3 creighton university medical school omaha nebraska united states of america
+abstract
+endurance exercise training studies frequently show modest changes in vo2max with training and very limited responses in
+some subjects. by contrast studies using interval training it or combined it and continuous training ct have reported
+mean increases in vo2max of up to 1.0 l? min21. this raises questions about the role of exercise intensity and the
+trainability of vo2max. to address this topic we analyzed it and itct studies published in english from 19652012.
+inclusion criteria were 13 healthy sedentaryrecreationally active humans 45 yrs old 2 training duration 613 weeks
+3 3 daysweek 4 10 minutes of high intensity work 5 11 workrest ratio and 6 results reported as mean 6 sd or
+se ranges of change or individual data. due to heterogeneity i2 value of 70 statistical synthesis of the data used a random
+effects model. the summary statistic of interest was the change in vo2max. a total of 334 subjects 120 women from 37
+studies were identified. participants were grouped into 40 distinct training groups so the unit of analysis was 40 rather than
+37. an increase in vo2max of 0.51 l?min21 95 ci 0.43 to 0.60 l? min21 was observed. a subset of 9 studies with 72
+subjects that featured longer intervals showed even larger 0.80.9 l? min21 changes in vo2max with evidence of a
+marked response in all subjects. these results suggest that ideas about trainability and vo2max should be further evaluated
+with standardized it or itct training programs.
+citation bacon ap carter re ogle ea joyner mj 2013 vo2max trainability and high intensity interval training in humans a meta-analysis. plos one 89
+e73182. doi10.1371journal.pone.0073182
+editor conrad p. earnest university of bath united kingdom
+received april 15 2013 accepted july 18 2013 published september 16 2013
+copyright  2013 bacon et al. this is an open-access article distributed under the terms of the creative commons attribution license which permits
+unrestricted use distribution and reproduction in any medium provided the original author and source are credited.
+funding this publication was partially supported by grant number ul1 tr000135 from the national center for advancing translational sciences ncats the
+mayo foundation and caywood professorship to mjj. the funders had no role in study design data collection and analysis decision to publish or preparation of
+the manuscript.
+competing interests the authors have declared that no competing interests exist.
+ e-mail joyner.michaelmayo.edu
+introduction
+the benefits of an active lifestyle are well documented 13.
+many of these benefits are also associated with higher levels of
+cardiorespiratory fitness vo2max which may exert protective
+effects that are independent of traditional risk factors 34.
+additionally for individuals with low physical fitness even modest
+improvements in fitness can have substantial health benefits.
+however some individuals may have a limited ability to increase
+their cardiorespiratory fitness trainability in response to endur-
+ance exercise training 56.
+a key study advancing the idea that some humans have limited
+trainability comes from bouchard et al. studied 483 sedentary
+white adults from 99 nuclear families who completed a standard-
+ized 20-wk endurance training program 56. the subjects trained
+three times per week on a treadmill. initially they trained at a
+heart rate that correlated to 55 of their baseline vo2max for
+30 minutes per session. every two weeks the intensity and duration
+of the exercise was progressively increased until each subject was
+training for 50 minutes at a heart rate associated with 75 of their
+baseline vo2max. this level of intensity and duration was reached
+by the 14th week of training and maintained until the conclusion
+of the study. using this approach they found a mean increase in
+vo2max of 0.4 l? min21 with a sd of.0.2 lmin.
+additionally 7 of subjects showed a gain of 0.1 l? min21 or
+less while 8 of subjects improved by 0.7 l? min21 or more.
+based on this distribution of vo2max responses it appears that
+the trainability of at least some subjects is low or non-existent
+with little or no improvement in cardiorespiratory fitness in spite of
+20 weeks of structured exercise training 56. these observations
+are in contrast to reports from smaller studies that have used either
+interval training it or interval training in combination with
+continuous training ct and shown more robust increases in
+vo2max with at least some evidence of marked responses in all
+subjects 715.
+in this context we sought to explore the hypothesis that all
+subjects can show marked improvements in vo2max if training
+programs that include periods of high intensity 90 of
+vo2max exercise are used. a fundamental rationale underpin-
+ning our analysis is that the biology of vo2max trainability needs
+to be evaluated using regimens designed to maximize physiological
+adaptations. to test this hypothesis we evaluated the changes in
+vo2max in response to interval training it or combined it and
+continuous training ct reported in 37 studies 743. we also
+sought to gain insight into the idea that shorter periods of it might
+be either superior or more time efficient at generating increases in
+vo2max in comparison to traditional continuous training.
+plos one  
+september 2013  volume 8  issue 9  e73182
+methods
+study eligibility criteria and literature search
+a search of pubmed was developed and conducted by a
+reference librarian looking for english language studies occurring
+between the years of 19682010 using the following search terms
+interval training vo2max interval exercise  highlow intensity
+maximum o2 maximummaximal vo2 maximal oxygen con-
+sumption peak oxygen uptake maximal aerobic capacity and the
+following limits humans english. the primary author of each
+eligible study was searched for in pubmed using the authors name
+and the search term exercise. searches were also run on other
+authors known by the investigators to have published papers that
+used a combination of interval and continuous training. the
