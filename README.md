@@ -1,4 +1,4 @@
-# RAG system example
+# Simple RAG system example
 This project is a simple example of the process involved in creating a Retrieval Augmented Generation system.  This project specifically uses 3 scientific research papers that are on the topic of VO2 max.  I'm only using three papers on a narrow topic to keep the project small.  In production we would want a much larger volume of documents to improve the LLMs responses. 
 
 ## PDF_to_text.ipynb
